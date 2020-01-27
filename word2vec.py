@@ -5,7 +5,7 @@ from keras.preprocessing.sequence import skipgrams
 from keras.preprocessing import sequence
 
 import urllib
-import urllib.request
+# import urllib.request
 import collections
 import os
 import zipfile
@@ -16,7 +16,8 @@ import tensorflow as tf
 def maybe_download(filename, url, expected_bytes):
     """Download a file if not present, and make sure it's the right size."""
     if not os.path.exists(filename):
-        filename, _ = urllib.request.urlretrieve(url + filename, filename)
+        #filename, _ = urllib.request.urlretrieve(url + filename, filename)
+        filename, _ = urllib.urlretrieve(url + filename, filename)
     statinfo = os.stat(filename)
     if statinfo.st_size == expected_bytes:
         print('Found and verified', filename)
@@ -103,7 +104,7 @@ input_context = Input((1,))
 
 embedding = Embedding(vocab_size, vector_dim, input_length=1, name='embedding')
 target = embedding(input_target)
-target = Reshape((vector_dim, 1))(target)reverse_dictionary[5234]
+target = Reshape((vector_dim, 1))(target)
 context = embedding(input_context)
 context = Reshape((vector_dim, 1))(context)
 
@@ -130,7 +131,7 @@ dot_product = Reshape((1,))(dot_product)
 # add the sigmoid output layer
 output = Dense(1, activation='sigmoid')(dot_product)
 # create the primary training model
-model = Model(input=[input_target, inpreverse_dictionary[5234]reverse_dictionary[5234]ut_context], output=output)
+model = Model(input=[input_target, input_context], output=output)
 model.compile(loss='binary_crossentropy', optimizer='rmsprop')
 
 # create a secondary validation model to run our similarity checks during training
@@ -145,7 +146,7 @@ class SimilarityCallback:
             nearest = (-sim).argsort()[1:top_k + 1]
             log_str = 'Nearest to %s:' % valid_word
             for k in range(top_k):
-                close_word = reverse_reverse_dictionary[5234]dictionary[nearest[k]]
+                close_word = reverse_dictionary[nearest[k]]
                 log_str = '%s %s,' % (log_str, close_word)
             print(log_str)
 
@@ -162,7 +163,7 @@ class SimilarityCallback:
         return sim
 sim_cb = SimilarityCallback()
 
-data[:10]arr_1 = np.zeros((1,))
+arr_1 = np.zeros((1,))
 arr_2 = np.zeros((1,))
 arr_3 = np.zeros((1,))
 for cnt in range(epochs):
