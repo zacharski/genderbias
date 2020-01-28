@@ -1,0 +1,3500 @@
+('Found and verified', 'text8.zip')
+['anarchism', 'originated', 'as', 'a', 'term', 'of', 'abuse']
+[5239, 3084, 12, 6, 195, 2, 3137]
+([[1296, 4070], [1532, 684], [1635, 8291], [129, 24], [3168, 1], [738, 1], [6433, 2281], [6, 4326], [136, 43], [495, 4717]], [0, 1, 0, 1, 1, 1, 0, 1, 1, 0])
+Iteration 0, loss=0.688763976097
+Nearest to from: diminished, faces, ft, won, rivals, continental, gradually, aging,
+Nearest to new: naked, segment, chapters, jeremiah, specifications, lab, buy, bass,
+Nearest to be: u, annual, provisions, synthesized, makes, specific, inaugurated, drew,
+Nearest to their: add, wisdom, under, neil, bottom, shopping, baptized, mexican,
+Nearest to have: reliable, blacks, controller, applications, poland, utilized, shelley, singer,
+Nearest to the: infected, egyptians, union, volcano, comprised, discovering, truth, democracy,
+Nearest to people: benzene, turns, outbreak, interface, concepts, initial, marker, brothers,
+Nearest to many: followed, instruction, lincoln, friedman, epic, shooter, modeling, giuseppe,
+Nearest to UNK: mars, ipcc, contracts, disaster, charlton, leaves, formulation, insurance,
+Nearest to s: zone, worn, via, thread, forcing, sort, thanks, noble,
+Nearest to one: guarantee, capabilities, meetings, enterprise, information, seriously, weekend, approximate,
+Nearest to than: eligible, prose, solid, adding, ivoire, ai, chronology, dial,
+Nearest to used: janet, duchy, governors, bone, marking, participation, child, chapter,
+Nearest to to: divides, archaeology, ultra, fired, angola, latitude, expertise, boundaries,
+Nearest to over: views, wedding, robot, producing, believers, manned, cgi, plates,
+Nearest to known: ness, illegal, customer, artillery, magazine, ultra, another, dos,
+Iteration 100, loss=0.697200834751
+Iteration 200, loss=0.699407279491
+Iteration 300, loss=0.672188460827
+Iteration 400, loss=0.704566836357
+Iteration 500, loss=0.675849616528
+Iteration 600, loss=0.692555963993
+Iteration 700, loss=0.67855989933
+Iteration 800, loss=0.709860086441
+Iteration 900, loss=0.674753844738
+Iteration 1000, loss=0.688348591328
+Iteration 1100, loss=0.71457016468
+Iteration 1200, loss=0.705705881119
+Iteration 1300, loss=0.694357156754
+Iteration 1400, loss=0.684256911278
+Iteration 1500, loss=0.701942563057
+Iteration 1600, loss=0.701062858105
+Iteration 1700, loss=0.682097434998
+Iteration 1800, loss=0.687037587166
+Iteration 1900, loss=0.690698623657
+Iteration 2000, loss=0.810477018356
+Iteration 2100, loss=0.701023757458
+Iteration 2200, loss=0.700421750546
+Iteration 2300, loss=0.702691316605
+Iteration 2400, loss=0.674411475658
+Iteration 2500, loss=0.675527095795
+Iteration 2600, loss=0.716104149818
+Iteration 2700, loss=0.656522452831
+Iteration 2800, loss=0.722932100296
+Iteration 2900, loss=0.715159833431
+Iteration 3000, loss=0.661269187927
+Iteration 3100, loss=0.728523910046
+Iteration 3200, loss=0.72125685215
+Iteration 3300, loss=0.722207665443
+Iteration 3400, loss=0.670740902424
+Iteration 3500, loss=0.673258304596
+Iteration 3600, loss=0.718245208263
+Iteration 3700, loss=0.671932697296
+Iteration 3800, loss=0.657830417156
+Iteration 3900, loss=0.732702314854
+Iteration 4000, loss=0.662452995777
+Iteration 4100, loss=0.717301309109
+Iteration 4200, loss=0.668386518955
+Iteration 4300, loss=0.733947455883
+Iteration 4400, loss=0.723942279816
+Iteration 4500, loss=0.723713040352
+Iteration 4600, loss=0.713692605495
+Iteration 4700, loss=0.720668673515
+Iteration 4800, loss=0.71897816658
+Iteration 4900, loss=0.682223916054
+Iteration 5000, loss=0.703782498837
+Iteration 5100, loss=0.696856439114
+Iteration 5200, loss=0.69300287962
+Iteration 5300, loss=0.689220011234
+Iteration 5400, loss=0.70812189579
+Iteration 5500, loss=0.689538180828
+Iteration 5600, loss=0.683160722256
+Iteration 5700, loss=0.697954297066
+Iteration 5800, loss=0.684062302113
+Iteration 5900, loss=0.686035752296
+Iteration 6000, loss=0.68416428566
+Iteration 6100, loss=0.685373187065
+Iteration 6200, loss=0.718097805977
+Iteration 6300, loss=0.711913108826
+Iteration 6400, loss=0.67834430933
+Iteration 6500, loss=0.706233739853
+Iteration 6600, loss=0.673842787743
+Iteration 6700, loss=0.685397803783
+Iteration 6800, loss=0.700873970985
+Iteration 6900, loss=0.678170025349
+Iteration 7000, loss=0.68030834198
+Iteration 7100, loss=0.69346755743
+Iteration 7200, loss=0.688586294651
+Iteration 7300, loss=0.702050030231
+Iteration 7400, loss=0.679117023945
+Iteration 7500, loss=0.678525447845
+Iteration 7600, loss=0.68838351965
+Iteration 7700, loss=0.690114319324
+Iteration 7800, loss=0.697668731213
+Iteration 7900, loss=0.687054038048
+Iteration 8000, loss=0.686717808247
+Iteration 8100, loss=0.691208541393
+Iteration 8200, loss=0.707021415234
+Iteration 8300, loss=0.675883948803
+Iteration 8400, loss=0.703968882561
+Iteration 8500, loss=0.686164736748
+Iteration 8600, loss=0.707359910011
+Iteration 8700, loss=0.693682789803
+Iteration 8800, loss=0.697207033634
+Iteration 8900, loss=0.71241080761
+Iteration 9000, loss=0.699939668179
+Iteration 9100, loss=0.679689764977
+Iteration 9200, loss=0.690881311893
+Iteration 9300, loss=0.687395453453
+Iteration 9400, loss=0.689378678799
+Iteration 9500, loss=0.695829927921
+Iteration 9600, loss=0.682697117329
+Iteration 9700, loss=0.649813294411
+Iteration 9800, loss=0.667839288712
+Iteration 9900, loss=0.666846990585
+Iteration 10000, loss=0.699125230312
+Nearest to from: ft, lowercase, relief, spectrum, trek, diminished, rivals, mph,
+Nearest to new: details, naked, jeremiah, segment, augustine, chapters, bass, specifications,
+Nearest to be: wu, provisions, synthesized, justice, worship, catcher, u, inaugurated,
+Nearest to their: add, limitations, neil, wisdom, whales, mexican, constructed, asia,
+Nearest to have: controller, blacks, cole, simplest, stretch, shelley, walker, drinks,
+Nearest to the: duchy, lateral, wealthy, wrestler, volcano, referred, stories, get,
+Nearest to people: turns, benzene, marines, tracking, stores, awareness, waiting, practice,
+Nearest to many: maintained, instruction, fda, famously, followed, modeling, includes, epic,
+Nearest to UNK: mars, ipcc, contracts, disaster, charlton, addressing, immense, meta,
+Nearest to s: wedding, complex, legislature, sort, choice, count, compared, assembly,
+Nearest to one: persecution, reliable, chaos, cowboys, identical, solo, stan, databases,
+Nearest to than: chronology, ivoire, ai, eligible, occasion, adding, divide, solid,
+Nearest to used: janet, bone, governors, extant, participation, subsidiary, defend, drake,
+Nearest to to: bees, old, play, learn, note, mtv, hunting, attempting,
+Nearest to over: views, fish, eighth, ongoing, commodore, robot, televisions, mu,
+Nearest to known: painting, circle, devastating, scottish, ness, customer, suggest, convince,
+Iteration 10100, loss=0.70393127203
+Iteration 10200, loss=0.675670802593
+Iteration 10300, loss=0.67293548584
+Iteration 10400, loss=0.683589160442
+Iteration 10500, loss=0.674927473068
+Iteration 10600, loss=0.681746721268
+Iteration 10700, loss=0.719032227993
+Iteration 10800, loss=0.708501279354
+Iteration 10900, loss=0.680821061134
+Iteration 11000, loss=0.688311874866
+Iteration 11100, loss=0.707859277725
+Iteration 11200, loss=0.705601632595
+Iteration 11300, loss=0.684917628765
+Iteration 11400, loss=0.709295749664
+Iteration 11500, loss=0.716132879257
+Iteration 11600, loss=0.703425884247
+Iteration 11700, loss=0.709343850613
+Iteration 11800, loss=0.696199655533
+Iteration 11900, loss=0.703491449356
+Iteration 12000, loss=0.686696410179
+Iteration 12100, loss=0.676441788673
+Iteration 12200, loss=0.695810198784
+Iteration 12300, loss=0.674475610256
+Iteration 12400, loss=0.676917493343
+Iteration 12500, loss=0.70131033659
+Iteration 12600, loss=0.697875916958
+Iteration 12700, loss=0.695119857788
+Iteration 12800, loss=0.679519236088
+Iteration 12900, loss=0.691882073879
+Iteration 13000, loss=0.69788813591
+Iteration 13100, loss=0.678929805756
+Iteration 13200, loss=0.675062179565
+Iteration 13300, loss=0.684073030949
+Iteration 13400, loss=0.675586402416
+Iteration 13500, loss=0.705965042114
+Iteration 13600, loss=0.702883660793
+Iteration 13700, loss=0.694799602032
+Iteration 13800, loss=0.682253301144
+Iteration 13900, loss=0.688125729561
+Iteration 14000, loss=0.68978279829
+Iteration 14100, loss=0.697693884373
+Iteration 14200, loss=0.700852930546
+Iteration 14300, loss=0.691188335419
+Iteration 14400, loss=0.694055616856
+Iteration 14500, loss=0.699292063713
+Iteration 14600, loss=0.701754808426
+Iteration 14700, loss=0.693228006363
+Iteration 14800, loss=0.679315209389
+Iteration 14900, loss=0.680910766125
+Iteration 15000, loss=0.70520067215
+Iteration 15100, loss=0.699077129364
+Iteration 15200, loss=0.676070928574
+Iteration 15300, loss=0.69325876236
+Iteration 15400, loss=0.698294103146
+Iteration 15500, loss=0.686457931995
+Iteration 15600, loss=0.698883116245
+Iteration 15700, loss=0.689757108688
+Iteration 15800, loss=0.697110772133
+Iteration 15900, loss=0.69258749485
+Iteration 16000, loss=0.704725980759
+Iteration 16100, loss=0.689900279045
+Iteration 16200, loss=0.691337287426
+Iteration 16300, loss=0.698282361031
+Iteration 16400, loss=0.697296142578
+Iteration 16500, loss=0.694906592369
+Iteration 16600, loss=0.694434821606
+Iteration 16700, loss=0.697119832039
+Iteration 16800, loss=0.702680528164
+Iteration 16900, loss=0.692985296249
+Iteration 17000, loss=0.697471261024
+Iteration 17100, loss=0.706772267818
+Iteration 17200, loss=0.704620361328
+Iteration 17300, loss=0.677476525307
+Iteration 17400, loss=0.704601287842
+Iteration 17500, loss=0.683922827244
+Iteration 17600, loss=0.670407414436
+Iteration 17700, loss=0.674395620823
+Iteration 17800, loss=0.68798917532
+Iteration 17900, loss=0.69608014822
+Iteration 18000, loss=0.696012914181
+Iteration 18100, loss=0.695211648941
+Iteration 18200, loss=0.69470334053
+Iteration 18300, loss=0.68761074543
+Iteration 18400, loss=0.710580527782
+Iteration 18500, loss=0.691308736801
+Iteration 18600, loss=0.700688004494
+Iteration 18700, loss=0.700152993202
+Iteration 18800, loss=0.677776813507
+Iteration 18900, loss=0.703189432621
+Iteration 19000, loss=0.688799023628
+Iteration 19100, loss=0.693075239658
+Iteration 19200, loss=0.688856005669
+Iteration 19300, loss=0.733626127243
+Iteration 19400, loss=0.712301194668
+Iteration 19500, loss=0.676787674427
+Iteration 19600, loss=0.677222251892
+Iteration 19700, loss=0.68466335535
+Iteration 19800, loss=0.669902384281
+Iteration 19900, loss=0.683778703213
+Iteration 20000, loss=0.680815756321
+Nearest to from: congregation, glasgow, management, curious, ft, conjugation, enforce, lowercase,
+Nearest to new: naked, details, augustine, chapters, segment, challenge, bass, tested,
+Nearest to be: u, wu, worship, eric, provisions, synthesized, catcher, banking,
+Nearest to their: add, neil, mit, wisdom, pitcher, lesotho, whales, limitations,
+Nearest to have: simplest, shelley, controller, festivals, reliable, walker, blacks, burnt,
+Nearest to the: wealthy, delegates, finalist, hundreds, displaced, accurate, instruments, spacecraft,
+Nearest to people: regulatory, genius, turns, marines, texts, waiting, practice, injury,
+Nearest to many: maintained, instruction, includes, google, recover, modeling, fda, file,
+Nearest to UNK: mars, ipcc, contracts, disaster, charlton, addressing, stars, leaves,
+Nearest to s: thread, reef, wedding, eat, voters, hypnosis, baby, universidad,
+Nearest to one: synod, electrons, statutes, cat, heroes, bombs, hamlet, architectural,
+Nearest to than: ivoire, prose, truly, chronology, procedures, slopes, georgian, rubber,
+Nearest to used: janet, defend, participation, extant, geometric, marking, bone, summary,
+Nearest to to: auto, trek, local, circles, ivoire, skills, geoffrey, mtv,
+Nearest to over: fish, eighth, incorporating, views, purchase, wayne, ongoing, cocoa,
+Nearest to known: chromosome, changing, painting, suggest, devastating, customer, magazine, clan,
+Iteration 20100, loss=0.681440114975
+Iteration 20200, loss=0.70764452219
+Iteration 20300, loss=0.692102968693
+Iteration 20400, loss=0.695105969906
+Iteration 20500, loss=0.690608084202
+Iteration 20600, loss=0.691427886486
+Iteration 20700, loss=0.695520222187
+Iteration 20800, loss=0.675458312035
+Iteration 20900, loss=0.696904420853
+Iteration 21000, loss=0.714665651321
+Iteration 21100, loss=0.721105992794
+Iteration 21200, loss=0.702518582344
+Iteration 21300, loss=0.700387775898
+Iteration 21400, loss=0.682265281677
+Iteration 21500, loss=0.703897595406
+Iteration 21600, loss=0.683486044407
+Iteration 21700, loss=0.710164964199
+Iteration 21800, loss=0.701655328274
+Iteration 21900, loss=0.681469321251
+Iteration 22000, loss=0.713202953339
+Iteration 22100, loss=0.715809941292
+Iteration 22200, loss=0.713468313217
+Iteration 22300, loss=0.687475442886
+Iteration 22400, loss=0.711626470089
+Iteration 22500, loss=0.707976639271
+Iteration 22600, loss=0.695561468601
+Iteration 22700, loss=0.706472337246
+Iteration 22800, loss=0.698601722717
+Iteration 22900, loss=0.702027499676
+Iteration 23000, loss=0.660564661026
+Iteration 23100, loss=0.701536595821
+Iteration 23200, loss=0.680693387985
+Iteration 23300, loss=0.68575334549
+Iteration 23400, loss=0.687302052975
+Iteration 23500, loss=0.682123422623
+Iteration 23600, loss=0.684310972691
+Iteration 23700, loss=0.688559532166
+Iteration 23800, loss=0.690036296844
+Iteration 23900, loss=0.682254433632
+Iteration 24000, loss=0.698849797249
+Iteration 24100, loss=0.688287615776
+Iteration 24200, loss=0.686878204346
+Iteration 24300, loss=0.706367254257
+Iteration 24400, loss=0.690993368626
+Iteration 24500, loss=0.696588635445
+Iteration 24600, loss=0.728542506695
+Iteration 24700, loss=0.702246665955
+Iteration 24800, loss=0.709692776203
+Iteration 24900, loss=0.682997405529
+Iteration 25000, loss=0.703759610653
+Iteration 25100, loss=0.684856235981
+Iteration 25200, loss=0.701720952988
+Iteration 25300, loss=0.691648542881
+Iteration 25400, loss=0.707045078278
+Iteration 25500, loss=0.690754890442
+Iteration 25600, loss=0.69978839159
+Iteration 25700, loss=0.69062680006
+Iteration 25800, loss=0.697806119919
+Iteration 25900, loss=0.684218406677
+Iteration 26000, loss=0.686352491379
+Iteration 26100, loss=0.685440540314
+Iteration 26200, loss=0.693556427956
+Iteration 26300, loss=0.696202516556
+Iteration 26400, loss=0.691397726536
+Iteration 26500, loss=0.696848571301
+Iteration 26600, loss=0.703148841858
+Iteration 26700, loss=0.693436384201
+Iteration 26800, loss=0.696502327919
+Iteration 26900, loss=0.637827038765
+Iteration 27000, loss=0.69398021698
+Iteration 27100, loss=0.704038918018
+Iteration 27200, loss=0.671837091446
+Iteration 27300, loss=0.701982915401
+Iteration 27400, loss=0.686639547348
+Iteration 27500, loss=0.680297493935
+Iteration 27600, loss=0.694269537926
+Iteration 27700, loss=0.682984888554
+Iteration 27800, loss=0.70671415329
+Iteration 27900, loss=0.690075337887
+Iteration 28000, loss=0.68968641758
+Iteration 28100, loss=0.688636064529
+Iteration 28200, loss=0.682576179504
+Iteration 28300, loss=0.68410629034
+Iteration 28400, loss=0.681171119213
+Iteration 28500, loss=0.703319251537
+Iteration 28600, loss=0.691001653671
+Iteration 28700, loss=0.680817961693
+Iteration 28800, loss=0.693607568741
+Iteration 28900, loss=0.709908246994
+Iteration 29000, loss=0.722213923931
+Iteration 29100, loss=0.656049370766
+Iteration 29200, loss=0.709030926228
+Iteration 29300, loss=0.676894426346
+Iteration 29400, loss=0.682911157608
+Iteration 29500, loss=0.694686591625
+Iteration 29600, loss=0.682491898537
+Iteration 29700, loss=0.702914834023
+Iteration 29800, loss=0.696718096733
+Iteration 29900, loss=0.692905128002
+Iteration 30000, loss=0.686386168003
+Nearest to from: formations, bombers, faces, spectrum, curious, drew, shortened, thirteen,
+Nearest to new: attending, difficulties, bass, count, parents, augustine, abstraction, chapters,
+Nearest to be: wu, worship, synthesized, provisions, whom, u, catcher, room,
+Nearest to their: add, humanitarian, calculator, wisdom, mythical, orleans, yahweh, lesotho,
+Nearest to have: shelley, common, simplest, controller, stretch, legitimate, utilized, classified,
+Nearest to the: conviction, delegates, cheese, galileo, hundreds, artist, merchants, arguably,
+Nearest to people: regulatory, turns, injury, brothers, implies, pronouns, genius, scripts,
+Nearest to many: maintained, bermuda, carved, modeling, bios, under, effects, attempted,
+Nearest to UNK: contracts, mars, disaster, ipcc, stars, addressing, charlton, immense,
+Nearest to s: wedding, unpaved, thread, exception, reef, baby, voters, universidad,
+Nearest to one: violin, leipzig, electrons, statutes, brought, computer, architectural, demonstrated,
+Nearest to than: ivoire, chronology, ai, bankruptcy, prose, procedures, ecuador, exhibit,
+Nearest to used: janet, summary, defend, extant, advance, cheers, tale, occupation,
+Nearest to to: ivoire, auto, geoffrey, receptor, chronicle, unicode, peripheral, pairs,
+Nearest to over: eighth, fish, wayne, incorporating, mu, enemy, administration, plates,
+Nearest to known: chromosome, changing, painting, suggest, quarterback, today, cuba, magazine,
+Iteration 30100, loss=0.680460810661
+Iteration 30200, loss=0.693426132202
+Iteration 30300, loss=0.708623111248
+Iteration 30400, loss=0.681296765804
+Iteration 30500, loss=0.660676538944
+Iteration 30600, loss=0.715495407581
+Iteration 30700, loss=0.670824229717
+Iteration 30800, loss=0.716881394386
+Iteration 30900, loss=0.682161092758
+Iteration 31000, loss=0.681437969208
+Iteration 31100, loss=0.681423068047
+Iteration 31200, loss=0.711948812008
+Iteration 31300, loss=0.679703235626
+Iteration 31400, loss=0.689459323883
+Iteration 31500, loss=0.710095703602
+Iteration 31600, loss=0.69459605217
+Iteration 31700, loss=0.686897277832
+Iteration 31800, loss=0.696981966496
+Iteration 31900, loss=0.68943965435
+Iteration 32000, loss=0.705248475075
+Iteration 32100, loss=0.685974836349
+Iteration 32200, loss=0.702073812485
+Iteration 32300, loss=0.687877595425
+Iteration 32400, loss=0.686845064163
+Iteration 32500, loss=0.698312044144
+Iteration 32600, loss=0.696850538254
+Iteration 32700, loss=0.711903214455
+Iteration 32800, loss=0.673836290836
+Iteration 32900, loss=0.678878307343
+Iteration 33000, loss=0.677518725395
+Iteration 33100, loss=0.688623130322
+Iteration 33200, loss=0.69900393486
+Iteration 33300, loss=0.700810074806
+Iteration 33400, loss=0.692370295525
+Iteration 33500, loss=0.705900788307
+Iteration 33600, loss=0.684121668339
+Iteration 33700, loss=0.681674003601
+Iteration 33800, loss=0.683488190174
+Iteration 33900, loss=0.710099756718
+Iteration 34000, loss=0.680136799812
+Iteration 34100, loss=0.708388030529
+Iteration 34200, loss=0.668340325356
+Iteration 34300, loss=0.67525023222
+Iteration 34400, loss=0.66911482811
+Iteration 34500, loss=0.722874879837
+Iteration 34600, loss=0.669247448444
+Iteration 34700, loss=0.668113410473
+Iteration 34800, loss=0.673536300659
+Iteration 34900, loss=0.723927915096
+Iteration 35000, loss=0.733802318573
+Iteration 35100, loss=0.725381374359
+Iteration 35200, loss=0.722027659416
+Iteration 35300, loss=0.655620276928
+Iteration 35400, loss=0.660257160664
+Iteration 35500, loss=0.653132379055
+Iteration 35600, loss=0.733348071575
+Iteration 35700, loss=0.658475399017
+Iteration 35800, loss=0.780532002449
+Iteration 35900, loss=0.659287571907
+Iteration 36000, loss=0.725974619389
+Iteration 36100, loss=0.648357987404
+Iteration 36200, loss=0.745466351509
+Iteration 36300, loss=0.660423338413
+Iteration 36400, loss=0.733935773373
+Iteration 36500, loss=0.661652863026
+Iteration 36600, loss=0.659178137779
+Iteration 36700, loss=0.661641955376
+Iteration 36800, loss=0.669944643974
+Iteration 36900, loss=0.646221399307
+Iteration 37000, loss=0.725738883018
+Iteration 37100, loss=0.707852900028
+Iteration 37200, loss=0.729452848434
+Iteration 37300, loss=0.723157644272
+Iteration 37400, loss=0.645009458065
+Iteration 37500, loss=0.656767725945
+Iteration 37600, loss=0.662905097008
+Iteration 37700, loss=0.655378699303
+Iteration 37800, loss=0.660228610039
+Iteration 37900, loss=0.670885682106
+Iteration 38000, loss=0.661842346191
+Iteration 38100, loss=0.732344031334
+Iteration 38200, loss=0.657141149044
+Iteration 38300, loss=0.712155461311
+Iteration 38400, loss=0.663506031036
+Iteration 38500, loss=0.678385674953
+Iteration 38600, loss=0.648685634136
+Iteration 38700, loss=0.663674533367
+Iteration 38800, loss=0.75255972147
+Iteration 38900, loss=0.737207949162
+Iteration 39000, loss=0.765656888485
+Iteration 39100, loss=0.713819146156
+Iteration 39200, loss=0.667128562927
+Iteration 39300, loss=0.748223602772
+Iteration 39400, loss=0.658707380295
+Iteration 39500, loss=0.663190603256
+Iteration 39600, loss=0.719402194023
+Iteration 39700, loss=0.757486462593
+Iteration 39800, loss=0.715925395489
+Iteration 39900, loss=0.719831705093
+Iteration 40000, loss=0.672102212906
+Nearest to from: management, organism, instability, bombers, for, alter, formations, gas,
+Nearest to new: attending, difficulties, bass, walking, archaeology, challenge, algebra, chapters,
+Nearest to be: seventeen, wu, synthesized, caliph, arises, eric, provisions, inaugurated,
+Nearest to their: add, humanitarian, calculator, wisdom, mythical, afl, filming, succeeded,
+Nearest to have: simplest, classified, utilized, shelley, stretch, foreigners, basically, edwin,
+Nearest to the: semantics, conviction, delegates, cheese, defunct, hundreds, called, interpret,
+Nearest to people: brothers, context, turns, implies, viii, injury, denial, regulatory,
+Nearest to many: maintained, they, bermuda, bios, carved, friedman, stock, effects,
+Nearest to UNK: contracts, mars, ipcc, addressing, jr, disaster, stars, immense,
+Nearest to s: percussion, voters, profit, marcus, universidad, unpaved, letter, phenomena,
+Nearest to one: zero, heroes, leipzig, morse, hazardous, sheep, buildings, referenced,
+Nearest to than: chronology, robin, prose, ivoire, advancement, turkic, exhibit, perspectives,
+Nearest to used: janet, clean, summary, defend, finnish, extant, device, path,
+Nearest to to: auto, experiences, ivoire, ku, geoffrey, rise, chronicle, bolsheviks,
+Nearest to over: babylonian, fish, petition, eighth, incorporating, all, tendencies, shrine,
+Nearest to known: painting, chromosome, lucid, changing, inaccurate, quarterback, jurisdictions, suggest,
+Iteration 40100, loss=0.664810061455
+Iteration 40200, loss=0.677296578884
+Iteration 40300, loss=0.733353734016
+Iteration 40400, loss=0.704272389412
+Iteration 40500, loss=0.681188702583
+Iteration 40600, loss=0.713636100292
+Iteration 40700, loss=0.672988295555
+Iteration 40800, loss=0.715381860733
+Iteration 40900, loss=0.676641762257
+Iteration 41000, loss=0.70042103529
+Iteration 41100, loss=0.684007525444
+Iteration 41200, loss=0.696444451809
+Iteration 41300, loss=0.686331033707
+Iteration 41400, loss=0.69688808918
+Iteration 41500, loss=0.674890041351
+Iteration 41600, loss=0.701563358307
+Iteration 41700, loss=0.714153766632
+Iteration 41800, loss=0.672461390495
+Iteration 41900, loss=0.697461605072
+Iteration 42000, loss=0.705152392387
+Iteration 42100, loss=0.686712801456
+Iteration 42200, loss=0.697210609913
+Iteration 42300, loss=0.692896604538
+Iteration 42400, loss=0.717408120632
+Iteration 42500, loss=0.723557412624
+Iteration 42600, loss=0.713223099709
+Iteration 42700, loss=0.689976096153
+Iteration 42800, loss=0.673135995865
+Iteration 42900, loss=0.687853991985
+Iteration 43000, loss=0.689436435699
+Iteration 43100, loss=0.668234527111
+Iteration 43200, loss=0.682938337326
+Iteration 43300, loss=0.700252234936
+Iteration 43400, loss=0.676369130611
+Iteration 43500, loss=0.69734787941
+Iteration 43600, loss=0.68794387579
+Iteration 43700, loss=0.677498877048
+Iteration 43800, loss=0.682388007641
+Iteration 43900, loss=0.712215781212
+Iteration 44000, loss=0.708679258823
+Iteration 44100, loss=0.664355754852
+Iteration 44200, loss=0.691803872585
+Iteration 44300, loss=0.684033989906
+Iteration 44400, loss=0.679717957973
+Iteration 44500, loss=0.704972743988
+Iteration 44600, loss=0.699498176575
+Iteration 44700, loss=0.696239888668
+Iteration 44800, loss=0.699642181396
+Iteration 44900, loss=0.682385206223
+Iteration 45000, loss=0.718750834465
+Iteration 45100, loss=0.647805809975
+Iteration 45200, loss=0.715006768703
+Iteration 45300, loss=0.667506337166
+Iteration 45400, loss=0.726491928101
+Iteration 45500, loss=0.741055727005
+Iteration 45600, loss=0.677534043789
+Iteration 45700, loss=0.666420698166
+Iteration 45800, loss=0.695415079594
+Iteration 45900, loss=0.685904800892
+Iteration 46000, loss=0.703470408916
+Iteration 46100, loss=0.678263247013
+Iteration 46200, loss=0.689099192619
+Iteration 46300, loss=0.698560535908
+Iteration 46400, loss=0.704601287842
+Iteration 46500, loss=0.730816602707
+Iteration 46600, loss=0.680566310883
+Iteration 46700, loss=0.683544039726
+Iteration 46800, loss=0.692017614841
+Iteration 46900, loss=0.697218120098
+Iteration 47000, loss=0.686784088612
+Iteration 47100, loss=0.694270431995
+Iteration 47200, loss=0.686081886292
+Iteration 47300, loss=0.68152743578
+Iteration 47400, loss=0.689293324947
+Iteration 47500, loss=0.717743992805
+Iteration 47600, loss=0.663429796696
+Iteration 47700, loss=0.665353775024
+Iteration 47800, loss=0.678914368153
+Iteration 47900, loss=0.707201242447
+Iteration 48000, loss=0.61587023735
+Iteration 48100, loss=0.672617256641
+Iteration 48200, loss=0.682638406754
+Iteration 48300, loss=0.720943152905
+Iteration 48400, loss=0.68035453558
+Iteration 48500, loss=0.685318768024
+Iteration 48600, loss=0.66005897522
+Iteration 48700, loss=0.678879439831
+Iteration 48800, loss=0.688793718815
+Iteration 48900, loss=0.686596572399
+Iteration 49000, loss=0.713703036308
+Iteration 49100, loss=0.693102002144
+Iteration 49200, loss=0.67509663105
+Iteration 49300, loss=0.68878108263
+Iteration 49400, loss=0.675237298012
+Iteration 49500, loss=0.595948278904
+Iteration 49600, loss=0.506158232689
+Iteration 49700, loss=0.731111168861
+Iteration 49800, loss=0.661321043968
+Iteration 49900, loss=0.697571694851
+Iteration 50000, loss=0.693906664848
+Nearest to from: management, foot, organism, bombers, continent, curious, nordic, garden,
+Nearest to new: apollo, attending, algebra, bass, destroyed, walking, accepted, naked,
+Nearest to be: metropolis, seventeen, provisions, caliph, synthesized, room, arises, refusal,
+Nearest to their: humanitarian, add, succeeded, aliens, pick, yahweh, carbonate, substitution,
+Nearest to have: utilized, shelley, completely, singles, stretch, moreover, classified, isolation,
+Nearest to the: and, a, delegates, semantics, conviction, called, options, think,
+Nearest to people: brothers, elephants, viii, retained, touring, implies, scripts, regulatory,
+Nearest to many: maintained, november, tribes, also, studying, bermuda, athenian, ori,
+Nearest to UNK: contracts, ipcc, mars, meta, disaster, jr, addressing, immense,
+Nearest to s: letter, profit, seven, moments, percussion, convenient, km, voters,
+Nearest to one: computer, treat, leipzig, represent, heroes, statutes, theatre, gnosticism,
+Nearest to than: chronology, robin, circus, coin, perspectives, nehru, ivoire, exhibit,
+Nearest to used: janet, clean, summary, finnish, defend, extant, path, wings,
+Nearest to to: suppose, auto, geoffrey, cure, ivoire, landmark, absence, planes,
+Nearest to over: marriages, fish, babylonian, petition, noun, incorporating, all, shrine,
+Nearest to known: painting, changing, chromosome, inaccurate, lucid, customer, quarterback, ness,
+Iteration 50100, loss=0.70533156395
+Iteration 50200, loss=0.739923238754
+Iteration 50300, loss=0.700131773949
+Iteration 50400, loss=0.695770382881
+Iteration 50500, loss=0.700443327427
+Iteration 50600, loss=0.678725540638
+Iteration 50700, loss=0.707821428776
+Iteration 50800, loss=0.706439852715
+Iteration 50900, loss=0.682787299156
+Iteration 51000, loss=0.672791898251
+Iteration 51100, loss=0.671731829643
+Iteration 51200, loss=0.643775165081
+Iteration 51300, loss=0.678638696671
+Iteration 51400, loss=0.654061079025
+Iteration 51500, loss=0.665035367012
+Iteration 51600, loss=0.665325760841
+Iteration 51700, loss=0.694050073624
+Iteration 51800, loss=0.698526501656
+Iteration 51900, loss=0.690026462078
+Iteration 52000, loss=0.714042842388
+Iteration 52100, loss=0.676304161549
+Iteration 52200, loss=0.65043759346
+Iteration 52300, loss=0.706586062908
+Iteration 52400, loss=0.648922562599
+Iteration 52500, loss=0.698788642883
+Iteration 52600, loss=0.684672236443
+Iteration 52700, loss=0.674612522125
+Iteration 52800, loss=0.689005017281
+Iteration 52900, loss=0.683777749538
+Iteration 53000, loss=0.676723182201
+Iteration 53100, loss=0.711390912533
+Iteration 53200, loss=0.692974209785
+Iteration 53300, loss=0.585962116718
+Iteration 53400, loss=0.693499028683
+Iteration 53500, loss=0.701388299465
+Iteration 53600, loss=0.736614227295
+Iteration 53700, loss=0.678215324879
+Iteration 53800, loss=0.706074595451
+Iteration 53900, loss=0.678587913513
+Iteration 54000, loss=0.672185957432
+Iteration 54100, loss=0.677936434746
+Iteration 54200, loss=0.712740182877
+Iteration 54300, loss=0.67620909214
+Iteration 54400, loss=0.535131454468
+Iteration 54500, loss=0.708496451378
+Iteration 54600, loss=0.679861485958
+Iteration 54700, loss=0.719725549221
+Iteration 54800, loss=0.6915615201
+Iteration 54900, loss=0.695936381817
+Iteration 55000, loss=0.720794975758
+Iteration 55100, loss=0.700385451317
+Iteration 55200, loss=0.711189866066
+Iteration 55300, loss=0.689097285271
+Iteration 55400, loss=0.667179465294
+Iteration 55500, loss=0.715650081635
+Iteration 55600, loss=0.731140673161
+Iteration 55700, loss=0.646945297718
+Iteration 55800, loss=0.710819005966
+Iteration 55900, loss=0.669903159142
+Iteration 56000, loss=0.672508120537
+Iteration 56100, loss=0.7170560956
+Iteration 56200, loss=0.548570752144
+Iteration 56300, loss=0.72040450573
+Iteration 56400, loss=0.664259850979
+Iteration 56500, loss=0.680331647396
+Iteration 56600, loss=0.691760659218
+Iteration 56700, loss=0.739871621132
+Iteration 56800, loss=0.66687899828
+Iteration 56900, loss=0.664976298809
+Iteration 57000, loss=0.677477240562
+Iteration 57100, loss=0.702221035957
+Iteration 57200, loss=0.676664531231
+Iteration 57300, loss=0.683005034924
+Iteration 57400, loss=0.677132248878
+Iteration 57500, loss=0.674524366856
+Iteration 57600, loss=0.683379411697
+Iteration 57700, loss=0.697686910629
+Iteration 57800, loss=0.699753403664
+Iteration 57900, loss=0.677844464779
+Iteration 58000, loss=0.704026043415
+Iteration 58100, loss=0.681724846363
+Iteration 58200, loss=0.677565455437
+Iteration 58300, loss=0.701553881168
+Iteration 58400, loss=0.715506732464
+Iteration 58500, loss=0.727303564548
+Iteration 58600, loss=0.706605255604
+Iteration 58700, loss=0.699031174183
+Iteration 58800, loss=0.760302066803
+Iteration 58900, loss=0.68661659956
+Iteration 59000, loss=0.724593341351
+Iteration 59100, loss=0.722540855408
+Iteration 59200, loss=0.717480003834
+Iteration 59300, loss=0.706448614597
+Iteration 59400, loss=0.681020140648
+Iteration 59500, loss=0.681404948235
+Iteration 59600, loss=0.673558354378
+Iteration 59700, loss=0.736288905144
+Iteration 59800, loss=0.710131525993
+Iteration 59900, loss=0.492233157158
+Iteration 60000, loss=0.647629141808
+Nearest to from: way, foot, bombers, nordic, continent, management, edges, province,
+Nearest to new: attending, apollo, augustine, naked, accepted, playing, borges, beers,
+Nearest to be: metropolis, seventeen, provisions, caliph, synthesized, continent, room, worship,
+Nearest to their: humanitarian, add, athena, carbonate, yahweh, succeeded, assistant, wished,
+Nearest to have: longitude, utilized, remote, basically, moreover, legitimate, singles, completely,
+Nearest to the: a, and, scattered, semantics, or, connecting, options, conviction,
+Nearest to people: brothers, elephants, tool, viii, inclusion, scripts, injury, marines,
+Nearest to many: maintained, damaged, athenian, also, tribes, november, studying, ori,
+Nearest to UNK: contracts, ipcc, mars, meta, jr, immense, disaster, investigated,
+Nearest to s: letter, profit, columbus, antioch, zero, risks, ddr, ralph,
+Nearest to one: working, treat, statutes, represent, constitution, shooting, computer, heroes,
+Nearest to than: chronology, circus, nehru, robin, procedures, andr, read, not,
+Nearest to used: dances, janet, clean, summary, finnish, defend, extant, propelled,
+Nearest to to: sparked, ron, byte, conditioning, hoped, muhammad, import, auto,
+Nearest to over: fish, petition, marriages, babylonian, submarines, noun, wedding, immediate,
+Nearest to known: painting, changing, inaccurate, chromosome, customer, jurisdictions, lucid, quarterback,
+Iteration 60100, loss=0.664078295231
+Iteration 60200, loss=0.630563259125
+Iteration 60300, loss=0.635158360004
+Iteration 60400, loss=0.667730808258
+Iteration 60500, loss=0.748551368713
+Iteration 60600, loss=0.708473026752
+Iteration 60700, loss=0.659804463387
+Iteration 60800, loss=0.706609964371
+Iteration 60900, loss=0.734308123589
+Iteration 61000, loss=0.711486816406
+Iteration 61100, loss=0.686198592186
+Iteration 61200, loss=0.667896807194
+Iteration 61300, loss=0.70297563076
+Iteration 61400, loss=0.702152729034
+Iteration 61500, loss=0.687647819519
+Iteration 61600, loss=0.665832459927
+Iteration 61700, loss=0.695771336555
+Iteration 61800, loss=0.677416145802
+Iteration 61900, loss=0.69751906395
+Iteration 62000, loss=0.659164786339
+Iteration 62100, loss=0.749556601048
+Iteration 62200, loss=0.697545826435
+Iteration 62300, loss=0.705989658833
+Iteration 62400, loss=0.678454220295
+Iteration 62500, loss=0.711874246597
+Iteration 62600, loss=0.685325860977
+Iteration 62700, loss=0.67625617981
+Iteration 62800, loss=0.658964157104
+Iteration 62900, loss=0.70373994112
+Iteration 63000, loss=0.696519553661
+Iteration 63100, loss=0.653663218021
+Iteration 63200, loss=0.668170392513
+Iteration 63300, loss=0.669212162495
+Iteration 63400, loss=0.673722267151
+Iteration 63500, loss=0.734437644482
+Iteration 63600, loss=0.688980996609
+Iteration 63700, loss=0.679620087147
+Iteration 63800, loss=0.681571900845
+Iteration 63900, loss=0.694318532944
+Iteration 64000, loss=0.686255693436
+Iteration 64100, loss=0.662720143795
+Iteration 64200, loss=0.654399991035
+Iteration 64300, loss=0.649096131325
+Iteration 64400, loss=0.671537935734
+Iteration 64500, loss=0.754929423332
+Iteration 64600, loss=0.490980386734
+Iteration 64700, loss=0.694230258465
+Iteration 64800, loss=0.721986651421
+Iteration 64900, loss=0.674627959728
+Iteration 65000, loss=0.734462916851
+Iteration 65100, loss=0.738307476044
+Iteration 65200, loss=0.698021173477
+Iteration 65300, loss=0.634329915047
+Iteration 65400, loss=0.681460916996
+Iteration 65500, loss=0.666025280952
+Iteration 65600, loss=0.68776935339
+Iteration 65700, loss=0.681640803814
+Iteration 65800, loss=0.712353825569
+Iteration 65900, loss=0.715059459209
+Iteration 66000, loss=0.649963021278
+Iteration 66100, loss=0.660543620586
+Iteration 66200, loss=0.682089924812
+Iteration 66300, loss=0.705425739288
+Iteration 66400, loss=0.736842215061
+Iteration 66500, loss=0.693241357803
+Iteration 66600, loss=0.727565526962
+Iteration 66700, loss=0.705904364586
+Iteration 66800, loss=0.674795269966
+Iteration 66900, loss=0.751872718334
+Iteration 67000, loss=0.65852189064
+Iteration 67100, loss=0.679134905338
+Iteration 67200, loss=0.713079571724
+Iteration 67300, loss=0.680351436138
+Iteration 67400, loss=0.65185713768
+Iteration 67500, loss=0.728365540504
+Iteration 67600, loss=0.635202586651
+Iteration 67700, loss=0.638932049274
+Iteration 67800, loss=0.6389798522
+Iteration 67900, loss=0.694260120392
+Iteration 68000, loss=0.622064113617
+Iteration 68100, loss=0.710097849369
+Iteration 68200, loss=0.478354334831
+Iteration 68300, loss=0.76619976759
+Iteration 68400, loss=0.719596803188
+Iteration 68500, loss=0.656955778599
+Iteration 68600, loss=0.676066815853
+Iteration 68700, loss=0.63543176651
+Iteration 68800, loss=0.656413733959
+Iteration 68900, loss=0.723643362522
+Iteration 69000, loss=0.680680096149
+Iteration 69100, loss=0.641372203827
+Iteration 69200, loss=0.637385547161
+Iteration 69300, loss=0.659363925457
+Iteration 69400, loss=0.660912692547
+Iteration 69500, loss=0.681976497173
+Iteration 69600, loss=0.695889472961
+Iteration 69700, loss=0.516443371773
+Iteration 69800, loss=0.671055078506
+Iteration 69900, loss=0.657322406769
+Iteration 70000, loss=0.693102121353
+Nearest to from: way, management, continent, ore, was, formations, system, edges,
+Nearest to new: apollo, beers, augustine, discussed, begins, exports, protocols, destroyed,
+Nearest to be: shooter, egg, metropolis, important, seventeen, anton, synthesized, infrastructure,
+Nearest to their: humanitarian, assistant, wished, add, eliminating, es, athena, the,
+Nearest to have: simplicity, legitimate, stretch, isolation, longitude, singles, utilized, ithaca,
+Nearest to the: and, a, scattered, or, of, hopkins, semantics, conviction,
+Nearest to people: rica, brothers, elephants, viii, injury, gradually, tool, marines,
+Nearest to many: maintained, damaged, november, ori, athenian, persecution, tribes, money,
+Nearest to UNK: ipcc, contracts, meta, mars, activist, jr, immense, oh,
+Nearest to s: profit, antioch, letter, zero, compared, universidad, gotham, columbus,
+Nearest to one: k, working, represent, treat, statutes, pupil, shooting, gnosticism,
+Nearest to than: beethoven, chronology, circus, robin, ivoire, read, andr, eligible,
+Nearest to used: dances, clean, janet, finnish, extant, ministry, sentenced, defend,
+Nearest to to: not, expressing, import, sparked, ron, geoffrey, muhammad, conditioning,
+Nearest to over: petition, fish, babylonian, marriages, all, specify, wizard, noun,
+Nearest to known: painting, changing, says, inaccurate, quarterback, jurisdictions, proceed, lucid,
+Iteration 70100, loss=0.681101441383
+Iteration 70200, loss=0.670083105564
+Iteration 70300, loss=0.66861385107
+Iteration 70400, loss=0.63661813736
+Iteration 70500, loss=0.689415454865
+Iteration 70600, loss=0.674731433392
+Iteration 70700, loss=0.725032627583
+Iteration 70800, loss=0.67258733511
+Iteration 70900, loss=0.682455539703
+Iteration 71000, loss=0.687965512276
+Iteration 71100, loss=0.688080728054
+Iteration 71200, loss=0.725547671318
+Iteration 71300, loss=0.656818032265
+Iteration 71400, loss=0.680968344212
+Iteration 71500, loss=0.707919418812
+Iteration 71600, loss=0.683110833168
+Iteration 71700, loss=0.67425340414
+Iteration 71800, loss=0.671734333038
+Iteration 71900, loss=0.71234279871
+Iteration 72000, loss=0.693032264709
+Iteration 72100, loss=0.704772293568
+Iteration 72200, loss=0.700033009052
+Iteration 72300, loss=0.705337941647
+Iteration 72400, loss=0.691878855228
+Iteration 72500, loss=0.707244217396
+Iteration 72600, loss=0.695217370987
+Iteration 72700, loss=0.695071518421
+Iteration 72800, loss=0.673178315163
+Iteration 72900, loss=0.606912374496
+Iteration 73000, loss=0.652852058411
+Iteration 73100, loss=0.707683622837
+Iteration 73200, loss=0.705539107323
+Iteration 73300, loss=0.712590456009
+Iteration 73400, loss=0.627688169479
+Iteration 73500, loss=0.701407849789
+Iteration 73600, loss=0.394666284323
+Iteration 73700, loss=0.671621739864
+Iteration 73800, loss=0.647824048996
+Iteration 73900, loss=0.687255620956
+Iteration 74000, loss=0.804307222366
+Iteration 74100, loss=0.595910191536
+Iteration 74200, loss=0.707302093506
+Iteration 74300, loss=0.714578390121
+Iteration 74400, loss=0.735910058022
+Iteration 74500, loss=0.740095376968
+Iteration 74600, loss=0.701966762543
+Iteration 74700, loss=0.498115688562
+Iteration 74800, loss=0.546538472176
+Iteration 74900, loss=0.582998752594
+Iteration 75000, loss=1.14549291134
+Iteration 75100, loss=0.684349834919
+Iteration 75200, loss=0.682434439659
+Iteration 75300, loss=0.691830992699
+Iteration 75400, loss=0.692826449871
+Iteration 75500, loss=0.660812437534
+Iteration 75600, loss=0.694750666618
+Iteration 75700, loss=0.699759066105
+Iteration 75800, loss=0.651954174042
+Iteration 75900, loss=0.766607522964
+Iteration 76000, loss=0.702419161797
+Iteration 76100, loss=0.644033551216
+Iteration 76200, loss=0.645885825157
+Iteration 76300, loss=0.626870155334
+Iteration 76400, loss=0.668932318687
+Iteration 76500, loss=0.739715635777
+Iteration 76600, loss=0.63812983036
+Iteration 76700, loss=0.660676300526
+Iteration 76800, loss=0.662304580212
+Iteration 76900, loss=0.699151873589
+Iteration 77000, loss=0.764542341232
+Iteration 77100, loss=0.675513148308
+Iteration 77200, loss=0.727208077908
+Iteration 77300, loss=0.691965997219
+Iteration 77400, loss=0.686690449715
+Iteration 77500, loss=0.657978594303
+Iteration 77600, loss=0.719867706299
+Iteration 77700, loss=0.69124263525
+Iteration 77800, loss=0.545156955719
+Iteration 77900, loss=0.723556697369
+Iteration 78000, loss=0.688639342785
+Iteration 78100, loss=0.725416064262
+Iteration 78200, loss=0.577440857887
+Iteration 78300, loss=0.684731006622
+Iteration 78400, loss=0.681600451469
+Iteration 78500, loss=0.703620433807
+Iteration 78600, loss=0.717901587486
+Iteration 78700, loss=0.689002037048
+Iteration 78800, loss=0.58453643322
+Iteration 78900, loss=0.695036947727
+Iteration 79000, loss=0.685163676739
+Iteration 79100, loss=0.737991571426
+Iteration 79200, loss=0.698707461357
+Iteration 79300, loss=0.68016242981
+Iteration 79400, loss=0.735611140728
+Iteration 79500, loss=0.682673633099
+Iteration 79600, loss=0.715863227844
+Iteration 79700, loss=0.576521217823
+Iteration 79800, loss=0.627309560776
+Iteration 79900, loss=0.683284461498
+Iteration 80000, loss=0.729062080383
+Nearest to from: way, ore, edges, formations, game, mutation, bombers, management,
+Nearest to new: psychological, gt, mus, apollo, exclusive, destroyed, protocols, remote,
+Nearest to be: shooter, important, egg, seventeen, sp, anton, infrastructure, synthesized,
+Nearest to their: humanitarian, wished, the, athena, assistant, tanks, june, es,
+Nearest to have: simplicity, legitimate, simplest, be, isolation, singles, longitude, utilized,
+Nearest to the: and, a, of, or, scattered, hopkins, semantics, in,
+Nearest to people: rica, brothers, elephants, injury, waiting, gradually, transition, mouse,
+Nearest to many: maintained, obligation, ori, damaged, tribes, dealer, persecution, november,
+Nearest to UNK: ipcc, contracts, meta, jr, marking, activist, mars, intentions,
+Nearest to s: profit, massachusetts, engaging, antioch, surrounding, catalan, letter, compared,
+Nearest to one: k, working, represent, chad, bank, treat, madagascar, statutes,
+Nearest to than: beethoven, chronology, circus, robin, ivoire, coin, del, eligible,
+Nearest to used: dances, clean, victoria, janet, cheers, wings, finnish, ministry,
+Nearest to to: of, not, import, sparked, a, geoffrey, rom, interested,
+Nearest to over: petition, marriages, fish, specify, babylonian, all, robot, relay,
+Nearest to known: painting, changing, equivalence, ness, proceed, inaccurate, says, official,
+Iteration 80100, loss=0.649237513542
+Iteration 80200, loss=0.703659176826
+Iteration 80300, loss=0.860977649689
+Iteration 80400, loss=0.72901237011
+Iteration 80500, loss=0.714005768299
+Iteration 80600, loss=0.702017068863
+Iteration 80700, loss=0.712878286839
+Iteration 80800, loss=0.686212658882
+Iteration 80900, loss=0.725334048271
+Iteration 81000, loss=0.684850275517
+Iteration 81100, loss=0.727274656296
+Iteration 81200, loss=0.752188622952
+Iteration 81300, loss=0.321541488171
+Iteration 81400, loss=0.660116374493
+Iteration 81500, loss=0.686286687851
+Iteration 81600, loss=0.709091722965
+Iteration 81700, loss=0.619998574257
+Iteration 81800, loss=0.688027620316
+Iteration 81900, loss=0.810606956482
+Iteration 82000, loss=0.716580569744
+Iteration 82100, loss=0.670281231403
+Iteration 82200, loss=0.716296494007
+Iteration 82300, loss=0.717784643173
+Iteration 82400, loss=0.65059864521
+Iteration 82500, loss=0.0824160203338
+Iteration 82600, loss=0.666684985161
+Iteration 82700, loss=0.663827896118
+Iteration 82800, loss=0.708114862442
+Iteration 82900, loss=0.666159212589
+Iteration 83000, loss=0.387852519751
+Iteration 83100, loss=0.706816673279
+Iteration 83200, loss=0.653645992279
+Iteration 83300, loss=0.667057693005
+Iteration 83400, loss=0.669315457344
+Iteration 83500, loss=0.648731172085
+Iteration 83600, loss=0.678116679192
+Iteration 83700, loss=0.724184751511
+Iteration 83800, loss=0.73537427187
+Iteration 83900, loss=0.706594407558
+Iteration 84000, loss=0.487437963486
+Iteration 84100, loss=0.63471955061
+Iteration 84200, loss=0.513566553593
+Iteration 84300, loss=0.595270872116
+Iteration 84400, loss=0.613044977188
+Iteration 84500, loss=0.823385119438
+Iteration 84600, loss=0.736440181732
+Iteration 84700, loss=0.625573575497
+Iteration 84800, loss=0.675844311714
+Iteration 84900, loss=0.758437752724
+Iteration 85000, loss=0.662194848061
+Iteration 85100, loss=0.521393597126
+Iteration 85200, loss=0.262635588646
+Iteration 85300, loss=0.652489066124
+Iteration 85400, loss=0.819158434868
+Iteration 85500, loss=0.769452810287
+Iteration 85600, loss=0.673456788063
+Iteration 85700, loss=0.619028329849
+Iteration 85800, loss=0.749321043491
+Iteration 85900, loss=0.684633374214
+Iteration 86000, loss=0.805837154388
+Iteration 86100, loss=0.694636702538
+Iteration 86200, loss=0.72763466835
+Iteration 86300, loss=0.19863909483
+Iteration 86400, loss=0.733522176743
+Iteration 86500, loss=0.63992857933
+Iteration 86600, loss=0.634499371052
+Iteration 86700, loss=0.677103042603
+Iteration 86800, loss=0.648918747902
+Iteration 86900, loss=0.689453482628
+Iteration 87000, loss=0.679420351982
+Iteration 87100, loss=0.726350188255
+Iteration 87200, loss=0.695302784443
+Iteration 87300, loss=0.668241739273
+Iteration 87400, loss=0.672295868397
+Iteration 87500, loss=0.69107311964
+Iteration 87600, loss=0.727818608284
+Iteration 87700, loss=0.693560481071
+Iteration 87800, loss=0.725824773312
+Iteration 87900, loss=0.651385307312
+Iteration 88000, loss=0.727335929871
+Iteration 88100, loss=0.743809640408
+Iteration 88200, loss=0.673339426517
+Iteration 88300, loss=0.680928647518
+Iteration 88400, loss=0.72413444519
+Iteration 88500, loss=0.682089924812
+Iteration 88600, loss=0.712664425373
+Iteration 88700, loss=0.708548426628
+Iteration 88800, loss=0.693781554699
+Iteration 88900, loss=0.664813876152
+Iteration 89000, loss=0.74664658308
+Iteration 89100, loss=0.721213757992
+Iteration 89200, loss=0.62068271637
+Iteration 89300, loss=0.682545363903
+Iteration 89400, loss=0.748417496681
+Iteration 89500, loss=0.317598491907
+Iteration 89600, loss=0.668048858643
+Iteration 89700, loss=0.682265341282
+Iteration 89800, loss=0.776251912117
+Iteration 89900, loss=0.740233302116
+Iteration 90000, loss=0.700601398945
+Nearest to from: ore, dynamics, game, jo, edges, way, lowercase, bombers,
+Nearest to new: psychological, mississippi, multiplication, apollo, destroyed, ensuring, equal, gt,
+Nearest to be: shooter, seventeen, important, egg, sp, synthesized, metropolis, poster,
+Nearest to their: humanitarian, wished, es, tanks, eliminating, individually, pitcher, wartime,
+Nearest to have: simplicity, legitimate, afl, chlorine, simplest, sharply, singles, utilized,
+Nearest to the: a, and, of, in, or, to, scattered, hopkins,
+Nearest to people: rica, elephants, brothers, mouse, existence, scripts, wounded, produces,
+Nearest to many: obligation, maintained, damaged, tribes, ori, dealer, leeds, reported,
+Nearest to UNK: contracts, ipcc, meta, suburbs, intentions, mars, activist, jr,
+Nearest to s: massachusetts, profit, actress, compared, monetary, surrounding, antioch, consist,
+Nearest to one: k, represent, working, five, bank, chad, pupil, after,
+Nearest to than: beethoven, circus, chronology, shoes, robin, beef, signature, typical,
+Nearest to used: dances, clean, finnish, model, alleged, passive, july, victoria,
+Nearest to to: of, a, the, not, and, sparked, venice, ron,
+Nearest to over: petition, all, specify, fish, babylonian, marriages, norse, relay,
+Nearest to known: changing, proceed, painting, equivalence, pointing, ness, inaccurate, says,
+Iteration 90100, loss=0.694224059582
+Iteration 90200, loss=0.7117806077
+Iteration 90300, loss=0.762781381607
+Iteration 90400, loss=0.659084439278
+Iteration 90500, loss=0.647989809513
+Iteration 90600, loss=0.696181833744
+Iteration 90700, loss=0.669797599316
+Iteration 90800, loss=0.700697004795
+Iteration 90900, loss=0.725218474865
+Iteration 91000, loss=0.27252677083
+Iteration 91100, loss=0.666543185711
+Iteration 91200, loss=0.401430666447
+Iteration 91300, loss=0.73535835743
+Iteration 91400, loss=0.759164273739
+Iteration 91500, loss=0.612706303596
+Iteration 91600, loss=0.76929473877
+Iteration 91700, loss=0.717032313347
+Iteration 91800, loss=0.680858612061
+Iteration 91900, loss=0.705547988415
+Iteration 92000, loss=0.658928692341
+Iteration 92100, loss=0.751563131809
+Iteration 92200, loss=0.69214040041
+Iteration 92300, loss=0.716457605362
+Iteration 92400, loss=0.685488045216
+Iteration 92500, loss=0.680916488171
+Iteration 92600, loss=0.664544403553
+Iteration 92700, loss=0.71376901865
+Iteration 92800, loss=0.645072579384
+Iteration 92900, loss=0.704586625099
+Iteration 93000, loss=0.707993507385
+Iteration 93100, loss=0.712603986263
+Iteration 93200, loss=0.642280817032
+Iteration 93300, loss=0.66049259901
+Iteration 93400, loss=0.619484424591
+Iteration 93500, loss=0.650146663189
+Iteration 93600, loss=0.673417627811
+Iteration 93700, loss=0.686653614044
+Iteration 93800, loss=0.647952795029
+Iteration 93900, loss=0.559895217419
+Iteration 94000, loss=0.654860556126
+Iteration 94100, loss=0.663985431194
+Iteration 94200, loss=0.656478762627
+Iteration 94300, loss=0.677256405354
+Iteration 94400, loss=0.75790143013
+Iteration 94500, loss=0.712782621384
+Iteration 94600, loss=0.604461014271
+Iteration 94700, loss=0.68310135603
+Iteration 94800, loss=0.891165733337
+Iteration 94900, loss=0.571010231972
+Iteration 95000, loss=0.897944450378
+Iteration 95100, loss=0.697784125805
+Iteration 95200, loss=0.624877631664
+Iteration 95300, loss=0.694541275501
+Iteration 95400, loss=0.697425544262
+Iteration 95500, loss=0.713464975357
+Iteration 95600, loss=0.734149158001
+Iteration 95700, loss=0.658560872078
+Iteration 95800, loss=0.709759950638
+Iteration 95900, loss=0.654325246811
+Iteration 96000, loss=0.520387530327
+Iteration 96100, loss=0.793710947037
+Iteration 96200, loss=0.70981246233
+Iteration 96300, loss=0.654881954193
+Iteration 96400, loss=0.749198555946
+Iteration 96500, loss=0.740722119808
+Iteration 96600, loss=0.663713157177
+Iteration 96700, loss=0.689667344093
+Iteration 96800, loss=0.61910378933
+Iteration 96900, loss=0.674082636833
+Iteration 97000, loss=0.749800443649
+Iteration 97100, loss=0.767118155956
+Iteration 97200, loss=0.556700527668
+Iteration 97300, loss=0.848326742649
+Iteration 97400, loss=0.660126745701
+Iteration 97500, loss=1.18160200119
+Iteration 97600, loss=0.669576466084
+Iteration 97700, loss=0.701285004616
+Iteration 97800, loss=0.655550658703
+Iteration 97900, loss=0.690694272518
+Iteration 98000, loss=0.787557303905
+Iteration 98100, loss=0.673770070076
+Iteration 98200, loss=0.746557533741
+Iteration 98300, loss=0.711352288723
+Iteration 98400, loss=0.656615555286
+Iteration 98500, loss=0.664839506149
+Iteration 98600, loss=0.731021523476
+Iteration 98700, loss=0.654524147511
+Iteration 98800, loss=0.679990053177
+Iteration 98900, loss=0.525926470757
+Iteration 99000, loss=0.634651660919
+Iteration 99100, loss=0.622378945351
+Iteration 99200, loss=0.792918801308
+Iteration 99300, loss=0.400889068842
+Iteration 99400, loss=0.788748979568
+Iteration 99500, loss=0.684172928333
+Iteration 99600, loss=0.646566748619
+Iteration 99700, loss=0.620933830738
+Iteration 99800, loss=0.743386387825
+Iteration 99900, loss=0.559200882912
+Iteration 100000, loss=0.766188383102
+Nearest to from: ore, game, dynamics, faces, edges, jo, indicating, lowercase,
+Nearest to new: multiplication, psychological, mississippi, destroyed, ensuring, challenges, equal, jules,
+Nearest to be: shooter, gm, egg, seventeen, models, important, t, strong,
+Nearest to their: humanitarian, succeeded, six, wished, eliminating, pitcher, the, tanks,
+Nearest to have: simplicity, afl, accepted, walk, burning, walker, beijing, personalities,
+Nearest to the: a, and, of, in, or, to, scattered, is,
+Nearest to people: feed, rica, elephants, singers, brothers, mouse, principal, scripts,
+Nearest to many: obligation, tribes, maintained, crowley, leeds, google, need, underground,
+Nearest to UNK: contracts, ipcc, meta, suburbs, intentions, believers, marking, jr,
+Nearest to s: monetary, massachusetts, the, actress, sharon, instructions, km, ddr,
+Nearest to one: five, working, k, bank, worm, the, leipzig, yards,
+Nearest to than: beethoven, circus, shoes, adding, coin, robin, beef, chronology,
+Nearest to used: passive, dances, finnish, clean, alleged, model, abandoned, carl,
+Nearest to to: of, the, a, and, not, sparked, breaks, import,
+Nearest to over: marriages, petition, babylonian, unpopular, specify, all, norse, fish,
+Nearest to known: changing, proceed, painting, pointing, ness, inaccurate, commercial, equivalence,
+Iteration 100100, loss=0.439859300852
+Iteration 100200, loss=0.688911855221
+Iteration 100300, loss=0.688284397125
+Iteration 100400, loss=0.318144440651
+Iteration 100500, loss=0.735161185265
+Iteration 100600, loss=0.659052968025
+Iteration 100700, loss=0.709588289261
+Iteration 100800, loss=0.727247953415
+Iteration 100900, loss=0.71907633543
+Iteration 101000, loss=0.72169649601
+Iteration 101100, loss=0.606809735298
+Iteration 101200, loss=0.659811735153
+Iteration 101300, loss=0.702009737492
+Iteration 101400, loss=0.704116404057
+Iteration 101500, loss=0.760597765446
+Iteration 101600, loss=0.625964403152
+Iteration 101700, loss=0.866479992867
+Iteration 101800, loss=0.707688629627
+Iteration 101900, loss=0.432520776987
+Iteration 102000, loss=0.719057440758
+Iteration 102100, loss=0.735641658306
+Iteration 102200, loss=0.774307668209
+Iteration 102300, loss=0.626828432083
+Iteration 102400, loss=0.696471214294
+Iteration 102500, loss=0.771031975746
+Iteration 102600, loss=0.754260480404
+Iteration 102700, loss=0.678260326385
+Iteration 102800, loss=0.622023761272
+Iteration 102900, loss=0.6773391366
+Iteration 103000, loss=0.676815927029
+Iteration 103100, loss=0.693864405155
+Iteration 103200, loss=0.744726657867
+Iteration 103300, loss=0.752371549606
+Iteration 103400, loss=0.693614423275
+Iteration 103500, loss=0.675406455994
+Iteration 103600, loss=0.694856405258
+Iteration 103700, loss=0.664033651352
+Iteration 103800, loss=0.646292984486
+Iteration 103900, loss=0.722833037376
+Iteration 104000, loss=0.687871575356
+Iteration 104100, loss=0.720694720745
+Iteration 104200, loss=0.859636902809
+Iteration 104300, loss=0.699530780315
+Iteration 104400, loss=0.668520271778
+Iteration 104500, loss=0.775470495224
+Iteration 104600, loss=0.716066420078
+Iteration 104700, loss=0.702463269234
+Iteration 104800, loss=0.271533936262
+Iteration 104900, loss=0.638592839241
+Iteration 105000, loss=0.796389341354
+Iteration 105100, loss=0.612774431705
+Iteration 105200, loss=0.604747831821
+Iteration 105300, loss=0.65292596817
+Iteration 105400, loss=0.592297375202
+Iteration 105500, loss=0.596363425255
+Iteration 105600, loss=0.608261346817
+Iteration 105700, loss=0.742611050606
+Iteration 105800, loss=0.765217542648
+Iteration 105900, loss=0.652360081673
+Iteration 106000, loss=0.641121864319
+Iteration 106100, loss=0.669472813606
+Iteration 106200, loss=0.562810838223
+Iteration 106300, loss=0.627065360546
+Iteration 106400, loss=0.626595616341
+Iteration 106500, loss=0.76726603508
+Iteration 106600, loss=0.792411088943
+Iteration 106700, loss=0.241214111447
+Iteration 106800, loss=0.848540425301
+Iteration 106900, loss=0.682464659214
+Iteration 107000, loss=0.68427759409
+Iteration 107100, loss=0.66347682476
+Iteration 107200, loss=0.613516867161
+Iteration 107300, loss=0.0612253621221
+Iteration 107400, loss=0.53429377079
+Iteration 107500, loss=0.645312130451
+Iteration 107600, loss=0.740248501301
+Iteration 107700, loss=0.650726020336
+Iteration 107800, loss=0.832701086998
+Iteration 107900, loss=0.0633710175753
+Iteration 108000, loss=0.640923142433
+Iteration 108100, loss=0.646724641323
+Iteration 108200, loss=0.85450398922
+Iteration 108300, loss=0.641158103943
+Iteration 108400, loss=0.629857957363
+Iteration 108500, loss=0.616302907467
+Iteration 108600, loss=0.835547447205
+Iteration 108700, loss=0.423151701689
+Iteration 108800, loss=0.596592903137
+Iteration 108900, loss=0.698270261288
+Iteration 109000, loss=0.659820199013
+Iteration 109100, loss=0.0449993312359
+Iteration 109200, loss=0.765515327454
+Iteration 109300, loss=0.643423140049
+Iteration 109400, loss=0.66326379776
+Iteration 109500, loss=0.637703061104
+Iteration 109600, loss=0.685686647892
+Iteration 109700, loss=0.286429315805
+Iteration 109800, loss=0.672468185425
+Iteration 109900, loss=0.642519712448
+Iteration 110000, loss=0.596095561981
+Nearest to from: game, ore, dynamics, largest, system, edges, inch, specific,
+Nearest to new: mississippi, psychological, discussed, destroyed, multiplication, challenges, ending, ensuring,
+Nearest to be: shooter, gm, egg, sp, representation, models, synthesized, strong,
+Nearest to their: the, six, succeeded, humanitarian, of, wished, eliminating, pitcher,
+Nearest to have: legitimate, walk, walker, june, simplicity, ants, confusing, isolation,
+Nearest to the: and, of, a, in, or, to, hopkins, their,
+Nearest to people: feed, rica, elephants, singers, principal, brothers, produces, suspended,
+Nearest to many: crowley, beneath, obligation, tribes, maintained, need, underground, curtis,
+Nearest to UNK: contracts, ipcc, meta, stars, suburbs, life, marking, jr,
+Nearest to s: the, actress, massachusetts, sharon, was, and, monetary, km,
+Nearest to one: five, the, leipzig, working, bank, k, yards, d,
+Nearest to than: beethoven, circus, page, coin, admired, stores, shoes, ivoire,
+Nearest to used: dances, finnish, passive, alleged, clean, concentrate, abandoned, policy,
+Nearest to to: of, the, a, and, in, that, as, not,
+Nearest to over: babylonian, marriages, unpopular, all, specify, petition, fish, damages,
+Nearest to known: changing, commercial, pointing, ness, painting, inaccurate, proceed, filmography,
+Iteration 110100, loss=0.786870002747
+Iteration 110200, loss=0.784590601921
+Iteration 110300, loss=0.569619834423
+Iteration 110400, loss=0.870013594627
+Iteration 110500, loss=0.709887683392
+Iteration 110600, loss=0.345841765404
+Iteration 110700, loss=0.623854875565
+Iteration 110800, loss=0.789037585258
+Iteration 110900, loss=0.545527040958
+Iteration 111000, loss=0.889068841934
+Iteration 111100, loss=0.643346369267
+Iteration 111200, loss=0.648108303547
+Iteration 111300, loss=0.604795694351
+Iteration 111400, loss=0.700545966625
+Iteration 111500, loss=0.733914077282
+Iteration 111600, loss=0.719992399216
+Iteration 111700, loss=0.579798340797
+Iteration 111800, loss=0.838507056236
+Iteration 111900, loss=0.954166054726
+Iteration 112000, loss=0.563909113407
+Iteration 112100, loss=0.851642668247
+Iteration 112200, loss=0.629046499729
+Iteration 112300, loss=0.658361554146
+Iteration 112400, loss=0.660907149315
+Iteration 112500, loss=0.877860367298
+Iteration 112600, loss=0.825740695
+Iteration 112700, loss=0.984414160252
+Iteration 112800, loss=0.651970744133
+Iteration 112900, loss=0.82016646862
+Iteration 113000, loss=0.713404417038
+Iteration 113100, loss=0.751656889915
+Iteration 113200, loss=0.297632843256
+Iteration 113300, loss=0.590559542179
+Iteration 113400, loss=0.83438116312
+Iteration 113500, loss=0.487835526466
+Iteration 113600, loss=0.733345806599
+Iteration 113700, loss=0.649731814861
+Iteration 113800, loss=0.56616294384
+Iteration 113900, loss=0.836363434792
+Iteration 114000, loss=0.627716124058
+Iteration 114100, loss=0.636535763741
+Iteration 114200, loss=0.698904633522
+Iteration 114300, loss=0.837607622147
+Iteration 114400, loss=0.657078146935
+Iteration 114500, loss=0.651669740677
+Iteration 114600, loss=0.778766930103
+Iteration 114700, loss=0.634254574776
+Iteration 114800, loss=1.00529587269
+Iteration 114900, loss=0.530085027218
+Iteration 115000, loss=0.00324758142233
+Iteration 115100, loss=0.967158257961
+Iteration 115200, loss=0.749371945858
+Iteration 115300, loss=0.587065696716
+Iteration 115400, loss=0.724589407444
+Iteration 115500, loss=0.595942556858
+Iteration 115600, loss=0.694595515728
+Iteration 115700, loss=0.722564518452
+Iteration 115800, loss=0.876785755157
+Iteration 115900, loss=0.604202032089
+Iteration 116000, loss=0.755118131638
+Iteration 116100, loss=0.921611189842
+Iteration 116200, loss=0.662249088287
+Iteration 116300, loss=0.688382387161
+Iteration 116400, loss=0.708095550537
+Iteration 116500, loss=0.551504850388
+Iteration 116600, loss=0.909738361835
+Iteration 116700, loss=0.5911911726
+Iteration 116800, loss=0.633186817169
+Iteration 116900, loss=0.890826880932
+Iteration 117000, loss=0.977077543736
+Iteration 117100, loss=0.495568096638
+Iteration 117200, loss=0.572787463665
+Iteration 117300, loss=0.139002501965
+Iteration 117400, loss=0.824448466301
+Iteration 117500, loss=0.6865260005
+Iteration 117600, loss=0.628401219845
+Iteration 117700, loss=0.64716809988
+Iteration 117800, loss=0.627522945404
+Iteration 117900, loss=0.625852406025
+Iteration 118000, loss=0.743078768253
+Iteration 118100, loss=0.679512262344
+Iteration 118200, loss=0.208845883608
+Iteration 118300, loss=0.825838506222
+Iteration 118400, loss=0.625969588757
+Iteration 118500, loss=0.508275985718
+Iteration 118600, loss=0.67967325449
+Iteration 118700, loss=0.665265500546
+Iteration 118800, loss=0.828066945076
+Iteration 118900, loss=0.621948957443
+Iteration 119000, loss=0.741863906384
+Iteration 119100, loss=0.627194881439
+Iteration 119200, loss=0.740424335003
+Iteration 119300, loss=0.63414555788
+Iteration 119400, loss=0.71211540699
+Iteration 119500, loss=0.0738473013043
+Iteration 119600, loss=0.610180139542
+Iteration 119700, loss=0.156161949039
+Iteration 119800, loss=0.0172399226576
+Iteration 119900, loss=0.633837878704
+Iteration 120000, loss=0.622114539146
+Nearest to from: game, dynamics, ore, inch, starting, specific, lowercase, largest,
+Nearest to new: mississippi, health, discussed, psychological, council, destroyed, mus, california,
+Nearest to be: shooter, gm, sp, brigade, seventeen, egg, representation, keep,
+Nearest to their: the, of, in, six, bullets, succeeded, humanitarian, and,
+Nearest to have: existence, june, legitimate, become, simplicity, building, simplest, modules,
+Nearest to the: of, and, a, in, to, or, is, hopkins,
+Nearest to people: feed, fixed, rica, singers, principal, anchor, wounded, desire,
+Nearest to many: beneath, crowley, need, maintained, obligation, underground, thirty, tribes,
+Nearest to UNK: contracts, meta, insurance, ipcc, life, suburbs, promoted, stars,
+Nearest to s: massachusetts, actress, the, monetary, sharon, profit, a, and,
+Nearest to one: the, five, or, leipzig, working, and, discussion, gnosticism,
+Nearest to than: beethoven, coin, instance, admired, signature, shooter, page, beef,
+Nearest to used: passive, concentrate, abandoned, alleged, finnish, dances, vermont, aerospace,
+Nearest to to: the, of, and, a, in, that, as, or,
+Nearest to over: all, unpopular, marriages, babylonian, petition, specify, fish, homosexual,
+Nearest to known: changing, pointing, ness, inaccurate, commercial, painting, chromosome, suggest,
+Iteration 120100, loss=0.636345803738
+Iteration 120200, loss=0.625591576099
+Iteration 120300, loss=0.792525291443
+Iteration 120400, loss=0.86774456501
+Iteration 120500, loss=0.632259607315
+Iteration 120600, loss=0.840249538422
+Iteration 120700, loss=0.394325524569
+Iteration 120800, loss=0.652652442455
+Iteration 120900, loss=0.675044119358
+Iteration 121000, loss=0.575090408325
+Iteration 121100, loss=0.755380511284
+Iteration 121200, loss=0.86705827713
+Iteration 121300, loss=0.804788768291
+Iteration 121400, loss=0.209216669202
+Iteration 121500, loss=0.706312358379
+Iteration 121600, loss=0.703968405724
+Iteration 121700, loss=0.862549781799
+Iteration 121800, loss=0.522081971169
+Iteration 121900, loss=0.628756523132
+Iteration 122000, loss=0.789393901825
+Iteration 122100, loss=0.28761690855
+Iteration 122200, loss=0.676900029182
+Iteration 122300, loss=0.75459086895
+Iteration 122400, loss=0.608500957489
+Iteration 122500, loss=0.735226869583
+Iteration 122600, loss=0.0828081965446
+Iteration 122700, loss=0.685135304928
+Iteration 122800, loss=0.770096898079
+Iteration 122900, loss=0.327053278685
+Iteration 123000, loss=0.700825572014
+Iteration 123100, loss=0.405593365431
+Iteration 123200, loss=0.534874558449
+Iteration 123300, loss=0.815896868706
+Iteration 123400, loss=0.629420161247
+Iteration 123500, loss=0.731514453888
+Iteration 123600, loss=1.22116041183
+Iteration 123700, loss=0.585471212864
+Iteration 123800, loss=0.735223650932
+Iteration 123900, loss=0.661850512028
+Iteration 124000, loss=0.785772323608
+Iteration 124100, loss=0.50810021162
+Iteration 124200, loss=0.616043388844
+Iteration 124300, loss=0.642091333866
+Iteration 124400, loss=0.684966921806
+Iteration 124500, loss=0.645889699459
+Iteration 124600, loss=0.70525687933
+Iteration 124700, loss=0.821106433868
+Iteration 124800, loss=0.732390999794
+Iteration 124900, loss=0.735983669758
+Iteration 125000, loss=0.605016410351
+Iteration 125100, loss=0.518337488174
+Iteration 125200, loss=0.780178189278
+Iteration 125300, loss=0.642876446247
+Iteration 125400, loss=0.777886867523
+Iteration 125500, loss=0.613638997078
+Iteration 125600, loss=0.597782790661
+Iteration 125700, loss=0.510870218277
+Iteration 125800, loss=0.700163602829
+Iteration 125900, loss=0.546857237816
+Iteration 126000, loss=0.825288951397
+Iteration 126100, loss=1.00748896599
+Iteration 126200, loss=0.698699772358
+Iteration 126300, loss=0.565586924553
+Iteration 126400, loss=0.974331021309
+Iteration 126500, loss=0.58387118578
+Iteration 126600, loss=0.75210916996
+Iteration 126700, loss=0.579166769981
+Iteration 126800, loss=0.582029521465
+Iteration 126900, loss=0.593908309937
+Iteration 127000, loss=0.6741989851
+Iteration 127100, loss=0.548693537712
+Iteration 127200, loss=0.746772766113
+Iteration 127300, loss=0.809420585632
+Iteration 127400, loss=0.29602304101
+Iteration 127500, loss=0.91480255127
+Iteration 127600, loss=0.644559860229
+Iteration 127700, loss=0.813710212708
+Iteration 127800, loss=0.570427834988
+Iteration 127900, loss=1.73020529747
+Iteration 128000, loss=0.819072782993
+Iteration 128100, loss=0.751271188259
+Iteration 128200, loss=0.0280438102782
+Iteration 128300, loss=0.63397949934
+Iteration 128400, loss=0.612334132195
+Iteration 128500, loss=0.836141467094
+Iteration 128600, loss=0.424541801214
+Iteration 128700, loss=0.706404387951
+Iteration 128800, loss=0.303049266338
+Iteration 128900, loss=0.726672410965
+Iteration 129000, loss=0.677883386612
+Iteration 129100, loss=0.630053877831
+Iteration 129200, loss=0.684744179249
+Iteration 129300, loss=0.62081849575
+Iteration 129400, loss=0.709306776524
+Iteration 129500, loss=0.681640148163
+Iteration 129600, loss=0.74247276783
+Iteration 129700, loss=0.642187774181
+Iteration 129800, loss=0.744654297829
+Iteration 129900, loss=0.598365664482
+Iteration 130000, loss=0.766802310944
+Nearest to from: leipzig, dynamics, faces, ore, difficulties, inch, game, way,
+Nearest to new: der, poles, hammer, mississippi, council, irrelevant, augustine, health,
+Nearest to be: shooter, gm, brigade, egg, t, sp, certified, representation,
+Nearest to their: the, of, six, in, bullets, a, succeeded, es,
+Nearest to have: existence, advised, become, june, legitimate, objections, moreover, simplicity,
+Nearest to the: of, and, a, in, to, is, or, its,
+Nearest to people: feed, singers, rica, wounded, fixed, settlement, principal, apparently,
+Nearest to many: need, crowley, tribes, beneath, makers, maintained, underground, obligation,
+Nearest to UNK: contracts, meta, insurance, life, promoted, intentions, suburbs, ipcc,
+Nearest to s: massachusetts, the, a, and, in, actress, sharon, editor,
+Nearest to one: the, of, leipzig, a, and, five, when, statutes,
+Nearest to than: beethoven, shooter, instance, page, admired, circus, signature, chronology,
+Nearest to used: concentrate, passive, finnish, dances, willing, bmw, incorrect, criticised,
+Nearest to to: the, of, and, a, in, that, is, as,
+Nearest to over: all, petition, unpopular, marriages, babylonian, ships, nation, gospels,
+Nearest to known: changing, ness, campaign, pointing, painting, inaccurate, chromosome, dos,
+Iteration 130100, loss=0.638219952583
+Iteration 130200, loss=0.781159281731
+Iteration 130300, loss=0.708730101585
+Iteration 130400, loss=0.799398899078
+Iteration 130500, loss=0.681454360485
+Iteration 130600, loss=0.612935066223
+Iteration 130700, loss=0.576553761959
+Iteration 130800, loss=0.345326066017
+Iteration 130900, loss=0.629574239254
+Iteration 131000, loss=0.222955733538
+Iteration 131100, loss=0.769616544247
+Iteration 131200, loss=0.0033272956498
+Iteration 131300, loss=0.627451956272
+Iteration 131400, loss=0.56417876482
+Iteration 131500, loss=0.706671118736
+Iteration 131600, loss=0.536526739597
+Iteration 131700, loss=0.797415852547
+Iteration 131800, loss=0.563345432281
+Iteration 131900, loss=0.63445353508
+Iteration 132000, loss=0.488566160202
+Iteration 132100, loss=0.613015651703
+Iteration 132200, loss=0.690468728542
+Iteration 132300, loss=0.678387999535
+Iteration 132400, loss=0.742738842964
+Iteration 132500, loss=0.589773178101
+Iteration 132600, loss=0.619485855103
+Iteration 132700, loss=0.779340267181
+Iteration 132800, loss=0.587214708328
+Iteration 132900, loss=0.292839288712
+Iteration 133000, loss=0.812712311745
+Iteration 133100, loss=0.57558965683
+Iteration 133200, loss=0.773278534412
+Iteration 133300, loss=0.734112501144
+Iteration 133400, loss=0.439944654703
+Iteration 133500, loss=0.0522265248001
+Iteration 133600, loss=0.611006557941
+Iteration 133700, loss=0.692030787468
+Iteration 133800, loss=0.487759053707
+Iteration 133900, loss=0.000701673503499
+Iteration 134000, loss=0.401539593935
+Iteration 134100, loss=0.775705695152
+Iteration 134200, loss=0.649330914021
+Iteration 134300, loss=1.06930232048
+Iteration 134400, loss=0.568208038807
+Iteration 134500, loss=0.720404982567
+Iteration 134600, loss=0.758539021015
+Iteration 134700, loss=1.52569746971
+Iteration 134800, loss=0.785200834274
+Iteration 134900, loss=0.784503400326
+Iteration 135000, loss=0.937740504742
+Iteration 135100, loss=0.754244446754
+Iteration 135200, loss=0.795001864433
+Iteration 135300, loss=1.05745255947
+Iteration 135400, loss=0.484396159649
+Iteration 135500, loss=0.827118754387
+Iteration 135600, loss=0.214391455054
+Iteration 135700, loss=0.290112197399
+Iteration 135800, loss=0.636465549469
+Iteration 135900, loss=0.900757789612
+Iteration 136000, loss=0.588129580021
+Iteration 136100, loss=0.695886909962
+Iteration 136200, loss=0.793952226639
+Iteration 136300, loss=0.647301197052
+Iteration 136400, loss=0.837028384209
+Iteration 136500, loss=0.0474448688328
+Iteration 136600, loss=0.612326025963
+Iteration 136700, loss=0.670756399632
+Iteration 136800, loss=0.556829154491
+Iteration 136900, loss=0.637806236744
+Iteration 137000, loss=0.0195552743971
+Iteration 137100, loss=0.900331795216
+Iteration 137200, loss=0.534754931927
+Iteration 137300, loss=0.707446575165
+Iteration 137400, loss=0.520105957985
+Iteration 137500, loss=0.701266407967
+Iteration 137600, loss=0.571764349937
+Iteration 137700, loss=0.822641968727
+Iteration 137800, loss=0.806260228157
+Iteration 137900, loss=0.603052973747
+Iteration 138000, loss=0.755564749241
+Iteration 138100, loss=0.676544129848
+Iteration 138200, loss=0.553988218307
+Iteration 138300, loss=0.646066844463
+Iteration 138400, loss=0.841247558594
+Iteration 138500, loss=0.808813869953
+Iteration 138600, loss=0.59565615654
+Iteration 138700, loss=0.775623381138
+Iteration 138800, loss=0.753015100956
+Iteration 138900, loss=0.455979853868
+Iteration 139000, loss=0.594726920128
+Iteration 139100, loss=0.651197314262
+Iteration 139200, loss=0.0122981406748
+Iteration 139300, loss=0.00369258108549
+Iteration 139400, loss=0.175276711583
+Iteration 139500, loss=0.612242758274
+Iteration 139600, loss=0.667371034622
+Iteration 139700, loss=0.650095701218
+Iteration 139800, loss=0.700362801552
+Iteration 139900, loss=0.87999856472
+Iteration 140000, loss=0.557425379753
+Nearest to from: leipzig, dynamics, specific, faces, edges, ore, inch, lighting,
+Nearest to new: der, wages, poles, hammer, health, hegel, mus, poland,
+Nearest to be: shooter, sp, brigade, gm, t, seventeen, egg, sinatra,
+Nearest to their: the, of, in, a, and, bullets, guidelines, six,
+Nearest to have: existence, chlorine, advised, sits, simplicity, modules, was, walk,
+Nearest to the: of, and, a, in, to, is, or, s,
+Nearest to people: singers, fixed, rica, settlement, side, feed, wounded, principal,
+Nearest to many: thirty, maintained, tribes, need, cultivation, crowley, obligation, underground,
+Nearest to UNK: contracts, meta, promoted, intentions, charlton, insurance, life, ipcc,
+Nearest to s: the, and, a, in, massachusetts, to, was, of,
+Nearest to one: the, of, a, and, to, leipzig, when, which,
+Nearest to than: shooter, signature, instance, circus, beethoven, page, beef, admired,
+Nearest to used: concentrate, willing, dances, algorithms, uncertainty, incorrect, finnish, bmw,
+Nearest to to: the, of, and, a, in, as, is, that,
+Nearest to over: petition, all, nation, unpopular, piercing, babylonian, gospels, towards,
+Nearest to known: pointing, ness, changing, painting, inaccurate, referred, chromosome, essays,
+Iteration 140100, loss=0.961691081524
+Iteration 140200, loss=7.15257965567e-06
+Iteration 140300, loss=0.597514271736
+Iteration 140400, loss=0.822310686111
+Iteration 140500, loss=4.5929942131
+Iteration 140600, loss=0.607460618019
+Iteration 140700, loss=0.57343685627
+Iteration 140800, loss=0.610230028629
+Iteration 140900, loss=0.924425244331
+Iteration 141000, loss=0.743000149727
+Iteration 141100, loss=0.665368080139
+Iteration 141200, loss=0.692498028278
+Iteration 141300, loss=0.582516789436
+Iteration 141400, loss=0.0253975652158
+Iteration 141500, loss=0.586071610451
+Iteration 141600, loss=0.550966799259
+Iteration 141700, loss=0.640007078648
+Iteration 141800, loss=0.626778244972
+Iteration 141900, loss=0.65999519825
+Iteration 142000, loss=0.743664503098
+Iteration 142100, loss=0.0879708454013
+Iteration 142200, loss=0.694586396217
+Iteration 142300, loss=0.532339334488
+Iteration 142400, loss=0.806203484535
+Iteration 142500, loss=0.0380041450262
+Iteration 142600, loss=0.477946788073
+Iteration 142700, loss=0.636374056339
+Iteration 142800, loss=0.663545310497
+Iteration 142900, loss=0.579724550247
+Iteration 143000, loss=0.578309953213
+Iteration 143100, loss=0.0583642050624
+Iteration 143200, loss=0.783585250378
+Iteration 143300, loss=0.534116864204
+Iteration 143400, loss=0.590105116367
+Iteration 143500, loss=0.401041418314
+Iteration 143600, loss=0.620720624924
+Iteration 143700, loss=0.596428334713
+Iteration 143800, loss=0.108969956636
+Iteration 143900, loss=0.691003441811
+Iteration 144000, loss=0.357466220856
+Iteration 144100, loss=0.765198290348
+Iteration 144200, loss=0.938376188278
+Iteration 144300, loss=0.70422065258
+Iteration 144400, loss=0.972326517105
+Iteration 144500, loss=0.522409558296
+Iteration 144600, loss=0.617312669754
+Iteration 144700, loss=0.66791844368
+Iteration 144800, loss=0.786035299301
+Iteration 144900, loss=0.747900545597
+Iteration 145000, loss=0.597805857658
+Iteration 145100, loss=0.56471991539
+Iteration 145200, loss=0.918977975845
+Iteration 145300, loss=0.867463231087
+Iteration 145400, loss=0.606456100941
+Iteration 145500, loss=0.573655366898
+Iteration 145600, loss=0.809486627579
+Iteration 145700, loss=0.558687567711
+Iteration 145800, loss=1.15994596481
+Iteration 145900, loss=0.744539320469
+Iteration 146000, loss=0.823333978653
+Iteration 146100, loss=0.508372485638
+Iteration 146200, loss=0.82727253437
+Iteration 146300, loss=0.682186067104
+Iteration 146400, loss=0.705945014954
+Iteration 146500, loss=0.526218950748
+Iteration 146600, loss=0.57276314497
+Iteration 146700, loss=0.00577067164704
+Iteration 146800, loss=0.0119770513847
+Iteration 146900, loss=0.857484281063
+Iteration 147000, loss=0.573168456554
+Iteration 147100, loss=0.914090454578
+Iteration 147200, loss=0.653335988522
+Iteration 147300, loss=0.741312146187
+Iteration 147400, loss=0.667318761349
+Iteration 147500, loss=0.663067162037
+Iteration 147600, loss=0.58893764019
+Iteration 147700, loss=0.562842667103
+Iteration 147800, loss=0.612560153008
+Iteration 147900, loss=0.721853494644
+Iteration 148000, loss=0.765732228756
+Iteration 148100, loss=0.558224916458
+Iteration 148200, loss=0.3424051404
+Iteration 148300, loss=16.1180953979
+Iteration 148400, loss=0.739692091942
+Iteration 148500, loss=0.605807483196
+Iteration 148600, loss=1.15431106091
+Iteration 148700, loss=0.92827641964
+Iteration 148800, loss=0.734684705734
+Iteration 148900, loss=0.536354005337
+Iteration 149000, loss=0.615937709808
+Iteration 149100, loss=0.865760564804
+Iteration 149200, loss=0.392232209444
+Iteration 149300, loss=0.531945586205
+Iteration 149400, loss=0.583285450935
+Iteration 149500, loss=0.00235363398679
+Iteration 149600, loss=0.703019738197
+Iteration 149700, loss=0.660961151123
+Iteration 149800, loss=0.761465072632
+Iteration 149900, loss=0.299332052469
+Iteration 150000, loss=0.740795791149
+Nearest to from: leipzig, specific, dynamics, edges, lighting, ore, adjectives, bore,
+Nearest to new: der, wages, hegel, hammer, australia, elect, roles, mississippi,
+Nearest to be: shooter, sp, sinatra, t, seventeen, brigade, certified, keep,
+Nearest to their: the, of, in, a, and, standards, is, trace,
+Nearest to have: existence, in, on, advised, chlorine, dolly, confusing, steps,
+Nearest to the: of, and, a, in, to, is, s, or,
+Nearest to people: singers, fixed, feed, settlement, wounded, claimed, principal, rica,
+Nearest to many: maintained, thirty, obligation, cultivation, missile, underground, beneath, need,
+Nearest to UNK: contracts, promoted, intentions, charlton, meta, ipcc, suburbs, ptolemy,
+Nearest to s: the, and, a, in, to, of, or, one,
+Nearest to one: the, of, a, and, to, when, s, or,
+Nearest to than: signature, shooter, equivalent, beethoven, factions, beef, concorde, admired,
+Nearest to used: uncertainty, dances, concentrate, willing, madison, algorithms, ideas, obviously,
+Nearest to to: the, of, and, a, in, is, as, that,
+Nearest to over: nation, petition, unpopular, towards, all, piercing, lunar, gospels,
+Nearest to known: ness, pointing, essays, changing, painting, inaccurate, referred, campaign,
+Iteration 150100, loss=0.622933745384
+Iteration 150200, loss=0.131342321634
+Iteration 150300, loss=0.598805546761
+Iteration 150400, loss=0.551318705082
+Iteration 150500, loss=0.837671220303
+Iteration 150600, loss=0.428991019726
+Iteration 150700, loss=0.618955016136
+Iteration 150800, loss=0.759527087212
+Iteration 150900, loss=0.996327638626
+Iteration 151000, loss=0.308122485876
+Iteration 151100, loss=0.620396256447
+Iteration 151200, loss=0.861999571323
+Iteration 151300, loss=0.764268875122
+Iteration 151400, loss=0.581736028194
+Iteration 151500, loss=0.619255542755
+Iteration 151600, loss=0.840063333511
+Iteration 151700, loss=0.60948985815
+Iteration 151800, loss=0.572836995125
+Iteration 151900, loss=0.802802860737
+Iteration 152000, loss=0.540787816048
+Iteration 152100, loss=0.64967674017
+Iteration 152200, loss=0.954269647598
+Iteration 152300, loss=0.052995685488
+Iteration 152400, loss=0.0479624420404
+Iteration 152500, loss=0.580950558186
+Iteration 152600, loss=0.625017166138
+Iteration 152700, loss=0.590938031673
+Iteration 152800, loss=0.713678836823
+Iteration 152900, loss=0.60224878788
+Iteration 153000, loss=0.797336816788
+Iteration 153100, loss=0.0298857800663
+Iteration 153200, loss=0.512192845345
+Iteration 153300, loss=0.400834590197
+Iteration 153400, loss=0.556552171707
+Iteration 153500, loss=1.02493274212
+Iteration 153600, loss=0.628939807415
+Iteration 153700, loss=1.09588825703
+Iteration 153800, loss=0.456992805004
+Iteration 153900, loss=0.552676379681
+Iteration 154000, loss=0.492952466011
+Iteration 154100, loss=0.595114588737
+Iteration 154200, loss=0.629734933376
+Iteration 154300, loss=0.580347061157
+Iteration 154400, loss=0.55048084259
+Iteration 154500, loss=0.465964794159
+Iteration 154600, loss=0.593041837215
+Iteration 154700, loss=0.518061518669
+Iteration 154800, loss=0.509653151035
+Iteration 154900, loss=1.04980790615
+Iteration 155000, loss=0.86208242178
+Iteration 155100, loss=0.495884567499
+Iteration 155200, loss=0.422482341528
+Iteration 155300, loss=0.832322776318
+Iteration 155400, loss=0.51040327549
+Iteration 155500, loss=0.53360915184
+Iteration 155600, loss=0.619803249836
+Iteration 155700, loss=0.442056298256
+Iteration 155800, loss=0.0914155095816
+Iteration 155900, loss=0.529631972313
+Iteration 156000, loss=0.312955975533
+Iteration 156100, loss=0.631517708302
+Iteration 156200, loss=0.853359222412
+Iteration 156300, loss=0.53751039505
+Iteration 156400, loss=0.563406288624
+Iteration 156500, loss=0.754469156265
+Iteration 156600, loss=0.608649432659
+Iteration 156700, loss=0.757917642593
+Iteration 156800, loss=0.591082394123
+Iteration 156900, loss=0.6686450243
+Iteration 157000, loss=0.607944250107
+Iteration 157100, loss=0.666229248047
+Iteration 157200, loss=0.51033782959
+Iteration 157300, loss=0.524762332439
+Iteration 157400, loss=1.02520516521e-05
+Iteration 157500, loss=0.796237111092
+Iteration 157600, loss=0.98646903038
+Iteration 157700, loss=0.603116333485
+Iteration 157800, loss=0.636347949505
+Iteration 157900, loss=0.854417324066
+Iteration 158000, loss=0.823156118393
+Iteration 158100, loss=0.589037895203
+Iteration 158200, loss=0.928202986717
+Iteration 158300, loss=0.511365175247
+Iteration 158400, loss=0.468155384064
+Iteration 158500, loss=0.928899407387
+Iteration 158600, loss=0.619277834892
+Iteration 158700, loss=0.86670601368
+Iteration 158800, loss=0.570800721645
+Iteration 158900, loss=1.44411754608
+Iteration 159000, loss=0.00519891735166
+Iteration 159100, loss=0.566626667976
+Iteration 159200, loss=0.919709801674
+Iteration 159300, loss=0.420547932386
+Iteration 159400, loss=1.03762328625
+Iteration 159500, loss=0.566659092903
+Iteration 159600, loss=0.6049721241
+Iteration 159700, loss=0.629642546177
+Iteration 159800, loss=0.161045506597
+Iteration 159900, loss=0.914446294308
+Iteration 160000, loss=0.861179888248
+Nearest to from: leipzig, lighting, dynamics, edges, system, specific, bore, beast,
+Nearest to new: der, hammer, wages, belarus, max, australia, hegel, health,
+Nearest to be: shooter, sp, t, sinatra, specific, seventeen, clark, metropolis,
+Nearest to their: of, the, in, a, and, is, its, trace,
+Nearest to have: in, on, dolly, chlorine, of, the, advised, leonardo,
+Nearest to the: of, and, a, in, to, is, s, or,
+Nearest to people: singers, principal, side, settlement, feed, torah, desire, wounded,
+Nearest to many: obligation, maintained, crowley, underground, thirty, need, cultivation, equatorial,
+Nearest to UNK: promoted, contracts, intentions, charlton, ptolemy, meta, coca, ipcc,
+Nearest to s: the, in, and, a, to, of, is, one,
+Nearest to one: the, of, a, and, to, s, in, or,
+Nearest to than: numerous, shooter, signature, admired, infty, knows, factions, beef,
+Nearest to used: bmw, abandoned, madison, algorithms, willing, uncertainty, mainly, dances,
+Nearest to to: the, of, and, a, in, is, as, that,
+Nearest to over: nation, neighbours, gospels, electoral, towards, unpopular, conditions, petition,
+Nearest to known: ness, painting, pointing, inaccurate, equivalence, changing, essays, mind,
+Iteration 160100, loss=0.40304890275
+Iteration 160200, loss=0.945789277554
+Iteration 160300, loss=0.550846397877
+Iteration 160400, loss=0.0293898750097
+Iteration 160500, loss=0.51246881485
+Iteration 160600, loss=0.642839372158
+Iteration 160700, loss=0.503428518772
+Iteration 160800, loss=0.688700795174
+Iteration 160900, loss=0.520751714706
+Iteration 161000, loss=0.508089244366
+Iteration 161100, loss=0.788782596588
+Iteration 161200, loss=5.96046561441e-07
+Iteration 161300, loss=1.01124048233
+Iteration 161400, loss=0.432293206453
+Iteration 161500, loss=6.31829170743e-05
+Iteration 161600, loss=0.623824357986
+Iteration 161700, loss=0.751664936543
+Iteration 161800, loss=0.84693646431
+Iteration 161900, loss=0.528504312038
+Iteration 162000, loss=0.678390562534
+Iteration 162100, loss=0.61412602663
+Iteration 162200, loss=0.933286070824
+Iteration 162300, loss=0.599221408367
+Iteration 162400, loss=0.489522278309
+Iteration 162500, loss=0.688284993172
+Iteration 162600, loss=0.702689230442
+Iteration 162700, loss=0.67653888464
+Iteration 162800, loss=0.952374696732
+Iteration 162900, loss=0.562231361866
+Iteration 163000, loss=0.612850904465
+Iteration 163100, loss=0.569294214249
+Iteration 163200, loss=0.543215870857
+Iteration 163300, loss=0.0609429106116
+Iteration 163400, loss=0.606109321117
+Iteration 163500, loss=0.785654067993
+Iteration 163600, loss=0.552108466625
+Iteration 163700, loss=0.659968674183
+Iteration 163800, loss=0.515689909458
+Iteration 163900, loss=0.777238130569
+Iteration 164000, loss=2.74181638815e-06
+Iteration 164100, loss=0.614689707756
+Iteration 164200, loss=0.860916614532
+Iteration 164300, loss=0.829585254192
+Iteration 164400, loss=0.899976611137
+Iteration 164500, loss=0.00202210457064
+Iteration 164600, loss=0.70890045166
+Iteration 164700, loss=0.616710066795
+Iteration 164800, loss=1.19209323657e-06
+Iteration 164900, loss=0.528278827667
+Iteration 165000, loss=0.641694903374
+Iteration 165100, loss=0.592528998852
+Iteration 165200, loss=0.791557073593
+Iteration 165300, loss=0.701446890831
+Iteration 165400, loss=0.915842056274
+Iteration 165500, loss=0.615429639816
+Iteration 165600, loss=0.653135240078
+Iteration 165700, loss=0.548557698727
+Iteration 165800, loss=0.670390069485
+Iteration 165900, loss=0.548232257366
+Iteration 166000, loss=0.486519575119
+Iteration 166100, loss=0.784198284149
+Iteration 166200, loss=0.659888148308
+Iteration 166300, loss=0.591168820858
+Iteration 166400, loss=0.575479507446
+Iteration 166500, loss=0.720907866955
+Iteration 166600, loss=1.18264102936
+Iteration 166700, loss=0.700404167175
+Iteration 166800, loss=0.510723412037
+Iteration 166900, loss=3.33319377899
+Iteration 167000, loss=0.753525912762
+Iteration 167100, loss=0.421273380518
+Iteration 167200, loss=16.1180953979
+Iteration 167300, loss=0.485646009445
+Iteration 167400, loss=0.792879283428
+Iteration 167500, loss=0.688641190529
+Iteration 167600, loss=4.21680355072
+Iteration 167700, loss=0.456295520067
+Iteration 167800, loss=0.828113794327
+Iteration 167900, loss=0.492210745811
+Iteration 168000, loss=0.769054055214
+Iteration 168100, loss=7.52269458771
+Iteration 168200, loss=0.503010988235
+Iteration 168300, loss=0.574769675732
+Iteration 168400, loss=0.847675025463
+Iteration 168500, loss=0.525700747967
+Iteration 168600, loss=0.880539417267
+Iteration 168700, loss=0.634431362152
+Iteration 168800, loss=0.54202246666
+Iteration 168900, loss=0.0506509765983
+Iteration 169000, loss=0.647991776466
+Iteration 169100, loss=0.0359002500772
+Iteration 169200, loss=0.642931699753
+Iteration 169300, loss=0.580137431622
+Iteration 169400, loss=7.57007510401e-05
+Iteration 169500, loss=0.411451339722
+Iteration 169600, loss=0.767383813858
+Iteration 169700, loss=0.598878860474
+Iteration 169800, loss=0.545984685421
+Iteration 169900, loss=0.833554625511
+Iteration 170000, loss=0.852705001831
+Nearest to from: leipzig, dynamics, was, lighting, to, one, the, system,
+Nearest to new: der, hammer, hegel, wages, barbados, multiplication, australia, sciences,
+Nearest to be: shooter, t, sinatra, sp, specific, seventeen, have, metropolis,
+Nearest to their: the, of, in, a, and, is, its, to,
+Nearest to have: on, in, was, the, of, confusing, dolly, advised,
+Nearest to the: of, and, a, in, to, is, s, or,
+Nearest to people: principal, singers, side, feed, torah, switching, differences, classical,
+Nearest to many: obligation, need, crowley, underground, deaths, beneath, cultivation, bermuda,
+Nearest to UNK: promoted, contracts, coca, charlton, intentions, ptolemy, suburbs, meta,
+Nearest to s: the, and, in, a, to, of, is, one,
+Nearest to one: the, of, a, and, to, in, s, or,
+Nearest to than: numerous, shooter, cue, admired, knows, beef, signature, container,
+Nearest to used: algorithms, abandoned, champions, mainly, provisional, bmw, uncertainty, madison,
+Nearest to to: the, and, of, a, in, is, as, that,
+Nearest to over: nation, gospels, neighbours, lunar, piercing, petition, unpopular, electoral,
+Nearest to known: ness, inaccurate, changing, painting, pointing, copy, equivalence, believed,
+Iteration 170100, loss=0.000362581136869
+Iteration 170200, loss=1.16671466827
+Iteration 170300, loss=0.924795150757
+Iteration 170400, loss=0.482002735138
+Iteration 170500, loss=0.894388079643
+Iteration 170600, loss=0.494740307331
+Iteration 170700, loss=0.895220994949
+Iteration 170800, loss=0.896136403084
+Iteration 170900, loss=0.523998320103
+Iteration 171000, loss=0.570450603962
+Iteration 171100, loss=0.705337584019
+Iteration 171200, loss=0.51134544611
+Iteration 171300, loss=0.722951114178
+Iteration 171400, loss=0.646111428738
+Iteration 171500, loss=0.00560282776132
+Iteration 171600, loss=0.681453227997
+Iteration 171700, loss=0.590114891529
+Iteration 171800, loss=1.03712573036e-05
+Iteration 171900, loss=0.429058283567
+Iteration 172000, loss=0.587401211262
+Iteration 172100, loss=0.814887940884
+Iteration 172200, loss=0.556281626225
+Iteration 172300, loss=0.576177358627
+Iteration 172400, loss=0.467521369457
+Iteration 172500, loss=0.536231398582
+Iteration 172600, loss=0.577627539635
+Iteration 172700, loss=0.640607953072
+Iteration 172800, loss=0.541889429092
+Iteration 172900, loss=0.793864011765
+Iteration 173000, loss=0.596788167953
+Iteration 173100, loss=0.589423656464
+Iteration 173200, loss=0.742213904858
+Iteration 173300, loss=0.599588036537
+Iteration 173400, loss=0.668982982635
+Iteration 173500, loss=0.808156430721
+Iteration 173600, loss=0.584940850735
+Iteration 173700, loss=0.590690493584
+Iteration 173800, loss=0.498828679323
+Iteration 173900, loss=0.74190056324
+Iteration 174000, loss=0.571407139301
+Iteration 174100, loss=0.717952847481
+Iteration 174200, loss=0.416796982288
+Iteration 174300, loss=0.811168432236
+Iteration 174400, loss=0.396878123283
+Iteration 174500, loss=0.585368454456
+Iteration 174600, loss=0.533968091011
+Iteration 174700, loss=0.831080853939
+Iteration 174800, loss=0.569013893604
+Iteration 174900, loss=0.490734606981
+Iteration 175000, loss=0.875820577145
+Iteration 175100, loss=0.409138381481
+Iteration 175200, loss=0.52017056942
+Iteration 175300, loss=0.573093414307
+Iteration 175400, loss=0.555281341076
+Iteration 175500, loss=0.711898982525
+Iteration 175600, loss=0.58028113842
+Iteration 175700, loss=0.537402629852
+Iteration 175800, loss=0.36417555809
+Iteration 175900, loss=0.719368696213
+Iteration 176000, loss=0.498565852642
+Iteration 176100, loss=1.01747310162
+Iteration 176200, loss=0.722972631454
+Iteration 176300, loss=0.573652505875
+Iteration 176400, loss=0.587780237198
+Iteration 176500, loss=0.506223320961
+Iteration 176600, loss=1.08757555485
+Iteration 176700, loss=1.09334611893
+Iteration 176800, loss=0.780428528786
+Iteration 176900, loss=0.797963917255
+Iteration 177000, loss=0.577254772186
+Iteration 177100, loss=0.949061453342
+Iteration 177200, loss=0.465943485498
+Iteration 177300, loss=0.712097644806
+Iteration 177400, loss=0.440067648888
+Iteration 177500, loss=0.591592848301
+Iteration 177600, loss=0.0232342798263
+Iteration 177700, loss=0.374507576227
+Iteration 177800, loss=0.526418447495
+Iteration 177900, loss=0.50867241621
+Iteration 178000, loss=0.887919068336
+Iteration 178100, loss=0.578155398369
+Iteration 178200, loss=0.476581245661
+Iteration 178300, loss=0.425865918398
+Iteration 178400, loss=0.0636363625526
+Iteration 178500, loss=0.0869790315628
+Iteration 178600, loss=0.883719801903
+Iteration 178700, loss=0.580526292324
+Iteration 178800, loss=0.45192617178
+Iteration 178900, loss=0.648390650749
+Iteration 179000, loss=0.652096927166
+Iteration 179100, loss=0.74610543251
+Iteration 179200, loss=0.00169551966246
+Iteration 179300, loss=0.47705835104
+Iteration 179400, loss=1.02816140652
+Iteration 179500, loss=0.870050609112
+Iteration 179600, loss=0.578139603138
+Iteration 179700, loss=0.567692041397
+Iteration 179800, loss=0.97526550293
+Iteration 179900, loss=0.508676886559
+Iteration 180000, loss=0.547994792461
+Nearest to from: to, the, was, leipzig, a, dynamics, by, that,
+Nearest to new: der, australia, hammer, mississippi, feels, sciences, psychological, hegel,
+Nearest to be: shooter, t, dinosaur, metropolis, been, sp, seventeen, sinatra,
+Nearest to their: the, of, in, a, and, is, to, its,
+Nearest to have: in, on, was, the, of, dolly, is, advised,
+Nearest to the: of, and, a, in, to, is, s, as,
+Nearest to people: delivery, desire, singers, classical, side, torah, principal, settlement,
+Nearest to many: obligation, underground, arable, beneath, tribes, cultivation, need, bermuda,
+Nearest to UNK: promoted, contracts, suburbs, albania, coca, stars, charlton, ptolemy,
+Nearest to s: the, and, a, in, to, of, is, one,
+Nearest to one: the, of, and, a, to, s, in, or,
+Nearest to than: numerous, cue, shooter, factions, campus, container, concorde, balance,
+Nearest to used: champions, virtually, there, larger, abandoned, uncertainty, algorithms, stating,
+Nearest to to: the, and, of, a, in, is, as, s,
+Nearest to over: nation, neighbours, gospels, electoral, unpopular, lunar, petition, piercing,
+Nearest to known: ness, changing, inaccurate, painting, suited, pointing, abolition, copy,
+Iteration 180100, loss=0.189807370305
+Iteration 180200, loss=0.504054546356
+Iteration 180300, loss=0.000102644480648
+Iteration 180400, loss=0.151901468635
+Iteration 180500, loss=0.00029949870077
+Iteration 180600, loss=1.14953672886
+Iteration 180700, loss=0.508046627045
+Iteration 180800, loss=0.551803827286
+Iteration 180900, loss=0.199431613088
+Iteration 181000, loss=0.00612299796194
+Iteration 181100, loss=1.24931395054
+Iteration 181200, loss=0.396330207586
+Iteration 181300, loss=0.0159084629267
+Iteration 181400, loss=0.000981096527539
+Iteration 181500, loss=3.41928339005
+Iteration 181600, loss=0.733202397823
+Iteration 181700, loss=1.02117681503
+Iteration 181800, loss=5.65571260452
+Iteration 181900, loss=0.56109392643
+Iteration 182000, loss=0.53615963459
+Iteration 182100, loss=0.823083400726
+Iteration 182200, loss=0.546250224113
+Iteration 182300, loss=0.553016006947
+Iteration 182400, loss=0.926978230476
+Iteration 182500, loss=0.523618459702
+Iteration 182600, loss=0.552645087242
+Iteration 182700, loss=0.511383414268
+Iteration 182800, loss=0.47216796875
+Iteration 182900, loss=1.11176526546
+Iteration 183000, loss=0.564382493496
+Iteration 183100, loss=1.03923356533
+Iteration 183200, loss=0.997047901154
+Iteration 183300, loss=0.547536373138
+Iteration 183400, loss=0.783981859684
+Iteration 183500, loss=1.01522469521
+Iteration 183600, loss=0.480751663446
+Iteration 183700, loss=0.437076330185
+Iteration 183800, loss=0.664147794247
+Iteration 183900, loss=0.50763964653
+Iteration 184000, loss=0.499525666237
+Iteration 184100, loss=0.00162883067969
+Iteration 184200, loss=0.711439192295
+Iteration 184300, loss=0.597079575062
+Iteration 184400, loss=0.739944636822
+Iteration 184500, loss=0.00733051775023
+Iteration 184600, loss=0.446267366409
+Iteration 184700, loss=0.384909898043
+Iteration 184800, loss=0.602897822857
+Iteration 184900, loss=0.868725299835
+Iteration 185000, loss=0.63030642271
+Iteration 185100, loss=0.439146369696
+Iteration 185200, loss=0.46192586422
+Iteration 185300, loss=0.479054361582
+Iteration 185400, loss=0.657257199287
+Iteration 185500, loss=16.1180953979
+Iteration 185600, loss=0.460356414318
+Iteration 185700, loss=0.969788074493
+Iteration 185800, loss=0.959279000759
+Iteration 185900, loss=0.506281137466
+Iteration 186000, loss=0.518998503685
+Iteration 186100, loss=1.13943088055
+Iteration 186200, loss=0.50360929966
+Iteration 186300, loss=0.940376698971
+Iteration 186400, loss=0.50171983242
+Iteration 186500, loss=0.610575556755
+Iteration 186600, loss=0.28817525506
+Iteration 186700, loss=0.560008168221
+Iteration 186800, loss=0.52918112278
+Iteration 186900, loss=0.569321334362
+Iteration 187000, loss=0.910015046597
+Iteration 187100, loss=0.470719337463
+Iteration 187200, loss=1.10008907318
+Iteration 187300, loss=0.953510820866
+Iteration 187400, loss=1.26213288307
+Iteration 187500, loss=0.374523609877
+Iteration 187600, loss=1.04236364365
+Iteration 187700, loss=0.376767158508
+Iteration 187800, loss=0.30723541975
+Iteration 187900, loss=0.572890996933
+Iteration 188000, loss=0.467476665974
+Iteration 188100, loss=0.498554229736
+Iteration 188200, loss=0.000140319141792
+Iteration 188300, loss=1.0528703928
+Iteration 188400, loss=0.398024410009
+Iteration 188500, loss=0.82760488987
+Iteration 188600, loss=0.918511390686
+Iteration 188700, loss=0.576329529285
+Iteration 188800, loss=0.636231958866
+Iteration 188900, loss=0.40605032444
+Iteration 189000, loss=0.584812581539
+Iteration 189100, loss=0.29187759757
+Iteration 189200, loss=1.97095453739
+Iteration 189300, loss=0.518379092216
+Iteration 189400, loss=0.543676376343
+Iteration 189500, loss=0.546904802322
+Iteration 189600, loss=0.69774210453
+Iteration 189700, loss=0.697560727596
+Iteration 189800, loss=0.814477205276
+Iteration 189900, loss=0.503774762154
+Iteration 190000, loss=0.575377345085
+Nearest to from: the, to, by, a, was, are, and, as,
+Nearest to new: australia, der, hammer, mississippi, sciences, psychological, poland, barbados,
+Nearest to be: shooter, t, dinosaur, sp, metropolis, seventeen, their, clark,
+Nearest to their: the, of, in, a, and, is, to, its,
+Nearest to have: the, in, was, of, on, is, and, a,
+Nearest to the: and, of, a, in, to, is, s, as,
+Nearest to people: days, torah, settlement, principal, thousand, singers, side, desire,
+Nearest to many: obligation, bermuda, missile, the, equatorial, beneath, maintained, arable,
+Nearest to UNK: promoted, albania, fruits, contracts, stars, coca, oh, charlton,
+Nearest to s: the, and, in, a, to, of, is, one,
+Nearest to one: the, of, and, a, to, s, in, or,
+Nearest to than: numerous, factions, submit, cue, matches, container, shooter, such,
+Nearest to used: virtually, larger, champions, materials, uncertainty, passive, alleged, incorrect,
+Nearest to to: the, and, of, in, a, is, as, s,
+Nearest to over: nation, unpopular, neighbours, gospels, electoral, lunar, settlements, very,
+Nearest to known: ness, changing, suited, pointing, catalyst, yugoslav, inaccurate, believed,
+Iteration 190100, loss=0.978208780289
+Iteration 190200, loss=0.476683080196
+Iteration 190300, loss=0.938683271408
+Iteration 190400, loss=1.19209332183e-07
+Iteration 190500, loss=0.805050969124
+Iteration 190600, loss=0.562623381615
+Iteration 190700, loss=0.425003737211
+Iteration 190800, loss=0.764777243137
+Iteration 190900, loss=0.720466971397
+Iteration 191000, loss=2.3841855068e-07
+Iteration 191100, loss=0.24595297873
+Iteration 191200, loss=0.880461335182
+Iteration 191300, loss=1.14220285416
+Iteration 191400, loss=0.933431208134
+Iteration 191500, loss=0.336109101772
+Iteration 191600, loss=3.87970924377
+Iteration 191700, loss=0.63355332613
+Iteration 191800, loss=0.982431769371
+Iteration 191900, loss=0.49524217844
+Iteration 192000, loss=0.548279225826
+Iteration 192100, loss=0.48595058918
+Iteration 192200, loss=0.396069943905
+Iteration 192300, loss=0.558069944382
+Iteration 192400, loss=0.422276437283
+Iteration 192500, loss=0.510376155376
+Iteration 192600, loss=0.721336364746
+Iteration 192700, loss=1.28588032722
+Iteration 192800, loss=0.424119919538
+Iteration 192900, loss=0.61242556572
+Iteration 193000, loss=1.00805079937
+Iteration 193100, loss=0.986140012741
+Iteration 193200, loss=0.419316232204
+Iteration 193300, loss=0.0271424911916
+Iteration 193400, loss=0.470270484686
+Iteration 193500, loss=0.470048487186
+Iteration 193600, loss=4.19689655304
+Iteration 193700, loss=0.230863496661
+Iteration 193800, loss=0.423780858517
+Iteration 193900, loss=0.83792746067
+Iteration 194000, loss=0.900784373283
+Iteration 194100, loss=0.857996344566
+Iteration 194200, loss=0.373843282461
+Iteration 194300, loss=0.909230113029
+Iteration 194400, loss=0.504101991653
+Iteration 194500, loss=0.444253385067
+Iteration 194600, loss=1.51608896255
+Iteration 194700, loss=0.496677070856
+Iteration 194800, loss=3.57627783387e-07
+Iteration 194900, loss=0.575821042061
+Iteration 195000, loss=0.00451761018485
+Iteration 195100, loss=0.814495921135
+Iteration 195200, loss=0.50166451931
+Iteration 195300, loss=1.26336371899
+Iteration 195400, loss=0.996275663376
+Iteration 195500, loss=0.739791274071
+Iteration 195600, loss=0.531008183956
+Iteration 195700, loss=0.438714057207
+Iteration 195800, loss=0.310789167881
+Iteration 195900, loss=0.81040006876
+Iteration 196000, loss=0.00872996263206
+Iteration 196100, loss=0.503833770752
+Iteration 196200, loss=1.17965745926
+Iteration 196300, loss=0.00395632488653
+Iteration 196400, loss=0.644289851189
+Iteration 196500, loss=0.598937690258
+Iteration 196600, loss=0.44470757246
+Iteration 196700, loss=0.679951369762
+Iteration 196800, loss=1.00940263271
+Iteration 196900, loss=0.0219740886241
+Iteration 197000, loss=0.510115802288
+Iteration 197100, loss=0.529160320759
+Iteration 197200, loss=8.61920343596e-05
+Iteration 197300, loss=0.50739300251
+Iteration 197400, loss=0.583251535892
+Iteration 197500, loss=1.00120842457
+Iteration 197600, loss=1.08552265167
+Iteration 197700, loss=0.54938608408
+Iteration 197800, loss=1.04684770107
+Iteration 197900, loss=0.803354799747
+Iteration 198000, loss=0.337634772062
+Iteration 198100, loss=0.552227377892
+Iteration 198200, loss=1.03560423851
+Iteration 198300, loss=0.665119826794
+Iteration 198400, loss=0.5480453372
+Iteration 198500, loss=0.841782808304
+Iteration 198600, loss=0.60666012764
+Iteration 198700, loss=0.500310838223
+Iteration 198800, loss=0.470154821873
+Iteration 198900, loss=0.00435680150986
+Iteration 199000, loss=0.581581652164
+Iteration 199100, loss=0.51286059618
+Iteration 199200, loss=0.514492630959
+Iteration 199300, loss=0.81526684761
+Iteration 199400, loss=0.428106993437
+Iteration 199500, loss=0.020725460723
+Iteration 199600, loss=0.984849095345
+Iteration 199700, loss=0.296993881464
+Iteration 199800, loss=0.862823367119
+Iteration 199900, loss=1.94312997337e-05
+Iteration 200000, loss=0.686025977135
+Nearest to from: the, to, a, and, of, by, was, is,
+Nearest to new: australia, der, multiplication, hammer, mississippi, bar, saw, sciences,
+Nearest to be: their, t, was, shooter, the, been, he, metropolis,
+Nearest to their: the, of, in, and, a, is, to, that,
+Nearest to have: in, the, on, was, of, is, and, a,
+Nearest to the: and, of, a, in, to, is, s, as,
+Nearest to people: days, singers, torah, principal, settlement, thousand, error, side,
+Nearest to many: the, in, and, s, bermuda, two, obligation, is,
+Nearest to UNK: promoted, albania, fruits, suburbs, oh, charlton, intentions, meta,
+Nearest to s: the, and, in, a, to, is, of, with,
+Nearest to one: the, of, and, a, s, to, in, or,
+Nearest to than: numerous, container, factions, such, and, concorde, shooter, spears,
+Nearest to used: surrender, larger, virtually, materials, there, uncertainty, stating, provisional,
+Nearest to to: the, and, of, in, a, is, as, s,
+Nearest to over: unpopular, settlements, neighbours, nation, very, feminism, towards, electoral,
+Nearest to known: ness, changing, up, blocking, suited, catalyst, yugoslav, abolition,
+Iteration 200100, loss=0.175679892302
+Iteration 200200, loss=0.942028880119
+Iteration 200300, loss=0.6350440979
+Iteration 200400, loss=0.449124097824
+Iteration 200500, loss=0.890334010124
+Iteration 200600, loss=0.957741141319
+Iteration 200700, loss=0.533506512642
+Iteration 200800, loss=0.355752468109
+Iteration 200900, loss=1.11208677292
+Iteration 201000, loss=0.367009013891
+Iteration 201100, loss=0.805968165398
+Iteration 201200, loss=0.72553807497
+Iteration 201300, loss=1.07015359402
+Iteration 201400, loss=0.999485075474
+Iteration 201500, loss=0.783507227898
+Iteration 201600, loss=0.682471573353
+Iteration 201700, loss=0.621653437614
+Iteration 201800, loss=0.00639806035906
+Iteration 201900, loss=0.58539044857
+Iteration 202000, loss=0.493916392326
+Iteration 202100, loss=0.387393832207
+Iteration 202200, loss=0.532558500767
+Iteration 202300, loss=2.3841855068e-07
+Iteration 202400, loss=0.508053421974
+Iteration 202500, loss=0.196366682649
+Iteration 202600, loss=8.34465311073e-07
+Iteration 202700, loss=0.500682771206
+Iteration 202800, loss=0.614236593246
+Iteration 202900, loss=1.77623387572e-05
+Iteration 203000, loss=0.000877347716596
+Iteration 203100, loss=0.524913668633
+Iteration 203200, loss=0.541426599026
+Iteration 203300, loss=0.650187015533
+Iteration 203400, loss=0.579161167145
+Iteration 203500, loss=0.00217214506119
+Iteration 203600, loss=0.740457057953
+Iteration 203700, loss=0.47287940979
+Iteration 203800, loss=0.0733289793134
+Iteration 203900, loss=0.500751793385
+Iteration 204000, loss=1.14504861832
+Iteration 204100, loss=0.805722117424
+Iteration 204200, loss=1.90660405159
+Iteration 204300, loss=0.194184869528
+Iteration 204400, loss=0.030933611095
+Iteration 204500, loss=0.961991846561
+Iteration 204600, loss=0.49911481142
+Iteration 204700, loss=0.533466339111
+Iteration 204800, loss=0.545585155487
+Iteration 204900, loss=0.58265465498
+Iteration 205000, loss=0.972985625267
+Iteration 205100, loss=0.439408898354
+Iteration 205200, loss=0.504333913326
+Iteration 205300, loss=0.492105305195
+Iteration 205400, loss=0.452181696892
+Iteration 205500, loss=0.477980494499
+Iteration 205600, loss=1.19209323657e-06
+Iteration 205700, loss=0.390560001135
+Iteration 205800, loss=0.505531609058
+Iteration 205900, loss=0.297659426928
+Iteration 206000, loss=0.533438324928
+Iteration 206100, loss=0.40688174963
+Iteration 206200, loss=0.468956142664
+Iteration 206300, loss=0.545016527176
+Iteration 206400, loss=0.653886258602
+Iteration 206500, loss=0.493537604809
+Iteration 206600, loss=1.08289766312
+Iteration 206700, loss=0.519377946854
+Iteration 206800, loss=0.890294313431
+Iteration 206900, loss=1.3053842783
+Iteration 207000, loss=0.553774535656
+Iteration 207100, loss=0.554963827133
+Iteration 207200, loss=2.33652845054e-05
+Iteration 207300, loss=0.86916077137
+Iteration 207400, loss=0.444097787142
+Iteration 207500, loss=0.179810196161
+Iteration 207600, loss=0.686544120312
+Iteration 207700, loss=0.537272691727
+Iteration 207800, loss=0.00153934152331
+Iteration 207900, loss=0.590209364891
+Iteration 208000, loss=0.505924582481
+Iteration 208100, loss=0.584736049175
+Iteration 208200, loss=0.527818739414
+Iteration 208300, loss=0.445726513863
+Iteration 208400, loss=0.863165855408
+Iteration 208500, loss=0.878897070885
+Iteration 208600, loss=0.52154225111
+Iteration 208700, loss=0.437235593796
+Iteration 208800, loss=0.407926976681
+Iteration 208900, loss=0.421029269695
+Iteration 209000, loss=9.53674657467e-07
+Iteration 209100, loss=0.419785290956
+Iteration 209200, loss=0.511513054371
+Iteration 209300, loss=0.789079129696
+Iteration 209400, loss=0.52132332325
+Iteration 209500, loss=0.408155411482
+Iteration 209600, loss=1.12337946892
+Iteration 209700, loss=0.511804223061
+Iteration 209800, loss=0.767634391785
+Iteration 209900, loss=0.115517325699
+Iteration 210000, loss=0.998657286167
+Nearest to from: the, to, a, and, of, by, is, in,
+Nearest to new: hammer, der, australia, psychological, saw, mississippi, feels, poland,
+Nearest to be: was, their, the, is, or, he, t, him,
+Nearest to their: the, of, in, and, is, a, that, to,
+Nearest to have: the, on, in, of, is, was, and, for,
+Nearest to the: of, and, a, in, to, is, s, as,
+Nearest to people: days, singers, anchor, error, torah, paper, rica, levels,
+Nearest to many: the, in, and, s, two, is, offer, bermuda,
+Nearest to UNK: promoted, fruits, oh, albania, charlton, behind, meta, ipcc,
+Nearest to s: the, in, and, a, to, is, of, with,
+Nearest to one: the, of, and, a, s, to, in, by,
+Nearest to than: and, in, numerous, the, such, his, s, a,
+Nearest to used: larger, surrender, clean, virtually, stating, there, provisional, algorithms,
+Nearest to to: the, and, of, in, a, is, as, with,
+Nearest to over: neighbours, unpopular, settlements, electoral, decline, benzene, nation, feminism,
+Nearest to known: changing, ness, suited, security, up, catalyst, abolition, blocking,
+Iteration 210100, loss=0.494349092245
+Iteration 210200, loss=0.435088694096
+Iteration 210300, loss=1.09647798538
+Iteration 210400, loss=2.3841855068e-07
+Iteration 210500, loss=1.26321315765
+Iteration 210600, loss=0.953968763351
+Iteration 210700, loss=0.378391832113
+Iteration 210800, loss=0.790388822556
+Iteration 210900, loss=0.492119908333
+Iteration 211000, loss=0.61128115654
+Iteration 211100, loss=0.000209293721127
+Iteration 211200, loss=0.38875746727
+Iteration 211300, loss=0.56096303463
+Iteration 211400, loss=0.411047637463
+Iteration 211500, loss=0.523855447769
+Iteration 211600, loss=0.520295202732
+Iteration 211700, loss=0.456292003393
+Iteration 211800, loss=0.0185381863266
+Iteration 211900, loss=0.298035860062
+Iteration 212000, loss=0.338854581118
+Iteration 212100, loss=0.53783094883
+Iteration 212200, loss=0.418008238077
+Iteration 212300, loss=0.984627604485
+Iteration 212400, loss=2.01666235924
+Iteration 212500, loss=0.512420892715
+Iteration 212600, loss=0.638556301594
+Iteration 212700, loss=0.60949587822
+Iteration 212800, loss=0.0495257377625
+Iteration 212900, loss=1.02745115757
+Iteration 213000, loss=1.21707332134
+Iteration 213100, loss=0.223912969232
+Iteration 213200, loss=0.312798470259
+Iteration 213300, loss=0.606191217899
+Iteration 213400, loss=0.511820077896
+Iteration 213500, loss=0.0411167219281
+Iteration 213600, loss=0.618598341942
+Iteration 213700, loss=4.13594818115
+Iteration 213800, loss=1.30793738365
+Iteration 213900, loss=0.884740829468
+Iteration 214000, loss=0.468547940254
+Iteration 214100, loss=0.986675858498
+Iteration 214200, loss=0.0311556924134
+Iteration 214300, loss=0.682515144348
+Iteration 214400, loss=0.50554484129
+Iteration 214500, loss=0.915859222412
+Iteration 214600, loss=0.550610661507
+Iteration 214700, loss=0.753090322018
+Iteration 214800, loss=16.1180953979
+Iteration 214900, loss=1.19209332183e-07
+Iteration 215000, loss=0.461261153221
+Iteration 215100, loss=0.476928949356
+Iteration 215200, loss=0.447921782732
+Iteration 215300, loss=1.19209332183e-07
+Iteration 215400, loss=1.22462677956
+Iteration 215500, loss=1.13126301765
+Iteration 215600, loss=0.0454259440303
+Iteration 215700, loss=1.03736293316
+Iteration 215800, loss=0.481764018536
+Iteration 215900, loss=1.19209332183e-07
+Iteration 216000, loss=0.956182599068
+Iteration 216100, loss=0.479556918144
+Iteration 216200, loss=0.405620574951
+Iteration 216300, loss=0.414588093758
+Iteration 216400, loss=0.827275454998
+Iteration 216500, loss=1.16215872765
+Iteration 216600, loss=0.466995090246
+Iteration 216700, loss=0.996259093285
+Iteration 216800, loss=0.463137447834
+Iteration 216900, loss=0.381780564785
+Iteration 217000, loss=0.412026196718
+Iteration 217100, loss=16.1180953979
+Iteration 217200, loss=0.90602517128
+Iteration 217300, loss=0.637284934521
+Iteration 217400, loss=1.23139369488
+Iteration 217500, loss=0.540801644325
+Iteration 217600, loss=0.418539017439
+Iteration 217700, loss=0.431727707386
+Iteration 217800, loss=0.454377949238
+Iteration 217900, loss=0.512206196785
+Iteration 218000, loss=16.1180953979
+Iteration 218100, loss=0.942081809044
+Iteration 218200, loss=0.623464226723
+Iteration 218300, loss=0.409264087677
+Iteration 218400, loss=0.464714080095
+Iteration 218500, loss=1.19209332183e-07
+Iteration 218600, loss=0.460475206375
+Iteration 218700, loss=0.414896428585
+Iteration 218800, loss=0.525066971779
+Iteration 218900, loss=0.400010079145
+Iteration 219000, loss=0.4199013412
+Iteration 219100, loss=0.363355636597
+Iteration 219200, loss=0.424488544464
+Iteration 219300, loss=0.453982293606
+Iteration 219400, loss=9.29837096919e-06
+Iteration 219500, loss=0.988022267818
+Iteration 219600, loss=0.441235035658
+Iteration 219700, loss=1.19209332183e-07
+Iteration 219800, loss=9.99696445465
+Iteration 219900, loss=0.522744953632
+Iteration 220000, loss=1.10834169388
+Nearest to from: the, a, to, and, of, by, is, in,
+Nearest to new: don, saw, hammer, entrance, feels, mississippi, psychological, der,
+Nearest to be: their, was, the, is, been, or, t, sp,
+Nearest to their: the, of, in, and, a, is, to, that,
+Nearest to have: the, on, of, in, is, a, and, was,
+Nearest to the: of, and, a, in, to, is, s, as,
+Nearest to people: dartmouth, days, error, anchor, singers, cinema, classical, differences,
+Nearest to many: in, the, and, s, is, to, on, or,
+Nearest to UNK: fruits, oh, promoted, albania, behind, charlton, ptolemy, world,
+Nearest to s: the, and, in, a, to, of, is, with,
+Nearest to one: the, of, and, a, s, in, to, or,
+Nearest to than: and, in, his, the, such, numerous, a, of,
+Nearest to used: surrender, provisional, larger, clean, virtually, algorithms, champions, mathematical,
+Nearest to to: the, and, of, a, in, is, as, with,
+Nearest to over: lunar, neighbours, very, unpopular, benzene, decline, emulation, desktop,
+Nearest to known: changing, ness, suited, security, defined, sacrifice, positions, yugoslav,
+Iteration 220100, loss=0.44924479723
+Iteration 220200, loss=0.556374907494
+Iteration 220300, loss=4.7683727189e-07
+Iteration 220400, loss=0.130565032363
+Iteration 220500, loss=0.366885215044
+Iteration 220600, loss=0.403056651354
+Iteration 220700, loss=0.377052485943
+Iteration 220800, loss=1.29080843925
+Iteration 220900, loss=0.127249509096
+Iteration 221000, loss=0.010081213899
+Iteration 221100, loss=0.465161263943
+Iteration 221200, loss=0.509285330772
+Iteration 221300, loss=0.463009655476
+Iteration 221400, loss=0.453031480312
+Iteration 221500, loss=1.05760669708
+Iteration 221600, loss=0.938876509666
+Iteration 221700, loss=0.948699474335
+Iteration 221800, loss=0.404034584761
+Iteration 221900, loss=0.766412258148
+Iteration 222000, loss=0.54244107008
+Iteration 222100, loss=0.373377472162
+Iteration 222200, loss=0.917545795441
+Iteration 222300, loss=0.406719118357
+Iteration 222400, loss=3.35023331642
+Iteration 222500, loss=0.107692942023
+Iteration 222600, loss=1.07727122307
+Iteration 222700, loss=0.519433140755
+Iteration 222800, loss=0.436346381903
+Iteration 222900, loss=0.11325853318
+Iteration 223000, loss=0.241688832641
+Iteration 223100, loss=5.96048084844e-06
+Iteration 223200, loss=2.3841855068e-07
+Iteration 223300, loss=1.00835299492
+Iteration 223400, loss=0.231572106481
+Iteration 223500, loss=0.498520851135
+Iteration 223600, loss=0.491121411324
+Iteration 223700, loss=0.470512330532
+Iteration 223800, loss=1.54031515121
+Iteration 223900, loss=0.49015468359
+Iteration 224000, loss=6.56377983093
+Iteration 224100, loss=0.614440381527
+Iteration 224200, loss=0.949444174767
+Iteration 224300, loss=0.00425563519821
+Iteration 224400, loss=0.497226119041
+Iteration 224500, loss=1.15663671494
+Iteration 224600, loss=0.60197353363
+Iteration 224700, loss=0.559346199036
+Iteration 224800, loss=1.19209332183e-07
+Iteration 224900, loss=0.100067980587
+Iteration 225000, loss=0.999621331692
+Iteration 225100, loss=0.556789278984
+Iteration 225200, loss=0.379853665829
+Iteration 225300, loss=0.0161303207278
+Iteration 225400, loss=0.521058440208
+Iteration 225500, loss=0.00269585289061
+Iteration 225600, loss=0.327026933432
+Iteration 225700, loss=0.297986954451
+Iteration 225800, loss=1.11590671539
+Iteration 225900, loss=0.946648061275
+Iteration 226000, loss=0.0166710279882
+Iteration 226100, loss=1.16162073612
+Iteration 226200, loss=0.282964110374
+Iteration 226300, loss=0.703478515148
+Iteration 226400, loss=0.459896683693
+Iteration 226500, loss=0.0066886828281
+Iteration 226600, loss=0.859288811684
+Iteration 226700, loss=1.01892471313
+Iteration 226800, loss=0.423167824745
+Iteration 226900, loss=0.891949474812
+Iteration 227000, loss=0.324047625065
+Iteration 227100, loss=0.427457779646
+Iteration 227200, loss=0.887515902519
+Iteration 227300, loss=0.211194589734
+Iteration 227400, loss=0.54431694746
+Iteration 227500, loss=0.337610095739
+Iteration 227600, loss=0.000609822222032
+Iteration 227700, loss=0.271094411612
+Iteration 227800, loss=1.19209332183e-07
+Iteration 227900, loss=0.0679652839899
+Iteration 228000, loss=1.80375027657
+Iteration 228100, loss=0.429143607616
+Iteration 228200, loss=0.710536837578
+Iteration 228300, loss=0.63537478447
+Iteration 228400, loss=1.19209332183e-07
+Iteration 228500, loss=0.270604074001
+Iteration 228600, loss=0.395302891731
+Iteration 228700, loss=0.487805187702
+Iteration 228800, loss=1.31130252612e-06
+Iteration 228900, loss=0.974784433842
+Iteration 229000, loss=0.419973999262
+Iteration 229100, loss=0.62152493
+Iteration 229200, loss=1.11706018448
+Iteration 229300, loss=0.00252750748768
+Iteration 229400, loss=0.00372099969536
+Iteration 229500, loss=1.04898691177
+Iteration 229600, loss=0.450566589832
+Iteration 229700, loss=0.000580717751291
+Iteration 229800, loss=0.518414199352
+Iteration 229900, loss=0.44187644124
+Iteration 230000, loss=0.443195819855
+Nearest to from: the, and, a, to, of, by, is, in,
+Nearest to new: don, saw, frames, feels, hammer, mississippi, psychological, entrance,
+Nearest to be: their, was, the, or, is, a, s, of,
+Nearest to their: the, of, a, and, in, is, to, that,
+Nearest to have: the, in, of, is, was, on, a, and,
+Nearest to the: and, of, a, in, is, to, s, as,
+Nearest to people: anchor, cinema, dartmouth, error, days, singers, involved, paper,
+Nearest to many: the, in, and, s, is, or, to, on,
+Nearest to UNK: oh, promoted, fruits, albania, charlton, ptolemy, marking, behind,
+Nearest to s: the, and, in, a, of, to, is, with,
+Nearest to one: the, of, a, and, s, in, to, by,
+Nearest to than: and, in, the, his, a, of, their, such,
+Nearest to used: clean, provisional, surrender, virtually, mathematical, there, champions, finds,
+Nearest to to: the, and, of, in, a, is, as, with,
+Nearest to over: neighbours, benzene, lunar, decline, symmetric, very, unpopular, combines,
+Nearest to known: changing, ness, blocking, security, suited, today, commentaries, yugoslav,
+Iteration 230100, loss=0.388915657997
+Iteration 230200, loss=0.329532921314
+Iteration 230300, loss=0.531420767307
+Iteration 230400, loss=0.980924487114
+Iteration 230500, loss=0.632795214653
+Iteration 230600, loss=0.340033352375
+Iteration 230700, loss=0.481974720955
+Iteration 230800, loss=0.535236895084
+Iteration 230900, loss=0.593041241169
+Iteration 231000, loss=0.619629323483
+Iteration 231100, loss=0.507568955421
+Iteration 231200, loss=0.609174132347
+Iteration 231300, loss=0.531849443913
+Iteration 231400, loss=0.472169697285
+Iteration 231500, loss=1.13992679119
+Iteration 231600, loss=1.19209332183e-07
+Iteration 231700, loss=1.04819500446
+Iteration 231800, loss=1.19209332183e-07
+Iteration 231900, loss=1.79592549801
+Iteration 232000, loss=0.934781312943
+Iteration 232100, loss=0.514866650105
+Iteration 232200, loss=16.1180953979
+Iteration 232300, loss=0.250725656748
+Iteration 232400, loss=0.479021131992
+Iteration 232500, loss=1.01695108414
+Iteration 232600, loss=0.309045255184
+Iteration 232700, loss=0.38109639287
+Iteration 232800, loss=4.53056097031
+Iteration 232900, loss=0.507384777069
+Iteration 233000, loss=1.43721628189
+Iteration 233100, loss=0.55829834938
+Iteration 233200, loss=0.398504436016
+Iteration 233300, loss=0.4773234725
+Iteration 233400, loss=0.482471942902
+Iteration 233500, loss=0.406944185495
+Iteration 233600, loss=1.2058391571
+Iteration 233700, loss=0.265904188156
+Iteration 233800, loss=0.426540225744
+Iteration 233900, loss=0.42561390996
+Iteration 234000, loss=0.879725635052
+Iteration 234100, loss=0.799820899963
+Iteration 234200, loss=4.02935547754e-05
+Iteration 234300, loss=0.499235153198
+Iteration 234400, loss=0.463263452053
+Iteration 234500, loss=0.462135076523
+Iteration 234600, loss=1.93120868062e-05
+Iteration 234700, loss=0.573486626148
+Iteration 234800, loss=0.514727592468
+Iteration 234900, loss=1.19076955318
+Iteration 235000, loss=1.12925589085
+Iteration 235100, loss=0.318761646748
+Iteration 235200, loss=0.818162560463
+Iteration 235300, loss=0.39863845706
+Iteration 235400, loss=0.380224496126
+Iteration 235500, loss=1.09500455856
+Iteration 235600, loss=1.06513893604
+Iteration 235700, loss=0.0480770096183
+Iteration 235800, loss=0.206661731005
+Iteration 235900, loss=0.454133450985
+Iteration 236000, loss=0.283658385277
+Iteration 236100, loss=1.29815351963
+Iteration 236200, loss=0.328676581383
+Iteration 236300, loss=0.538385093212
+Iteration 236400, loss=1.19209332183e-07
+Iteration 236500, loss=0.556042671204
+Iteration 236600, loss=0.256925016642
+Iteration 236700, loss=0.511526107788
+Iteration 236800, loss=0.870088338852
+Iteration 236900, loss=0.000104432758235
+Iteration 237000, loss=1.03189015388
+Iteration 237100, loss=0.000783153926022
+Iteration 237200, loss=0.612211763859
+Iteration 237300, loss=16.1180953979
+Iteration 237400, loss=0.180494099855
+Iteration 237500, loss=0.369831979275
+Iteration 237600, loss=1.03565239906
+Iteration 237700, loss=0.452902257442
+Iteration 237800, loss=0.438681304455
+Iteration 237900, loss=0.00156853394583
+Iteration 238000, loss=1.19209332183e-07
+Iteration 238100, loss=1.19209332183e-07
+Iteration 238200, loss=0.568026065826
+Iteration 238300, loss=1.02167534828
+Iteration 238400, loss=0.64341801405
+Iteration 238500, loss=0.589636027813
+Iteration 238600, loss=1.24809956551
+Iteration 238700, loss=1.04382610321
+Iteration 238800, loss=0.879305362701
+Iteration 238900, loss=0.549823760986
+Iteration 239000, loss=0.582774400711
+Iteration 239100, loss=0.398632496595
+Iteration 239200, loss=0.441424787045
+Iteration 239300, loss=0.534690380096
+Iteration 239400, loss=0.42413303256
+Iteration 239500, loss=0.924061477184
+Iteration 239600, loss=1.3031680584
+Iteration 239700, loss=0.0222659166902
+Iteration 239800, loss=0.332640826702
+Iteration 239900, loss=0.583477973938
+Iteration 240000, loss=0.247325405478
+Nearest to from: the, and, a, to, of, is, by, in,
+Nearest to new: don, saw, beers, frames, hammer, feels, australia, mississippi,
+Nearest to be: their, the, was, or, is, s, a, and,
+Nearest to their: the, of, a, in, and, is, to, that,
+Nearest to have: the, was, in, of, on, is, and, a,
+Nearest to the: and, of, a, in, is, to, s, as,
+Nearest to people: youth, anchor, cinema, days, error, dartmouth, paper, rica,
+Nearest to many: the, in, and, s, is, or, to, on,
+Nearest to UNK: oh, fruits, promoted, charlton, albania, marking, ipcc, ptolemy,
+Nearest to s: the, and, in, a, of, to, is, with,
+Nearest to one: the, of, a, and, s, by, in, to,
+Nearest to than: and, in, the, of, a, s, his, nine,
+Nearest to used: clean, provisional, surrender, there, virtually, dances, mathematical, syndrome,
+Nearest to to: the, and, of, in, a, is, as, with,
+Nearest to over: neighbours, benzene, symmetric, nation, alter, conditions, unpopular, decline,
+Nearest to known: changing, ness, blocking, today, security, suited, abolition, up,
+Iteration 240100, loss=1.19209332183e-07
+Iteration 240200, loss=0.490501701832
+Iteration 240300, loss=0.908264636993
+Iteration 240400, loss=0.515407145023
+Iteration 240500, loss=1.00416302681
+Iteration 240600, loss=0.112421400845
+Iteration 240700, loss=0.785680174828
+Iteration 240800, loss=0.57960152626
+Iteration 240900, loss=1.36070454121
+Iteration 241000, loss=0.413728743792
+Iteration 241100, loss=0.67127853632
+Iteration 241200, loss=0.667090952396
+Iteration 241300, loss=0.478187084198
+Iteration 241400, loss=1.01403200626
+Iteration 241500, loss=1.19209332183e-07
+Iteration 241600, loss=1.02377820015
+Iteration 241700, loss=0.831817865372
+Iteration 241800, loss=0.909625768661
+Iteration 241900, loss=1.09893977642
+Iteration 242000, loss=0.961992800236
+Iteration 242100, loss=0.301715165377
+Iteration 242200, loss=0.726273059845
+Iteration 242300, loss=0.371438473463
+Iteration 242400, loss=0.28321313858
+Iteration 242500, loss=0.486410349607
+Iteration 242600, loss=0.0200964976102
+Iteration 242700, loss=0.395356029272
+Iteration 242800, loss=0.385010272264
+Iteration 242900, loss=1.05744838715
+Iteration 243000, loss=1.90735113392e-06
+Iteration 243100, loss=0.564467072487
+Iteration 243200, loss=0.472761750221
+Iteration 243300, loss=1.18669033051
+Iteration 243400, loss=0.326047986746
+Iteration 243500, loss=0.674738645554
+Iteration 243600, loss=2.26497922995e-06
+Iteration 243700, loss=0.49333974719
+Iteration 243800, loss=0.328481435776
+Iteration 243900, loss=0.457700014114
+Iteration 244000, loss=0.358378261328
+Iteration 244100, loss=0.998302578926
+Iteration 244200, loss=0.248170822859
+Iteration 244300, loss=1.42732334137
+Iteration 244400, loss=0.631400704384
+Iteration 244500, loss=0.000292880577035
+Iteration 244600, loss=0.767097711563
+Iteration 244700, loss=0.103151634336
+Iteration 244800, loss=1.1389503479
+Iteration 244900, loss=0.39940726757
+Iteration 245000, loss=0.296326458454
+Iteration 245100, loss=0.406099706888
+Iteration 245200, loss=0.340898990631
+Iteration 245300, loss=0.475848436356
+Iteration 245400, loss=1.26008939743
+Iteration 245500, loss=0.943496584892
+Iteration 245600, loss=0.410529077053
+Iteration 245700, loss=1.19209332183e-07
+Iteration 245800, loss=1.07814192772
+Iteration 245900, loss=0.848371148109
+Iteration 246000, loss=0.000419645104557
+Iteration 246100, loss=0.391124278307
+Iteration 246200, loss=0.720016300678
+Iteration 246300, loss=0.435375630856
+Iteration 246400, loss=1.22651410103
+Iteration 246500, loss=0.486020088196
+Iteration 246600, loss=1.1579310894
+Iteration 246700, loss=1.12698554993
+Iteration 246800, loss=0.49392169714
+Iteration 246900, loss=0.951650559902
+Iteration 247000, loss=1.31130252612e-06
+Iteration 247100, loss=0.319808214903
+Iteration 247200, loss=0.360184907913
+Iteration 247300, loss=0.528130233288
+Iteration 247400, loss=0.461476922035
+Iteration 247500, loss=0.460551947355
+Iteration 247600, loss=0.417507708073
+Iteration 247700, loss=0.882465302944
+Iteration 247800, loss=0.49765509367
+Iteration 247900, loss=0.529967665672
+Iteration 248000, loss=0.657001554966
+Iteration 248100, loss=0.436526954174
+Iteration 248200, loss=1.34751653671
+Iteration 248300, loss=1.02510452271
+Iteration 248400, loss=0.563891589642
+Iteration 248500, loss=0.344954758883
+Iteration 248600, loss=9.89441832644e-06
+Iteration 248700, loss=1.19209332183e-07
+Iteration 248800, loss=0.928241014481
+Iteration 248900, loss=1.16084134579
+Iteration 249000, loss=4.64927215944e-05
+Iteration 249100, loss=0.288424968719
+Iteration 249200, loss=1.19209332183e-07
+Iteration 249300, loss=0.434749096632
+Iteration 249400, loss=0.379218667746
+Iteration 249500, loss=0.964743852615
+Iteration 249600, loss=1.19209332183e-07
+Iteration 249700, loss=0.573140740395
+Iteration 249800, loss=0.137620791793
+Iteration 249900, loss=1.33590984344
+Iteration 250000, loss=3.88629778172e-05
+Nearest to from: the, and, a, to, of, by, is, in,
+Nearest to new: don, frames, beers, mb, hammer, feels, multiplication, trucks,
+Nearest to be: the, was, their, s, is, or, a, for,
+Nearest to their: the, of, in, a, and, is, that, to,
+Nearest to have: the, was, on, of, in, is, and, for,
+Nearest to the: and, of, a, in, is, to, s, as,
+Nearest to people: anchor, youth, cinema, days, error, dartmouth, rica, paper,
+Nearest to many: the, in, s, and, is, or, to, with,
+Nearest to UNK: promoted, oh, fruits, charlton, ipcc, marking, africans, explosive,
+Nearest to s: the, and, in, a, of, to, is, with,
+Nearest to one: the, of, a, and, in, s, by, to,
+Nearest to than: and, in, the, of, a, s, with, his,
+Nearest to used: there, surrender, clean, provisional, dances, stating, passive, virtually,
+Nearest to to: the, and, of, in, a, is, with, as,
+Nearest to over: cool, fleming, desktop, benzene, decline, lunar, electoral, nation,
+Nearest to known: changing, ness, blocking, suited, today, abolition, referred, gandhi,
+Iteration 250100, loss=0.949037492275
+Iteration 250200, loss=0.589366912842
+Iteration 250300, loss=0.449575424194
+Iteration 250400, loss=0.902893900871
+Iteration 250500, loss=0.0248785149306
+Iteration 250600, loss=0.51693302393
+Iteration 250700, loss=0.427690774202
+Iteration 250800, loss=0.526596546173
+Iteration 250900, loss=1.87691664696
+Iteration 251000, loss=0.299170583487
+Iteration 251100, loss=0.471690744162
+Iteration 251200, loss=0.397724628448
+Iteration 251300, loss=0.41944912076
+Iteration 251400, loss=1.19209332183e-07
+Iteration 251500, loss=0.37888905406
+Iteration 251600, loss=0.788884162903
+Iteration 251700, loss=0.302934169769
+Iteration 251800, loss=1.06169736385
+Iteration 251900, loss=0.711400330067
+Iteration 252000, loss=0.610829353333
+Iteration 252100, loss=0.397077769041
+Iteration 252200, loss=11.9170331955
+Iteration 252300, loss=1.29029989243
+Iteration 252400, loss=0.364121466875
+Iteration 252500, loss=0.519465565681
+Iteration 252600, loss=0.667789459229
+Iteration 252700, loss=1.07304382324
+Iteration 252800, loss=0.96923571825
+Iteration 252900, loss=0.747386932373
+Iteration 253000, loss=0.45981028676
+Iteration 253100, loss=0.48089376092
+Iteration 253200, loss=0.0974628552794
+Iteration 253300, loss=0.109406590462
+Iteration 253400, loss=0.473536431789
+Iteration 253500, loss=0.517874121666
+Iteration 253600, loss=0.537491083145
+Iteration 253700, loss=0.390799999237
+Iteration 253800, loss=0.398874104023
+Iteration 253900, loss=0.586860775948
+Iteration 254000, loss=0.219453379512
+Iteration 254100, loss=1.19209332183e-07
+Iteration 254200, loss=0.333294302225
+Iteration 254300, loss=0.478740692139
+Iteration 254400, loss=0.421790122986
+Iteration 254500, loss=0.490257799625
+Iteration 254600, loss=0.405887424946
+Iteration 254700, loss=0.867604017258
+Iteration 254800, loss=1.00987839699
+Iteration 254900, loss=1.19209332183e-07
+Iteration 255000, loss=0.447439849377
+Iteration 255100, loss=0.337107628584
+Iteration 255200, loss=0.228062406182
+Iteration 255300, loss=0.247071027756
+Iteration 255400, loss=0.477439641953
+Iteration 255500, loss=1.1116065979
+Iteration 255600, loss=0.464002788067
+Iteration 255700, loss=1.35892593861
+Iteration 255800, loss=0.469614446163
+Iteration 255900, loss=4.35128593445
+Iteration 256000, loss=1.23887825012
+Iteration 256100, loss=0.483448863029
+Iteration 256200, loss=0.395138263702
+Iteration 256300, loss=0.469293534756
+Iteration 256400, loss=0.182815864682
+Iteration 256500, loss=0.406557261944
+Iteration 256600, loss=0.333420723677
+Iteration 256700, loss=0.0272514540702
+Iteration 256800, loss=1.71928608418
+Iteration 256900, loss=1.19209332183e-07
+Iteration 257000, loss=1.00005269051
+Iteration 257100, loss=0.0522086210549
+Iteration 257200, loss=16.1180953979
+Iteration 257300, loss=9.25106651266e-05
+Iteration 257400, loss=0.323655843735
+Iteration 257500, loss=0.393244534731
+Iteration 257600, loss=1.19209332183e-07
+Iteration 257700, loss=1.01127481461
+Iteration 257800, loss=0.275747448206
+Iteration 257900, loss=1.19209332183e-07
+Iteration 258000, loss=1.1438395977
+Iteration 258100, loss=0.738204181194
+Iteration 258200, loss=0.510113120079
+Iteration 258300, loss=0.695345163345
+Iteration 258400, loss=0.30433806777
+Iteration 258500, loss=0.52659869194
+Iteration 258600, loss=1.19209332183e-07
+Iteration 258700, loss=0.487317442894
+Iteration 258800, loss=0.71958231926
+Iteration 258900, loss=1.19209332183e-07
+Iteration 259000, loss=0.388264149427
+Iteration 259100, loss=0.938120961189
+Iteration 259200, loss=1.08443033695
+Iteration 259300, loss=1.03513085842
+Iteration 259400, loss=6.67960071564
+Iteration 259500, loss=0.879033446312
+Iteration 259600, loss=1.38283776323e-05
+Iteration 259700, loss=0.195679664612
+Iteration 259800, loss=1.22784328461
+Iteration 259900, loss=0.385454654694
+Iteration 260000, loss=0.310053616762
+Nearest to from: the, and, a, to, of, by, is, in,
+Nearest to new: was, of, for, mb, multiplication, a, frames, remote,
+Nearest to be: the, is, s, was, their, a, or, of,
+Nearest to their: the, of, in, a, and, is, that, to,
+Nearest to have: the, was, of, in, and, on, is, a,
+Nearest to the: and, of, in, a, is, to, s, with,
+Nearest to people: rational, error, cinema, days, manufacturer, youth, anchor, paper,
+Nearest to many: in, the, and, s, is, with, to, or,
+Nearest to UNK: promoted, charlton, oh, fruits, ipcc, explosive, pinyin, africans,
+Nearest to s: the, and, in, a, of, to, is, with,
+Nearest to one: the, of, and, a, by, in, s, to,
+Nearest to than: and, in, the, of, s, a, with, his,
+Nearest to used: there, surrender, dances, clean, provisional, defend, passive, odd,
+Nearest to to: the, and, of, in, a, is, with, as,
+Nearest to over: desktop, outward, decline, fleming, cool, damages, assumptions, electoral,
+Nearest to known: changing, bind, referred, ness, gandhi, blocking, suited, abolition,
+Iteration 260100, loss=0.436158895493
+Iteration 260200, loss=16.1180953979
+Iteration 260300, loss=0.355050355196
+Iteration 260400, loss=1.19209332183e-07
+Iteration 260500, loss=0.387277543545
+Iteration 260600, loss=1.19209332183e-07
+Iteration 260700, loss=2.5511111744e-05
+Iteration 260800, loss=0.00273840734735
+Iteration 260900, loss=0.517909288406
+Iteration 261000, loss=1.19209332183e-07
+Iteration 261100, loss=16.1180953979
+Iteration 261200, loss=0.560773849487
+Iteration 261300, loss=0.000842568522785
+Iteration 261400, loss=1.08402252197
+Iteration 261500, loss=0.469058990479
+Iteration 261600, loss=1.36588287354
+Iteration 261700, loss=0.479858994484
+Iteration 261800, loss=0.467894434929
+Iteration 261900, loss=0.228835627437
+Iteration 262000, loss=0.439409732819
+Iteration 262100, loss=0.437117040157
+Iteration 262200, loss=0.530569911003
+Iteration 262300, loss=1.19209332183e-07
+Iteration 262400, loss=1.19209332183e-07
+Iteration 262500, loss=0.362270742655
+Iteration 262600, loss=0.280134350061
+Iteration 262700, loss=0.37266767025
+Iteration 262800, loss=0.564728736877
+Iteration 262900, loss=0.274135917425
+Iteration 263000, loss=0.0505418740213
+Iteration 263100, loss=0.417564183474
+Iteration 263200, loss=1.06096822492e-05
+Iteration 263300, loss=0.0611050240695
+Iteration 263400, loss=0.21060205996
+Iteration 263500, loss=0.413616597652
+Iteration 263600, loss=0.00651072477922
+Iteration 263700, loss=1.32219791412
+Iteration 263800, loss=0.56967073679
+Iteration 263900, loss=0.458601355553
+Iteration 264000, loss=0.833359360695
+Iteration 264100, loss=2.02655974135e-06
+Iteration 264200, loss=0.43067830801
+Iteration 264300, loss=1.26376461983
+Iteration 264400, loss=1.00445055962
+Iteration 264500, loss=0.826041460037
+Iteration 264600, loss=0.486702829599
+Iteration 264700, loss=0.458841741085
+Iteration 264800, loss=1.19209332183e-07
+Iteration 264900, loss=0.944564402103
+Iteration 265000, loss=0.433073192835
+Iteration 265100, loss=1.89747822285
+Iteration 265200, loss=0.414176106453
+Iteration 265300, loss=0.311125874519
+Iteration 265400, loss=0.379452288151
+Iteration 265500, loss=0.397074609995
+Iteration 265600, loss=0.76531368494
+Iteration 265700, loss=0.544401049614
+Iteration 265800, loss=0.521516442299
+Iteration 265900, loss=0.478918552399
+Iteration 266000, loss=0.560991227627
+Iteration 266100, loss=0.822933673859
+Iteration 266200, loss=0.767169892788
+Iteration 266300, loss=0.810351610184
+Iteration 266400, loss=1.08509457111
+Iteration 266500, loss=1.46324253082
+Iteration 266600, loss=1.35121369362
+Iteration 266700, loss=0.56714618206
+Iteration 266800, loss=1.01482796669
+Iteration 266900, loss=0.356679946184
+Iteration 267000, loss=1.31088471413
+Iteration 267100, loss=1.32802474499
+Iteration 267200, loss=0.353700459003
+Iteration 267300, loss=0.429359674454
+Iteration 267400, loss=0.371945410967
+Iteration 267500, loss=0.489341020584
+Iteration 267600, loss=0.485575258732
+Iteration 267700, loss=1.3898024559
+Iteration 267800, loss=0.433083742857
+Iteration 267900, loss=0.924742460251
+Iteration 268000, loss=1.19209332183e-07
+Iteration 268100, loss=0.390978455544
+Iteration 268200, loss=0.423790335655
+Iteration 268300, loss=1.03179121017
+Iteration 268400, loss=1.3619492054
+Iteration 268500, loss=0.524159550667
+Iteration 268600, loss=0.435771912336
+Iteration 268700, loss=1.14701414108
+Iteration 268800, loss=0.356085687876
+Iteration 268900, loss=2.27692271437e-05
+Iteration 269000, loss=0.331665486097
+Iteration 269100, loss=1.63946712017
+Iteration 269200, loss=0.338603824377
+Iteration 269300, loss=0.000477189401863
+Iteration 269400, loss=1.66893073583e-06
+Iteration 269500, loss=0.544407010078
+Iteration 269600, loss=1.09597325325
+Iteration 269700, loss=0.376426309347
+Iteration 269800, loss=1.38938355446
+Iteration 269900, loss=0.459792971611
+Iteration 270000, loss=1.19209332183e-07
+Nearest to from: the, and, a, is, of, to, by, in,
+Nearest to new: was, of, for, its, s, the, a, in,
+Nearest to be: the, is, s, a, their, or, was, for,
+Nearest to their: the, of, a, in, and, is, that, to,
+Nearest to have: the, in, was, and, of, is, a, on,
+Nearest to the: and, of, a, in, is, to, s, with,
+Nearest to people: error, rational, cinema, anchor, manufacturer, youth, days, dartmouth,
+Nearest to many: in, the, and, s, is, with, a, to,
+Nearest to UNK: promoted, charlton, fruits, oh, ipcc, pinyin, africans, explosive,
+Nearest to s: the, and, in, a, of, is, to, with,
+Nearest to one: the, of, a, and, s, by, in, to,
+Nearest to than: and, in, the, s, a, of, with, his,
+Nearest to used: there, surrender, dances, passive, provisional, clean, french, defend,
+Nearest to to: the, and, of, in, a, is, with, s,
+Nearest to over: decline, very, cool, braves, electoral, xavier, alter, assumptions,
+Nearest to known: bind, ness, changing, blocking, abolition, referred, suited, balkan,
+Iteration 270100, loss=0.378959357738
+Iteration 270200, loss=0.101360596716
+Iteration 270300, loss=1.19209332183e-07
+Iteration 270400, loss=0.636302649975
+Iteration 270500, loss=1.53484463692
+Iteration 270600, loss=0.314320832491
+Iteration 270700, loss=0.454153984785
+Iteration 270800, loss=0.527531266212
+Iteration 270900, loss=0.598485708237
+Iteration 271000, loss=0.583040833473
+Iteration 271100, loss=1.26187932491
+Iteration 271200, loss=0.282351851463
+Iteration 271300, loss=0.398175925016
+Iteration 271400, loss=0.386622160673
+Iteration 271500, loss=0.473113059998
+Iteration 271600, loss=0.27253100276
+Iteration 271700, loss=1.21963715553
+Iteration 271800, loss=0.227868631482
+Iteration 271900, loss=1.19209332183e-07
+Iteration 272000, loss=0.339971244335
+Iteration 272100, loss=0.441691219807
+Iteration 272200, loss=0.4375641644
+Iteration 272300, loss=0.540278792381
+Iteration 272400, loss=1.01234722137
+Iteration 272500, loss=0.264187991619
+Iteration 272600, loss=0.516252160072
+Iteration 272700, loss=0.37442201376
+Iteration 272800, loss=0.37683364749
+Iteration 272900, loss=0.503862440586
+Iteration 273000, loss=0.552650988102
+Iteration 273100, loss=0.489926040173
+Iteration 273200, loss=0.103242717683
+Iteration 273300, loss=1.03081190586
+Iteration 273400, loss=0.414876610041
+Iteration 273500, loss=1.13194906712
+Iteration 273600, loss=0.308399915695
+Iteration 273700, loss=0.558272600174
+Iteration 273800, loss=0.47858056426
+Iteration 273900, loss=0.369661718607
+Iteration 274000, loss=0.709200501442
+Iteration 274100, loss=0.405494391918
+Iteration 274200, loss=0.417963445187
+Iteration 274300, loss=1.35798382759
+Iteration 274400, loss=0.44369572401
+Iteration 274500, loss=0.151795729995
+Iteration 274600, loss=0.0782795846462
+Iteration 274700, loss=0.280689358711
+Iteration 274800, loss=0.552111625671
+Iteration 274900, loss=0.0587497204542
+Iteration 275000, loss=0.995348870754
+Iteration 275100, loss=0.524867355824
+Iteration 275200, loss=0.295636206865
+Iteration 275300, loss=0.00155116140377
+Iteration 275400, loss=0.560593485832
+Iteration 275500, loss=0.0519208498299
+Iteration 275600, loss=0.438845992088
+Iteration 275700, loss=1.03936433792
+Iteration 275800, loss=0.488010019064
+Iteration 275900, loss=0.509554624557
+Iteration 276000, loss=1.19209332183e-07
+Iteration 276100, loss=0.41167396307
+Iteration 276200, loss=0.476145684719
+Iteration 276300, loss=1.01516890526
+Iteration 276400, loss=0.501066565514
+Iteration 276500, loss=0.98383307457
+Iteration 276600, loss=1.25435245037
+Iteration 276700, loss=0.00888864975423
+Iteration 276800, loss=0.318160027266
+Iteration 276900, loss=1.158010602
+Iteration 277000, loss=0.439047753811
+Iteration 277100, loss=1.19209332183e-07
+Iteration 277200, loss=0.182798624039
+Iteration 277300, loss=0.208940729499
+Iteration 277400, loss=0.445358484983
+Iteration 277500, loss=0.586800217628
+Iteration 277600, loss=0.0604481361806
+Iteration 277700, loss=0.436207950115
+Iteration 277800, loss=0.385375887156
+Iteration 277900, loss=0.776885986328
+Iteration 278000, loss=0.373775988817
+Iteration 278100, loss=1.19209332183e-07
+Iteration 278200, loss=1.03591442108
+Iteration 278300, loss=0.374256134033
+Iteration 278400, loss=0.498499274254
+Iteration 278500, loss=0.984054982662
+Iteration 278600, loss=1.19209332183e-07
+Iteration 278700, loss=0.599654436111
+Iteration 278800, loss=0.309196203947
+Iteration 278900, loss=0.000834455364384
+Iteration 279000, loss=0.435512632132
+Iteration 279100, loss=0.375265419483
+Iteration 279200, loss=1.19209332183e-07
+Iteration 279300, loss=0.471232354641
+Iteration 279400, loss=0.373598009348
+Iteration 279500, loss=0.453966796398
+Iteration 279600, loss=1.34581804276
+Iteration 279700, loss=0.0101954340935
+Iteration 279800, loss=0.00814876053482
+Iteration 279900, loss=1.19209332183e-07
+Iteration 280000, loss=0.24520085752
+Nearest to from: the, and, a, of, is, to, in, by,
+Nearest to new: of, was, for, a, its, the, s, in,
+Nearest to be: the, s, is, a, their, or, of, for,
+Nearest to their: the, of, a, in, and, is, that, to,
+Nearest to have: the, was, in, and, on, of, a, is,
+Nearest to the: and, of, a, in, is, to, s, with,
+Nearest to people: error, rational, anchor, manufacturer, youth, days, pressing, cinema,
+Nearest to many: in, s, and, the, is, with, or, on,
+Nearest to UNK: promoted, oh, charlton, explosive, ipcc, africans, fruits, world,
+Nearest to s: the, and, in, a, of, is, to, was,
+Nearest to one: the, of, a, and, s, by, in, to,
+Nearest to than: and, in, the, of, a, with, s, an,
+Nearest to used: there, surrender, dances, passive, wings, provisional, french, clean,
+Nearest to to: the, and, of, in, a, is, with, s,
+Nearest to over: decline, outward, very, electoral, conventions, benzene, xavier, damages,
+Nearest to known: bind, ness, changing, referred, gandhi, balkan, lambda, blocking,
+Iteration 280100, loss=0.220953732729
+Iteration 280200, loss=1.07946145535
+Iteration 280300, loss=0.197023645043
+Iteration 280400, loss=1.21889281273
+Iteration 280500, loss=1.06574141979
+Iteration 280600, loss=0.350339949131
+Iteration 280700, loss=0.00267075235024
+Iteration 280800, loss=1.09644150734
+Iteration 280900, loss=0.425181388855
+Iteration 281000, loss=0.414933234453
+Iteration 281100, loss=0.425429195166
+Iteration 281200, loss=0.505998492241
+Iteration 281300, loss=0.46550911665
+Iteration 281400, loss=0.373984456062
+Iteration 281500, loss=0.494289427996
+Iteration 281600, loss=5.96046561441e-07
+Iteration 281700, loss=0.261043250561
+Iteration 281800, loss=0.0340591333807
+Iteration 281900, loss=0.376984894276
+Iteration 282000, loss=0.000286083610263
+Iteration 282100, loss=0.994623482227
+Iteration 282200, loss=0.383612245321
+Iteration 282300, loss=0.414695262909
+Iteration 282400, loss=1.16872131824
+Iteration 282500, loss=1.14911520481
+Iteration 282600, loss=0.220919325948
+Iteration 282700, loss=1.19209332183e-07
+Iteration 282800, loss=1.30882930756
+Iteration 282900, loss=0.462348282337
+Iteration 283000, loss=0.383170127869
+Iteration 283100, loss=0.00051774084568
+Iteration 283200, loss=0.399605810642
+Iteration 283300, loss=1.19209332183e-07
+Iteration 283400, loss=0.384221166372
+Iteration 283500, loss=0.426143556833
+Iteration 283600, loss=1.25170563479e-05
+Iteration 283700, loss=0.896977901459
+Iteration 283800, loss=0.434906840324
+Iteration 283900, loss=0.473900318146
+Iteration 284000, loss=0.623786509037
+Iteration 284100, loss=0.59274315834
+Iteration 284200, loss=1.14492058754
+Iteration 284300, loss=16.1180953979
+Iteration 284400, loss=1.07813382149
+Iteration 284500, loss=1.0381346941
+Iteration 284600, loss=1.15944123268
+Iteration 284700, loss=0.970358848572
+Iteration 284800, loss=0.589787304401
+Iteration 284900, loss=0.393988102674
+Iteration 285000, loss=0.315241664648
+Iteration 285100, loss=0.368729293346
+Iteration 285200, loss=1.19209332183e-07
+Iteration 285300, loss=0.000358288147254
+Iteration 285400, loss=0.0029179060366
+Iteration 285500, loss=0.336138308048
+Iteration 285600, loss=5.96046561441e-07
+Iteration 285700, loss=1.03942704201
+Iteration 285800, loss=0.350335776806
+Iteration 285900, loss=0.360023766756
+Iteration 286000, loss=1.08556270599
+Iteration 286100, loss=1.05163168907
+Iteration 286200, loss=0.0764525905252
+Iteration 286300, loss=1.15936219692
+Iteration 286400, loss=0.460854291916
+Iteration 286500, loss=0.980043113232
+Iteration 286600, loss=0.00242855749093
+Iteration 286700, loss=0.520607590675
+Iteration 286800, loss=1.24076843262
+Iteration 286900, loss=1.71109414101
+Iteration 287000, loss=0.329141795635
+Iteration 287100, loss=0.384099245071
+Iteration 287200, loss=1.19209332183e-07
+Iteration 287300, loss=0.413409680128
+Iteration 287400, loss=0.598909080029
+Iteration 287500, loss=0.000253888341831
+Iteration 287600, loss=0.134485200047
+Iteration 287700, loss=0.275449961424
+Iteration 287800, loss=0.349704712629
+Iteration 287900, loss=0.363052666187
+Iteration 288000, loss=1.11026918888
+Iteration 288100, loss=0.830232560635
+Iteration 288200, loss=0.470986604691
+Iteration 288300, loss=8.20491218567
+Iteration 288400, loss=0.467345297337
+Iteration 288500, loss=6.83092221152e-05
+Iteration 288600, loss=1.2414675951
+Iteration 288700, loss=0.514339804649
+Iteration 288800, loss=0.946021616459
+Iteration 288900, loss=0.537215471268
+Iteration 289000, loss=1.16804611683
+Iteration 289100, loss=0.40896782279
+Iteration 289200, loss=0.586665511131
+Iteration 289300, loss=1.01392543316
+Iteration 289400, loss=2.90643310547
+Iteration 289500, loss=5.26738977432
+Iteration 289600, loss=0.977960467339
+Iteration 289700, loss=1.19209332183e-07
+Iteration 289800, loss=1.19209332183e-07
+Iteration 289900, loss=0.555525362492
+Iteration 290000, loss=0.382832229137
+Nearest to from: the, and, of, a, is, in, to, by,
+Nearest to new: of, was, a, the, for, in, from, s,
+Nearest to be: the, s, is, a, their, for, of, was,
+Nearest to their: the, of, a, in, and, is, that, to,
+Nearest to have: the, was, in, on, and, a, of, is,
+Nearest to the: and, of, a, in, is, to, s, with,
+Nearest to people: error, rational, anchor, pressing, youth, manufacturer, days, classical,
+Nearest to many: in, s, and, the, is, or, on, with,
+Nearest to UNK: charlton, promoted, world, oh, explosive, ipcc, pinyin, fruits,
+Nearest to s: the, and, in, a, of, is, to, was,
+Nearest to one: the, of, a, and, s, by, in, two,
+Nearest to than: and, in, the, with, of, a, his, an,
+Nearest to used: there, dances, wings, surrender, passive, clean, french, provisional,
+Nearest to to: the, and, of, a, in, is, with, s,
+Nearest to over: decline, response, electoral, conventions, assumptions, songs, learned, very,
+Nearest to known: bind, referred, changing, gravitational, balkan, gandhi, ness, pick,
+Iteration 290100, loss=0.824770092964
+Iteration 290200, loss=0.675647735596
+Iteration 290300, loss=1.19209332183e-07
+Iteration 290400, loss=0.423586279154
+Iteration 290500, loss=1.07799613476
+Iteration 290600, loss=1.41718184948
+Iteration 290700, loss=0.54799336195
+Iteration 290800, loss=3.88342428207
+Iteration 290900, loss=0.303018838167
+Iteration 291000, loss=1.19209332183e-07
+Iteration 291100, loss=0.374509871006
+Iteration 291200, loss=0.458934038877
+Iteration 291300, loss=0.444446802139
+Iteration 291400, loss=1.26904988289
+Iteration 291500, loss=0.353601187468
+Iteration 291600, loss=0.026582447812
+Iteration 291700, loss=1.03506040573
+Iteration 291800, loss=0.283927291632
+Iteration 291900, loss=1.10454630852
+Iteration 292000, loss=0.809629678726
+Iteration 292100, loss=1.42418432236
+Iteration 292200, loss=0.00354805472307
+Iteration 292300, loss=0.541474461555
+Iteration 292400, loss=0.431420564651
+Iteration 292500, loss=0.378325641155
+Iteration 292600, loss=0.31073063612
+Iteration 292700, loss=0.344999670982
+Iteration 292800, loss=0.305301249027
+Iteration 292900, loss=0.345351457596
+Iteration 293000, loss=0.35487344861
+Iteration 293100, loss=1.10837423801
+Iteration 293200, loss=1.33406090736
+Iteration 293300, loss=0.365320384502
+Iteration 293400, loss=0.479597866535
+Iteration 293500, loss=2.6226070986e-06
+Iteration 293600, loss=6.65397357941
+Iteration 293700, loss=0.319516658783
+Iteration 293800, loss=1.19209332183e-07
+Iteration 293900, loss=1.67621135712
+Iteration 294000, loss=0.42817363143
+Iteration 294100, loss=0.519470870495
+Iteration 294200, loss=1.55560183525
+Iteration 294300, loss=0.588830649853
+Iteration 294400, loss=0.550103068352
+Iteration 294500, loss=0.872056484222
+Iteration 294600, loss=0.321745991707
+Iteration 294700, loss=1.19209332183e-07
+Iteration 294800, loss=1.33153641224
+Iteration 294900, loss=1.31364047527
+Iteration 295000, loss=0.471810758114
+Iteration 295100, loss=0.409085333347
+Iteration 295200, loss=1.13039839268
+Iteration 295300, loss=0.229419097304
+Iteration 295400, loss=0.446973741055
+Iteration 295500, loss=2.68224594038e-05
+Iteration 295600, loss=8.34465311073e-07
+Iteration 295700, loss=0.508993387222
+Iteration 295800, loss=0.364469707012
+Iteration 295900, loss=0.474203407764
+Iteration 296000, loss=1.06096822492e-05
+Iteration 296100, loss=1.22121357918
+Iteration 296200, loss=0.496897757053
+Iteration 296300, loss=1.19209332183e-07
+Iteration 296400, loss=0.523737728596
+Iteration 296500, loss=0.548539280891
+Iteration 296600, loss=1.00777196884
+Iteration 296700, loss=0.228756561875
+Iteration 296800, loss=0.610456109047
+Iteration 296900, loss=0.982111752033
+Iteration 297000, loss=0.429742068052
+Iteration 297100, loss=1.19209332183e-07
+Iteration 297200, loss=16.1180953979
+Iteration 297300, loss=0.521916806698
+Iteration 297400, loss=0.545526444912
+Iteration 297500, loss=0.414081245661
+Iteration 297600, loss=0.437071919441
+Iteration 297700, loss=0.512194633484
+Iteration 297800, loss=1.2632522583
+Iteration 297900, loss=0.393326401711
+Iteration 298000, loss=0.359877496958
+Iteration 298100, loss=0.288892865181
+Iteration 298200, loss=0.0418559461832
+Iteration 298300, loss=0.202481135726
+Iteration 298400, loss=14.5560913086
+Iteration 298500, loss=0.000455542700365
+Iteration 298600, loss=0.591381728649
+Iteration 298700, loss=0.500858485699
+Iteration 298800, loss=1.07288587093
+Iteration 298900, loss=0.422033548355
+Iteration 299000, loss=0.961957097054
+Iteration 299100, loss=0.440314799547
+Iteration 299200, loss=0.420787543058
+Iteration 299300, loss=1.30964636803
+Iteration 299400, loss=1.24706399441
+Iteration 299500, loss=1.19209332183e-07
+Iteration 299600, loss=0.475954532623
+Iteration 299700, loss=0.388504415751
+Iteration 299800, loss=0.307638466358
+Iteration 299900, loss=0.00385992554948
+Nearest to from: the, and, is, of, a, in, to, s,
+Nearest to new: of, was, a, the, for, in, to, s,
+Nearest to be: the, s, is, a, for, was, of, their,
+Nearest to their: the, of, a, in, and, is, to, that,
+Nearest to have: the, in, was, a, on, and, of, is,
+Nearest to the: and, of, a, in, is, to, s, as,
+Nearest to people: error, youth, rational, pressing, days, anchor, paper, manufacturer,
+Nearest to many: s, in, and, the, is, with, on, was,
+Nearest to UNK: charlton, promoted, explosive, oh, world, pinyin, ipcc, fruits,
+Nearest to s: the, and, in, a, of, is, to, for,
+Nearest to one: the, of, a, and, s, by, two, in,
+Nearest to than: and, in, the, an, nine, a, with, s,
+Nearest to used: there, passive, french, access, wings, dances, surrender, discography,
+Nearest to to: the, and, of, a, in, is, s, with,
+Nearest to over: gabon, decline, response, conventions, electoral, respect, assumptions, learned,
+Nearest to known: referred, bind, changing, gravitational, balkan, definitions, gandhi, pick,
