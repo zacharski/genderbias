@@ -1,0 +1,78 @@
+
+Specialties: Web development, Software development, Project management, Database administrator, System analysis, Data warehousing 
+
+Developer
+Company NameDancing Mammoth
+Dates EmployedApr 2012 – Nov 2015
+Employment Duration3 yrs 8 mos
+LocationRemote
+Working from home, I revamp sites and add on to stable ones. I do this using a variety platforms from Codeigniter, to Drupal, to rather old platforms that cause one to cry. I mostly focus on the backend, but I am known to get knee deep into JQuery.
+
+Some of the major projects I have worked on are as follows -
+
+I’ve been taking care Reason Magazine’s website, adding new features and completing redesigns. This custom built CMS constantly is adding new features to make it easier for authors and readers alike and I am in the thick of implementation. I also work with a variety of vendors that provide services, such as advertisements and print editions, to build and implement API’s. I’ve also implemented automatic behaviors to make things like tweeting new stories pain free.
+
+Upgrading Drupal site Derivsource.com from version 6 to 7, and all the subsequent maintenance.
+
+Washingtonwatch.com allowed me to expand my data management skills through the following process: building a database to support cron jobs that scrape and transform government bill data from a variety of different sources. Once that information is loaded in to the database the website runs a variety of MySQL queries to aggregate data to allow user to draw correlations the would not be able to otherwise.
+
+For those of the non-deep reading type here is brief list of technologies I have been working with: MySQL, PHP, Codeigniter, XML, XSLT, HTML, JQuery, LAMP, REST APIs, SVN, DFP, Google Analytics, Amazon S3, customer relations, project life cycle, testing, and Google-fu.Specialties: Web development, Software development, Project management, Database administrator, System analysis, Data warehousing 
+
+Web Developer
+Company NamePacific Software Publishing, Inc.
+Dates EmployedAug 2011 – Mar 2012
+Employment Duration8 mos
+LocationBellevue, WA
+Learned CakePHP on the job, and became a team contributor in less than a week of on boarding. Took over as lead developer on two critical projects. Successfully altered design of current system to implement access control list (ACL). Designed/created MYSQL triggers and procedures to synchronize two different databases. Setup virtual environments to host various projects. Developing several internal sites from start to finish, also maintains sites from old code bases . Proudest accomplishment – turning a 300 line function in to a 20 line dynamic MYSQL query.
+
+Founder
+Company NameMorning Luck
+Dates EmployedJan 2008 – 2012
+Employment Duration4 yrs
+Conducted research on Tanzanian educational system. Leveraged that research to establish Morning Luck, which focuses on empowering underprivileged youth in Tanzania, encouraging them to use available resources and providing additional help necessary for them to successfully complete secondary school. Led fundraising efforts to cover financial requirements of program. Negotiated admittance of students to quality secondary school. Mentored students to ensure scholastic success. Created program website.
+
+Database Design and Development Teacher Assistant
+Company NameBYU-Idaho
+Dates EmployedSep 2010 – Apr 2011
+Employment Duration8 mos
+Assist students with learning when professor unavailable. Identify where students are lacking in understanding, then explain concepts in a way that they can comprehend. Assist students with their Oracle and MySQL assignments to correct errors and missing concept application.
+
+Retail Application Quality Assurance and Test Intern
+Company NameT-Mobile
+Dates EmployedJun 2010 – Aug 2010
+Employment Duration3 mos
+Quickly gained an understanding of the software lifecycle in a cooperate environment and applied knowledge to become a contributing intern. Studied business requirements to create and run effective test cases. Worked with project managers and test leads to met deadlines. Functioned as a liaison between developers and different application groups to resolve software defects. Tracked and reported my team’s daily status to upper management. Assisted in development a new key performance indicator (KPI) to track the team productivity.
+
+
+
+Heber J. Grant Program - BYU-Idaho
+Total Duration8 mos
+TitlePathway Coordinator
+Dates EmployedJan 2010 – Apr 2010
+Employment Duration4 mos
+Lead communications between distance learners in Meza, Arizona and campus courseware team. Worked with team to develop foundation training and training for peer to peer distance learning (a new method of online education to be offered exclusively at BYU-Idaho).
+TitlePeer Facilitator Area Director, Fall 2009
+Dates EmployedSep 2009 – Dec 2009
+Employment Duration4 mos
+Functioned as backbone for Life Skills class of 65 students and 6 peer teachers (known as “peer-facilitators”). Took lead in creating semester teaching schedule, effective teacher trainings, electronic grading logbooks and other electronic tools, class and meeting agendas, and effective documentation to ensure success of subsequent area directors. Communicated expectations to all teachers and students and tracked performance against expectations. Successfully lead peer facilitators to achieve established goals. Assisted in writing and revising course manual.
+
+Volunteer Computer Lab Manager
+Company NameEast Coast Secondary School
+Dates EmployedApr 2009 – May 2009
+Employment Duration2 mos
+Pieced together ten working computers using components from thirty nonfunctional machines. Reinstalled and updated operating systems and application software.
+Volunteer Computer Skills Instructor
+Introduced basic computer concepts to computer-illiterate school community. Identified mental and cultural obstacles to gaining computer literacy. Developed lessons and class assignments to overcome these obstacles.
+
+
+Peer Facilitator, Winter 2009
+Company NameHeber J. Grant Program - BYU-Idaho
+Dates EmployedJan 2009 – Apr 2009
+Employment Duration4 mos
+Co-taught Life Skills class of 30 students from disadvantaged backgrounds. Created and fostered ideal learning environment where students and teachers learned from each other. Led development and delivery of custom lesson plans. Applied organizational skills in grading and recording student assignments. Met regularly with program leaders and teachers, communicating course successes, identifying areas of weakness, and recommending corrective action to improve our service to students.
+
+
+
+
+
+

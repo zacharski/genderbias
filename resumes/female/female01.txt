@@ -1,0 +1,116 @@
+Senior ServiceNow Developer
+Company NameThe University of Texas at Austin
+Dates EmployedOct 2017 – Present
+Employment Duration2 yrs 5 mos
+LocationAustin, Texas Area
+- Performed ServiceNow upgrades from Istanbul to Kingston, Madrid then Orlando supporting 1200 roled users, 70K students/employees and 609K end users.
+- Enhanced core modules and developed Service Catalog requests using Workflow Editor and Flow Designer.
+- Created custom inbound email actions and scheduled jobs to integrate with 3rd party equipment and software systems.
+- Developed and reverse engineered 1000s of Business Rules, Client Scripts, ACLs, Notifications and UI Policies.
+- Implemented Shibboleth/AD SSO upgrades.
+- Trained 6 employees in Service Catalog and Flow Designer development for transition from Workflow Editor to Flow Designer.
+- Performed Admin support for 4-6 developers across 6 cloud instances including source promotion, QA and monthly releases.
+- Delivered residential and personal network access services incorporating RESTful integrations with IAM and Credit Card processes.
+- Implementing Change Management.
+- Developed Service Portal enhancements supporting transition from CMS to Service Portal.
+- Developed Service Catalog / Asset Management solution to support bulk purchases and transfers of Office 365 online licenses.
+
+
+Senior Software Engineer
+Company NameService Media
+Dates EmployedJan 2016 – Present
+Employment Duration4 yrs 2 mos
+LocationAustin, Texas Area
+- Developed Java EE7 web application allowing speciality gas producers to build and print pdf Certificates of Analysis and cylinder labels for chemical industry clients. Incorporated JSF2.2, JPA2.1, openEJB, JasperReports, MySQL and Apache TomEE7 technologies.
+- Built mobile friendly web app for Pet Transportation business, We Move Pets, utilizing
+Bootstrap, JSON and a node.js backend hosted at AWS.
+- Facilitated venture funding demos for virtual reality startupTheWaveVR and testing of Safety in a Box, Texas Mutual Insurance Company’s virtual reality safety training simulation.
+
+Programmer IV
+Company NameOffice of the Attorney General of Texas
+Dates EmployedApr 2012 – Dec 2015
+Employment Duration3 yrs 9 mos
+LocationAustin, Texas Area
+- Built a travel voucher, advance and unused airline ticket tracking system for the Accounting division incorporating bar coding, iText pdfs, hashing and encryption.
+- Built a weapons inventory, qualification and training system for the Law Enforcement division incorporating Alfresco CMIS and Outlook email/appointment web services.
+- Maintained and executed annual AG loan repayment processes and secure SSL data exchanges with The College Board.
+- Created n-tiered Java solutions using JSF/Richfaces, JQuery, Seam, EJBs and Hibernate on a JBoss Web Server with MySQL and SQLServer DBs. Worked with SVN source control, Maven builds, AquaDataStudio DB client, JIRA and Confluence. Achieved ITIL Certification.
+- Developed Salesforce pages, email templates, Apex triggers, test scripts and workflows for procurement & complaint tracking apps. Executed production deployment of complaint tracking.
+
+Senior Developer / Owner
+Company NameSoft Code Technologies Inc.
+Dates EmployedMar 1999 – Jan 2012
+Employment Duration12 yrs 11 mos
+LocationAustin, Texas Area
+- Developed game logic and backend system for iPhone and Android 3D baseball game, Jon
+Lester's Hardball Ace. Integrated with Facebook, Twitter, GameCenter and Apple in-game
+purchasing APIs. Developed game logic and backend system for database driven 3D
+interactive Facebook gardening game, GardenQuest, using Facebook Credit & Graph APIs.
+Employed Unity, JavaScript, PHP and MySQL technologies.
+- Performed technical review and maintenance for a Spring MVC and Hibernate restaurant
+reservation and social networking web app, MyTableNow. Researched for transition to Spring Web Flow.
+- Built Java CRM web app for the automotive industry using JSF, Oracle TopLink JPA, JavaMail & NetBeans. Deployed on Tomcat and Apache with Linux OS using MySQL. Conducted analysis of competing offerings and design meetings with client. Delivered contact and lead management, multi-dealer views, floating sales personnel and customer follow up with dynamic html email brochures.
+- Developed Java web reporting and customer inquiry system for a specialty gas distribution
+company to extend a legacy C / Linux system. Wrote bash scripts to extract non-tabular
+legacy data into a MySQL database on a remote web server. Deployed on Tomcat/Linux OS.
+- Built the Ownership Module of the Texas Employer Tax Information Online Registration
+system deployed on an IBM zSeries. Utilized WebSphere 5.1, Java, a customized J2EE
+Struts framework and object relational bridges to DB2 stored procedures. Developed and
+ran detailed unit test scripts for 80% of the ETIO registration system.
+- Developed a Java web project management system to gather, prioritize and structure
+requirements. Integrated NLP components from Stanford developers. Reduced timeframe of
+client processes 85%. Utilized JSP, JavaBeans, XML and Torque-generated components on
+Tomcat. Deployed on Windows 2000 Server / SQL Server 2000 and IBM iSeries/DB2.
+Designed databases. Configured Windows 2000 Servers and Cisco PIX firewalls.
+
+
+
+Programmer V
+Company NameTexas Department of Family and Protective Services
+Dates EmployedJun 2008 – Mar 2010
+Employment Duration1 yr 10 mos
+LocationAustin, Texas Area
+- Saved 3000+ hours annually automating FBI fingerprint background checks processing between a WebLogic Java application IMPACT and AFIS. Conducted requirements gathering sessions with internal and external participants. Reverse engineered undocumented solutions in Java, C# .Net and Cobol. Developed detailed designs. Built Unix bash and Java batch processes to transmit new requests to state fingerprint vendor. Implemented C# application to retrieve consolidated DPS and FBI criminal history results via RESTful web service. Built Java application and Ant build scripts to parse XML results and generate secure encoded fingerprint match results. Resolved security gaps with a JSTL/Java error handling solution to allow review of encrypted unmatched criminal history results and XML update for re-processing.
+- Built numerous JSP, J2EE & C service enhancements to IMPACT Intake and Background Check modules using Eclipse & WebLogic. Supported each production release.
+- Closed lingering 2 year Agile project by developing a comprehensive detailed design for a children and elderly abuse reporting web app (http://www.txabusehotline.org). Integrated 100s of design documents into a 300+ page design detailing the flow, rules, display and backend interface requirements for 42 UIs with 4000+ input elements across 2 wizard processes. Conducted user review sessions achieving sign off within 3 months. Directed 3 developers through re-engineering from VB .Net to C# .Net. Implemented C# and JS enhancements using NHibernate, VSS & jQuery. Built and ran test cases for multiple QA and production releases.
+
+
+Integrated Test & Business Analyst
+Company NameAccenture
+Dates EmployedOct 2005 – Dec 2006
+Employment Duration1 yr 3 mos
+LocationAustin, Texas Area
+- Developed Java delegates via WebSphere for SOAP web service access to the business
+layer of the Texas integrated eligibility system, TIERS. Performed peer reviews of java
+classes. Wrote & executed web service Assembly tests. Generated numerous 4000+
+element XML test files representing Application Registration & Data Collection input.
+- Led 3-6 person test teams developing high level and detailed test plans for TIERS to MAXe
+Approximate Verification Checklist, Recertification web services and six new Foster Care
+and Adoption Assistance programs. Executed and trained new testers in running TIERS,
+MAXe, Self Service Portal and State Portal test scripts via Mercury Quality Center.
+- Conducted peer reviews of test plans, functional designs and technical design documents.
+Resolved defects with TIERS, batch and MAXe developers. Presented to state reviewers.
+
+
+Consultant
+Company NameInformation System Resources
+Dates EmployedSep 1995 – Feb 1999
+Employment Duration3 yrs 6 mos
+LocationAustin, Texas Area
+- Served as project lead and developer modifying an IBM iSeries loan accounting system for
+Texas Farm Credit Bank. Developed estimates & detailed designs for team of 4. Designed
+implemented custom agricultural line-of-credit agreements, renewals and multi-bank
+participations software solutions. Developed VB app for employee update of HR benefits.
+
+Analyst/Programmer
+Company NameBlockbuster Entertainment Corporation
+Dates EmployedDec 1991 – May 1995
+Employment Duration3 yrs 6 mos
+LocationMiami/Fort Lauderdale Area
+- Facilitated a J.D. Edwards conversion modifying financial apps and integrating external fixed
+asset systems. Conducted fixed asset conversions and G/L reconciliation for domestic
+acquisitions and mergers. Created flexible comparative revenue reports for store operations
+improving performance 60%. Completed integration programming for automated extraction &
+restructuring of remote G/L data prior to posting to J.D. Edwards. Converted an IBM
+mainframe POS system from MVS Cobol/JCL to AS/400 Cobol/CL. Installed and tested
+system in UK European headquarters.

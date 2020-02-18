@@ -1,0 +1,97 @@
+Senior Consultant
+Company NameExperis
+Dates EmployedJul 2018 – Present
+Employment Duration1 yr 8 mos
+LocationAustin, Texas Area
+Working at client sites for big multinational companies building e-commerce web applications with C#, .NET, WebAPI, ASP.NET MVC, Entity Framework, SQL, Angular.JS, Angular 6, Javascript and Typescript. Fixing bugs and implementing new features in legacy applications using Angular.JS; taking part in the rewrite of a legacy application in a new stack using Web API and Angular 6. Writing unit tests using NUnit, Moq, and Jasmine.
+
+Software Developer
+Company NameWorldpay
+Dates EmployedJul 2017 – Jan 2018
+Employment Duration7 mos
+A contract through Insight Global. Writing applications for payment processing using .NET Core, Web API, and Angular 2.
+
+Software Developer
+Company NameCompeat Restaurant Management Systems
+Dates EmployedJan 2016 – Apr 2017
+Employment Duration1 yr 4 mos
+Full-stack developer building products for restaurant industry. Rewriting legacy software in a modern technology stack comprising Angular.js, Typescript, Javascript, C# and SQL, as well as adding new features that didn't exist in the old version. Implemented complex frontend behaviors to enable users easily schedule employees for work, as well as backend logic to assure compliance with labor laws. Worked closely with UX developer to maintain consistent look and feel throughout the application. Wrote unit tests for server side and client side, the latter using Jasmine testing framework. Wrote SQL stored procedures.
+
+Software Developer
+Company NameHanger Orthopedics Group
+Dates EmployedSep 2015 – Dec 2015
+Employment Duration4 mos
+LocationAustin, Texas Area
+(Contractor.)
+
+Developing the front-end (HTML / CSS / Bootstrap / JQuery), middle tier (C#) and backend (SQL Server) of a web application for generating and managing invoices from data coming from multiple sources based on complex business rules.
+
+Software Engineer
+Company Namee-MDs
+Dates EmployedFeb 2015 – Jun 2015
+Employment Duration5 mos
+LocationAustin, Texas Area
+(Contractor.)
+
+Quickly learned two proprietary Javascript frameworks that the company used, and fixed many bugs spanning different parts of a web application for medical practice management. This resulted in making the application much more usable, and significantly reducing the number of critical bugs.
+Implemented new features using Javascript for the front-end; REST services and middle-tier code using MVC, C#, and .NET 4.5; integrated these web services with the frontend.
+
+Wrote stored procedures for SQL Server.
+
+Software Developer
+Company NameAssurant Specialty Property
+Dates EmployedSep 2014 – Jan 2015
+Employment Duration5 mos
+LocationAustin, Texas Area
+(Contractor.)
+
+Developed the business layer and data access layer of C# applications for interfacing with external accounting systems and third-party software; designed and wrote the C# code that interacted with the database, using ADO.NET, and the controller code to transform the data into the format expected by the clients; wrote SQL Server stored procedures, as well as updated existing ones, to generate this data. Wrote unit tests.
+
+Java Developer
+Company NamePayPal
+Dates EmployedSep 2013 – Aug 2014
+Employment Duration1 yr
+LocationAustin, Texas Area
+Contractor in Paypal Professional Services Group.
+
+Developed REST services and business tier code for web applications in Java, using Spring MVC framework, and Hibernate framework for interaction with the Oracle database. Created unit tests in JUnit.
+
+Developed parts of web application frontend: created forms and UI controls with HTML, CSS, Bootstrap, and Dust.js templating system; implemented their behaviors using Javascript and JQuery; integrated this front-end with a Node.js backend; implemented part of server’s API using a Node.js framework Express.js.
+
+Software Engineer
+Company NameNextGen Healthcare Information Systems
+Dates EmployedNov 2012 – Jun 2013
+Employment Duration8 mos
+LocationAustin, Texas Area
+Designed, developed, tested and debugged web applications for integrating multiple healthcare software products.
+
+End-to-end development: wrote UI in an MVC-based Javascript framework ExtJS; wrote web services and business layer code in C# on .NET 4.0 platform; integrated these web services with the frontend. Wrote stored procedures for SQL Server 2008 database.
+
+Used Agile methodology and continuous integration; Visual Studio 2010; Subversion for version control.
+
+Software Application Engineer
+Company NameCharles Schwab
+Dates EmployedApr 2011 – Dec 2012
+Employment Duration1 yr 9 mos
+As a platform engineer, wrote Powershell scripts to automate uniform installation of .NET 4.0 web services over all production servers.
+
+Implemented company-wide logging initiative using Splunk. Created Splunk applications according to internal clients’ requirements, wrote Powershell scripts for data collection, and complex search queries to analyze log data.
+
+As a platform engineer, wrote Powershell scripts to automate uniform installation of .NET 4.0 web services over all production servers.
+
+Automated Splunk application build process using Ant and Javascript.
+Software developer
+Company NameBancVue
+Dates EmployedNov 2010 – Jan 2011
+Employment Duration3 mos
+Worked as a contractor implementing internet banking web application in C# on .NET platform, using Agile and test-driven development (TDD) methodology. Collaborated with the system architect and production support to automate and facilitate deployment of the new application in production for multiple banks.
+
+Member of Technical Staff
+Company Namei2 Technologies
+Dates EmployedMay 1997 – Feb 1999
+Employment Duration1 yr 10 mos
+Leveraged prior Master’s degree work experience to help solve problems in supply-chain management and logistics. As a member of the optimization team, developed and tested prototypes for corporate supply-chain optimization products. Implemented solutions in C++ on multiple UNIX platforms.
+
+
+
+

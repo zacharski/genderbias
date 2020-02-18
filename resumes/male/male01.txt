@@ -1,0 +1,106 @@
+Technical Knowledge
+Programming Languages, Platforms, Software
+I have over fifteen years of experience with the Java programming language. Much of my recent
+experience has focused on developing web services applications with Spring Boot, as well as
+SDK-level work with such Amazon Web Services products such as DynamoDB, Aurora, SQS and
+S3. These projects are typically built using the Gradle build tool, made into Docker images, and
+deployed on a Kubernetes cluster.
+I’m well versed in implementing industry leading two-factor authentication products such as RSA,
+Adaptive Authentication, RSA SecurID, Authentify 2FA, and TeleSign PhoneID/Verify/TeleBureau. I
+have experience with Remote Access devices including NetMotion Mobility Server, Citrix NetScaler
+and F5 Networks BIG-IP Access Policy Manager.
+The below demonstrates a portion of my track record in delivering value to both the
+customer-facing and technical stages of engagement with government, Fortune 100 companies,
+and startups.
+Experience
+2015 - Present​ : ​ Lead Software Engineer ​ , ​ Under Armour Connected Fitness
+●
+●
+●
+●
+●
+●
+●
+Designed and implemented the Spring-Boot based service used for both authentication and
+storage of end-user data throughout Under Armour Connected Fitness. This system stores
+data for 180M+ users and performs millions of user authentications daily.
+Designed company-wide system to store user GDPR, EULA, and Targeted Ad Consent
+data. Adapted the above user data service to store and audit this data; this enabled
+continued ad revenue stream for the European market.
+Continually refactored, updated and future-proofed the above service, accomplished
+through three major upgrades of Spring Boot and three JDK versions. This increased
+performance by 20% over baseline and allowed a 50% decrease in provisioned DynamoDB
+read and write capacity.
+Migrated this (and other services) to Kubernetes. This effort reduced the EC2 portion of the
+organization’s Amazon Web Services bill by approximately 30%.
+Implemented Opentracing (via Lightstep) for Spring Boot apps throughout the organization.
+This typically reduced time-to-resolution for incidents by 75%.
+Served as subject matter expert for DynamoDB within the organization. In doing so I gave
+tech talks and assisted other teams in their designs.
+Designed and implemented the API interface for an asynchronously-triggered function
+platform. This project used Apache Kafka, Apache Avro, Scala and Akka.2013 - 2015​ : ​ Advisory Software Engineer , ​ ​ Lighthouse Computer Services / IBM
+●
+●
+●
+●
+Leveraged the Spring-Social Java framework to bring social media based sign-in to a major
+auto manufacturer’s online presence
+Responsible for enhancements to the customer-facing REST API for user/group/service
+management within the Gateway product
+Developed software which allowed Tivoli Directory Integrator to transform and synchronize
+data between Microsoft Active Directory and IBM Tivoli Directory Server
+Implemented a fast Spring-OAuth2 token repository using Redis and the Jedis client library.
+Used server-side LUA scripting to make all operations atomic.
+2011 - 2013​ : ​ Development Lead , ​ ​ The SCE Group
+●
+●
+●
+●
+●
+Created custom email, phone and SMS-based second-factor authentication solutions for
+America’s largest single health care provider. This solution protects the personal data of
+1,000,000+ users across multiple business units.
+Created a 2FA plug-in for RSA Adaptive Authentication using TeleSign’s PhoneID product.
+This resulted in saving customers between $10,000 - $1,000,000 per year depending on
+authentication request volume.
+Enhanced customer and employee security for the world’s largest auto manufacturer by
+guiding the replacement of a 3,000,000-seat in-house 2FA solution with RSA Adaptive
+Authentication. Accommodated this customer’s unique needs by implementing source-level
+changes to RSA software.
+Created the official F5/RSA integration software between F5 Networks’ BIG-IP Access
+Policy Manager and RSA Adaptive Authentication. This solution currently protects
+America’s top management consultancy, the world’s largest alternative investment firm, and
+the largest pediatric hospital in the United States.
+Created mission-critical two-factor authentication solutions. These solutions gate all remote
+access for a county government’s users, as well as their life-services vehicles which
+included police cars, ambulances, and fire trucks.
+2004 - 2011​ : ​ Staff Software Engineer ​ , ​ IBM Software Group / Tivoli Brand
+●
+●
+●
+Implemented software deployment packages, associated automation scripts, and
+deployment tools utilized by product offerings for the IBM ITSM/CCMDB product
+Authored the documentation and best practices used by all implementors of CCMDB
+installable packages, which reduced time-to-value across product offerings that leveraged
+the package technology. Provided cross-product support to software engineers working
+with Tivoli’s installable package technology. This resulted in an 85% rate of same-day
+resolution of open questions and issues.
+Delivered four major releases of the IBM ITSM/CCMDB product. Resolved 40% of all
+software defects assigned to the entire install team, and implemented 50% of all feature
+requests. Rewrote the build infrastructure for the IBM ITSM/CCMDB product. This
+increased build success rates from 60% to 95% while decreasing product build times over
+80% and increasing build verification test success rates from 65% to 85%​ .2004​ : ​ Extreme Blue Technical Intern ​ , ​ IBM Almaden Research Center
+●
+●
+●
+Developed methodologies and Java implementations for automatic web categorization by
+utilizing the IBM WebFountain and eClassifier platforms.
+Created an on-demand business prototype of automatic web classification and an
+associated web front-end for its demonstration.
+Performed business demonstrations of product value and technical accomplishments in
+front of the IBM CEO, Executives, Senior Vice-Presidents and Distinguished Engineers.
+Education
+2004​ ​ Bachelor of Arts, Computer Science ​ , The University of Texas at Austin
+Patents
+●
+US 10

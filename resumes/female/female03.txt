@@ -1,0 +1,49 @@
+As a software developer at uShip, I've worked on the frontend and backend in order to add features to, and continuously improve our shipping process for consumers, enterprise dispatchers, and transporters.
+
+I've worked to improve the way carriers (and the drivers they delegate to) document the status of shipments. This involved creating a Node.js API for the mobile team to use, then adding features that integrated with our legacy business logic to assign shipments and change their statuses, and then creating a web app in React.js that could take photos, capture signatures, and generate PDFs. I also got some experience during this project setting up AWS microservices in serverless, using Jenkins for CI/CD, and Google Tag Manager and CloudWatch for basic monitoring.
+
+Before that, I worked with my team to create an API and later the UI for enterprise dispatchers to create groups of preferred transporters and open auctions only to members of those groups.
+
+I've helped to configure the website in order to support multiple markets, which involved designing and creating a new API resource, re-skinning the site such that it can serve as a platform for multiple clients' brands without changing the performance or brand for core uShip users.
+
+At IBM, I worked on a command line tool for an issue ticketing system used by the AIX support engineers. I helped refactor the tool, added commands for automatic email generation, configuration, and analytics, and ported all of that to Windows.
+
+At FlightAware, I got to work on a wide variety of projects, from creating secure, remote "off"​ and "restart"​ buttons for FlightFeeder users' webpages (which involved front-end work, database calls, and securely sending commands to the correct device in a network of Raspberry Pi FlightFeeders), developed diagnostic tools for that network, and created a more robust, reliable system for testing and transmitting map images that reflected the current state of flight delays.
+
+Languages: C#, Javascript, Java, Python, Perl, bash, C, Javascript, tcl/tk, ksh, CSS, HTML
+
+Frameworks: .NET, ReactJS, Django
+
+Operating Systems: Linux(Ubuntu, OpenClient, Raspbian), Mac OS, Windows, FreeBSD, AIX
+
+Tools: git and GitHub, Crucible, Teamcity, Linq, Selenium, NUnit, XUnit, Karma, Mercurial, Subversion, Django, Nginx, apt-get, Macports, homebrew, PhantomJS, TravisCI, unittest, coverage, Rackspace cloud servers, PostgreSQL, cygwin, vim, Slack, IRC, GitHub wiki and issues, Jekyll, Slack, IRC, GitHub issues, GitHub wiki, Fogbugz 
+
+Software Developer
+Company NameuShip
+Dates EmployedSep 2015 – Present
+Employment Duration4 yrs 6 mos
+LocationAustin, Texas Area
+- Build an API in Node.js and TypeScript, and a mobile-first web app in ReactJS to help transporters easily and quickly document their progress and the status of the items being shipped.
+- Modify and replace legacy APIs and legacy .aspx pages with new changes to create functionality for enterprise users, or create a more simple, modern user experience for existing customers.
+- Leverage ReactJS to implement a new design language system across the site in order to improve the appearance and functionality of our listing process
+
+Software Engineering Intern
+Company NameFlightAware
+Dates EmployedMay 2014 – Aug 2014
+Employment Duration4 mos
+LocationHouston, Texas
+● Created a way for users to securely shut down or restart their own FlightFeeders from their user page on the FlightAware website (thereby solving a memory corruption issue).
+● Automating and streamlining the creation of the Debian install package for each new version of PiAware (PiAware enables any Raspberry Pi owner with a FlightAware account to submit ADS­B data to FlightAware), and the authentication and recognition steps for blessing new FlightFeeders.
+● Diagnostic commands that help monitor and display the status of any FlightFeeder connected to the server in a readable, intuitive way.
+● Updates to the MiseryMap snapshots display, including the use of PhantomJS for screenshots, and more robust error checking.
+
+Software Engineering Co-op
+Company NameIBM
+Dates EmployedMay 2013 – May 2014
+Employment Duration1 yr 1 mo
+LocationAustin, Texas
+Primary responsibilities: to assist with the development, maintenance, and architecture of a command-line user interface for a technical problem management record system. This IBM internal tool ran on AIX, FreeBSD, Linux (Ubuntu and OpenClient), and Windows, and was written primarily in Perl, Java, and ksh.
+Wrote or modified code such that the tool was compatible with Windows and Linux OpenClient, including automating the installation and configuration of email (exim and sendmail) for both platforms, handling differences in environment configurations, path formats, and user preferences across platforms.
+Redesigned and refactored code directory structure and call structure in order to make it more modular and maintainable.
+Added new features to the tool, including trend analysis, load balancing, automated notifications, report-branching, and improved search/display.
+
