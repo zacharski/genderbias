@@ -1,0 +1,3440 @@
+1664.5762                  care   1289     15
+987.0760               patient    715      1
+821.3184                 Nurse    587      0
+795.3920              software     15    666
+779.2629               nursing    557      0
+627.8989              patients    472      3
+466.0593                design     12    405
+427.1487              clinical    321      2
+421.5724                health    393     19
+413.4566                 staff    333      6
+374.6905                   web      0    272
+355.3881             engineers      0    258
+352.2144                Health    288      6
+345.1954               Nursing    247      0
+328.5944           engineering      1    247
+327.4275                  Care    249      2
+306.2727                 build      9    271
+305.0969             technical     18    304
+304.4351                  code      7    261
+298.8646               medical    311     23
+290.0232            Experience    139    583
+288.5421              building      7    249
+286.4571              hospital    205      0
+284.5702               product      4    232
+280.8638                    RN    201      0
+277.2082              Computer      6    236
+276.3216              practice    212      2
+272.3768              products     11    253
+268.3413              required    340     42
+266.9908          technologies      9    241
+262.5621           development    115    506
+261.6594              Software      0    190
+259.8905              Hospital    186      0
+252.3179                   You     77    415
+242.1645               systems     49    340
+240.3173                 nurse    172      0
+236.8561                  Java      0    172
+236.7249          applications     23    265
+222.6010               Medical    173      2
+221.6716                   new     76    383
+217.4083               Manager    188      6
+209.4028                Center    182      6
+208.1655            Registered    149      0
+203.6437             solutions     15    213
+201.0345           Engineering      0    146
+199.4384           appropriate    200     13
+192.7490           programming      6    172
+191.3913              Engineer      0    139
+190.0138                Python      0    138
+190.0138                   C++      0    138
+189.0703                 world      5    165
+188.6362           distributed      0    137
+180.2115             treatment    129      0
+174.8612            JavaScript      0    127
+170.9805                  data     78    336
+170.4940                  team    268    664
+169.1416              platform      2    136
+165.2459                 teams     33    231
+164.0517              features      6    150
+162.9501               license    124      1
+162.0435            physicians    116      0
+156.9551                 cloud      0    114
+156.9551          architecture      0    114
+156.7582            procedures    163     12
+153.0350             customers     21    189
+152.3086            healthcare    153     10
+150.2295               Science     23    192
+146.5233              business     33    214
+143.1822              scalable      0    104
+141.8399               program    187     25
+140.4578                   our    362    759
+139.6850          Practitioner    100      0
+139.0506                 users      0    101
+136.2962                  user      0     99
+136.2962            frameworks      0     99
+134.9190              engineer      0     98
+134.9190                 React      0     98
+134.5715                    of   3183   2360
+133.5418                Amazon      0     97
+131.3012             physician     94      0
+130.7875                   AWS      0     95
+129.9040                nurses     93      0
+129.8929              assigned    118      5
+128.1653            technology     33    197
+128.0332               machine      0     93
+126.8227            accredited    103      2
+123.3806               Current    105      3
+118.7249             preferred    169     26
+118.6708                 scale      9    125
+117.4081                  that    323    664
+115.7553           experiences      7    116
+115.1743            developing     21    156
+113.4135             languages      3     99
+112.8686              facility    105      5
+111.5469                across     43    203
+110.5458                 State     91      2
+109.2920              learning     29    170
+108.8141                 tools     17    140
+108.7542                 stack      0     79
+108.4137                people     45    204
+108.1486                modern      3     95
+107.8310         Certification     84      1
+107.3542                  Must    134     16
+106.1284            activities    122     12
+105.6090            experience    423    782
+104.7568                Google      2     88
+103.6447              policies    108      8
+102.4324            assessment     85      2
+102.1026                     C      1     81
+101.5823              millions      3     90
+100.4923            production      0     73
+99.8498                  help     55    215
+98.4439             education    155     28
+98.0619        infrastructure      5     95
+97.7385                 Apple      0     71
+96.3725                 acute     69      0
+96.1423         certification    102      8
+95.6863              Director     80      2
+95.4453                    UI      2     81
+93.9633                 using     24    144
+92.7901                Design      2     79
+92.7737                    We    238    500
+92.5348             platforms      4     87
+91.3720             specialty     72      1
+90.7844             emergency     65      0
+90.3005               primary     76      2
+89.4770            algorithms      0     65
+89.4770                    C#      0     65
+89.0769                duties     90      6
+88.9837              Provides     83      4
+88.1757              language     10    103
+87.1333                  such     55    201
+86.7233                   CSS      0     63
+86.0891             personnel     77      3
+85.1965                   BLS     61      0
+84.9094                 needs    208     62
+84.7690             providers     76      3
+83.9696            developers      0     61
+83.9696               backend      0     61
+83.4498              families     75      3
+83.2023                global      1     67
+82.1733                  plan    117     18
+81.2160                 Cloud      0     59
+80.6685              problems     41    167
+79.8392             developer      0     58
+79.6088                clinic     57      0
+79.6088                   BSN     57      0
+78.6993                around     10     95
+78.5979            compliance     75      4
+78.4624           large-scale      0     57
+78.2355               science      2     68
+78.2355             designing      2     68
+78.2119               License     56      0
+78.1109                 ideas      3     72
+77.6988              outcomes     62      1
+77.6988            Healthcare     62      1
+77.2700                mobile      7     85
+77.0856                  APIs      0     56
+76.9979              projects     12     99
+76.3342            facilities     61      1
+76.3342              Graduate     61      1
+75.4949            department     76      5
+75.4181                    NP     54      0
+75.2130                    on    435    735
+74.6494               looking     59    194
+74.0212             discharge     53      0
+72.9552                  HTML      0     53
+72.6243             Maintains     52      0
+72.0820             necessary     88     10
+71.2274            medication     51      0
+70.8810              Clinical     57      1
+69.5470                impact     15    100
+69.1681          Participates     71      5
+69.0637              security      9     84
+68.8250               storage      0     50
+68.8250                 Azure      0     50
+68.7424                  make     49    169
+67.0719            components      1     55
+67.0369            population     48      0
+67.0369           medications     48      0
+66.6857                    as    804    516
+66.4953                   e.g      8     79
+66.4030                  deep      2     59
+66.2198             equipment     58      2
+65.7315                    5+      1     54
+65.7025              training     95     15
+65.6910                  like     26    121
+65.6401            outpatient     47      0
+65.6401             Licensure     47      0
+65.4376               surgery     53      1
+65.0935             databases      2     58
+64.8640                 learn     19    105
+64.6948                   iOS      0     47
+64.6948                   SQL      0     47
+64.6948                 Linux      0     47
+64.3918              Facebook      1     53
+64.2433             licensure     46      0
+64.0785              Performs     52      1
+63.5639               reports     56      2
+63.3181              billions      0     46
+62.8465              licensed     45      0
+62.0030            challenges      4     63
+61.9169            Department     62      4
+61.7441               testing     19    102
+61.4497                Nurses     44      0
+61.3625               Assists     50      1
+60.7569               working    102    247
+60.6495                   may    112     25
+60.6057            processing      8     74
+60.5648                    UX      0     44
+60.4638              programs     97     18
+60.0529              surgical     43      0
+60.0172                   can     48    157
+59.4245             community    152     47
+59.1881                 Agile      0     43
+59.1310           regulations     66      6
+58.9387                   how     12     83
+58.6561             Physician     42      0
+58.6496             hospitals     48      1
+58.6496        administrative     48      1
+58.2675          coordination     52      2
+58.2675               Ensures     52      2
+58.2508                coding      4     60
+58.0278                family     99     20
+57.8114       object-oriented      0     42
+57.8114            interfaces      0     42
+57.8114              hardware      0     42
+57.7044               content      1     48
+57.4492            equivalent     20    100
+57.3292           supervision     55      3
+57.0736                    we    164    333
+57.0621                 field     32    124
+56.9351              employee     75     10
+56.8780           established     67      7
+56.7149              provides    106     24
+56.4348               massive      0     41
+56.4348                 agile      0     41
+56.4348                    AI      0     41
+55.9402                   AND     46      1
+55.8626              Provider     40      0
+55.8615                 state    115     29
+55.6277          Demonstrates     50      2
+55.2407            accordance     76     11
+55.0601               develop     29    116
+55.0581               connect      0     40
+54.5943                  with   1207   1610
+54.5869           assessments     45      1
+54.4935                   the   3113   2592
+54.4658             referrals     39      0
+54.4658              medicine     39      0
+54.4658                  PACU     39      0
+54.1047             standards    137     42
+53.5263                   you    341    564
+53.2346             residents     44      1
+53.0691              staffing     38      0
+53.0691                  ACLS     38      0
+53.0656             regarding     55      4
+52.8411                    it     35    125
+52.4805                   big      3     52
+52.3049                 media      0     38
+52.3049            enterprise      0     38
+52.3049             computing      0     38
+52.3049                  Ruby      0     38
+52.3049               Machine      0     38
+52.1500                 solve      7     64
+52.1088                 Level     63      7
+52.0689               provide    165     60
+51.8150             Education    101     24
+51.6723             patient’s     37      0
+51.6176                 plans     82     15
+51.1474                 drive     10     71
+51.0386               digital      1     43
+51.0386            deployment      1     43
+50.9282           scalability      0     37
+50.9282                   Web      0     37
+50.9282            Kubernetes      0     37
+50.9282             Engineers      0     37
+50.9282               Angular      0     37
+50.6290               project     11     73
+50.5330                    St     42      1
+50.4821          professional    171     65
+50.2756                 adult     36      0
+50.0721                Strong     34    120
+49.7429               Program     61      7
+49.7084                 power      1     42
+49.5516                     •      0     36
+49.5516             front-end      0     36
+49.5516                deploy      0     36
+49.5032               setting     80     15
+49.5002                 bring      9     67
+49.1839                  Type     41      1
+49.0348                  core      8     64
+48.8789               therapy     35      0
+48.8789                 Heart     35      0
+48.3794                things      1     41
+48.3794              Learning      1     41
+48.1750            relational      0     35
+48.1750             designers      0     35
+48.1750                    VR      0     35
+48.1750                 NoSQL      0     35
+48.1750                   API      0     35
+48.0606               records     51      4
+48.0522              provider     54      5
+47.7476            diagnostic     44      2
+47.6424                highly     28    106
+47.4822             patient's     34      0
+47.4822     interdisciplinary     34      0
+47.4822               hospice     34      0
+47.4822             Pediatric     34      0
+47.4822                   CPR     34      0
+47.4315                create     24     98
+47.2488                 hours     64      9
+47.0708                 Board     47      3
+47.0516                  apps      1     40
+47.0516         Qualification      1     40
+47.0516                    Go      1     40
+47.0423              provided     56      6
+46.7984               feature      0     34
+46.7984             analytics      0     34
+46.7984              Platform      0     34
+46.7984            Javascript      0     34
+46.7984                Disney      0     34
+46.7232                   end     10     67
+46.5724                  unit    105     29
+46.1859            generation      3     47
+46.1859          fundamentals      3     47
+46.0855                  Home     33      0
+46.0855                   HCA     33      0
+45.8910            innovation      4     50
+45.7991                  case     46      3
+45.6999                   all    303    161
+45.6192             Functions     52      5
+45.6162           integration      2     43
+45.6162              consumer      2     43
+45.5006                   New     74     14
+45.4219               world’s      0     33
+45.4219            structures      0     33
+45.4219             ownership      0     33
+45.4219               Android      0     33
+45.1437             evaluates     38      1
+45.1360               Quality     42      2
+44.6888              supplies     32      0
+44.6888              approved     32      0
+44.6739                 small      5     52
+44.3365                  week     48      4
+44.0453                  REST      0     32
+44.0453                   PHP      0     32
+44.0441                  year     89     22
+44.0185                  area     81     18
+43.8784                  have    209    370
+43.7996          participates     37      1
+43.7996             Essential     37      1
+43.6974              existing      6     54
+43.6777             providing    109     33
+43.4786                 Texas     53      6
+43.4516               devices      4     48
+43.2922             inpatient     31      0
+43.2922                 calls     31      0
+43.2637            situations     44      3
+43.0756                 Write      1     37
+42.8202                  will    348    547
+42.7805                center     67     12
+42.7301                  safe     55      7
+42.6896                   The    452    280
+42.6794                strong     31    106
+42.6687         methodologies      0     31
+42.6687             debugging      0     31
+42.6687               RESTful      0     31
+42.6687                Docker      0     31
+42.5333              patterns      6     53
+42.5322                within    183     80
+42.2982               package     52      6
+42.0004            registered     43      3
+41.8955           examination     30      0
+41.8955         compassionate     30      0
+41.8955               Patient     30      0
+41.8737                  plus     24     92
+41.8697              Practice     46      4
+41.7688            networking      2     40
+41.7633               solving     22     88
+41.7531               natural      1     36
+41.6742            passionate     12     67
+41.3737                 years    180    326
+41.2922            Technology      0     30
+41.1218            guidelines     51      6
+41.0250              database      4     46
+41.0250                    BS      4     46
+40.7948                 prior     48      5
+40.7786                 large     20     83
+40.6504                  into     29    100
+40.4988           Coordinates     29      0
+40.2920               company     52    139
+40.1237              physical     73     16
+40.0730                     1     77     18
+39.9419               deliver     30    101
+39.9156       next-generation      0     29
+39.9156            full-stack      0     29
+39.9156             Expertise      0     29
+39.1022          practitioner     28      0
+39.1022             infection     28      0
+39.1022            ambulatory     28      0
+39.1022              Licensed     28      0
+38.7411                school     54      8
+38.6469              American     37      2
+38.6124                    3+      4     44
+38.5391                 video      0     28
+38.5391             libraries      0     28
+38.2687            management    204     99
+38.2599                direct     67     14
+38.2291           utilization     40      3
+38.2291             Full-time     40      3
+38.1961            implements     43      4
+38.1961             according     43      4
+37.7949           reliability      1     33
+37.7949               Product      1     33
+37.7056                trauma     27      0
+37.7056              orientee     27      0
+37.6981                needed     95     29
+37.3569            completion     36      2
+37.2167         comprehensive     55      9
+37.1626                server      0     27
+37.1626              frontend      0     27
+37.1626                    AR      0     27
+36.9909                  test     17     73
+36.7734                 We’re      6     48
+36.6859              customer     47    126
+36.5099             insurance     52      8
+36.4790         entertainment      1     32
+36.3089                visits     26      0
+36.3089               student     26      0
+36.3089                shifts     26      0
+36.3089                School     26      0
+36.3089           Improvement     26      0
+36.3089                    IV     26      0
+36.3089               David’s     26      0
+36.3089            Anesthesia     26      0
+35.7861                 smart      0     26
+35.7861               excited      0     26
+35.7861         architectures      0     26
+35.7861                    ML      0     26
+35.7861              Deloitte      0     26
+35.7861                    4+      0     26
+35.7682          satisfaction     31      1
+35.7682                caring     31      1
+35.7321        administration     38      3
+35.6346                source      6     47
+35.6249               quickly      8     52
+35.4062             framework      2     35
+35.4062              creative      2     35
+35.2493              talented      5     44
+35.1649             ecosystem      1     31
+35.1381               passion     19     75
+35.0283                 We're      3     38
+34.9293                  work    298    464
+34.9123            treatments     25      0
+34.9123             pediatric     25      0
+34.9123               chronic     25      0
+34.9123                  Post     25      0
+34.9123            Commission     25      0
+34.8546                    OR     43      5
+34.7859           educational     34      2
+34.6320               quality    231    123
+34.5370                  open      8     51
+34.4361            scheduling     30      1
+34.4361                  Time     30      1
+34.4096            businesses      0     25
+34.4096             Developer      0     25
+34.1543                  must     96     32
+34.1406              industry     17     70
+34.0903           Familiarity      5     43
+33.8529               designs      1     30
+33.8477               include     99     34
+33.7675        Qualifications    114    221
+33.6803            conditions     42      5
+33.6803                  York     42      5
+33.6256           Development     11     57
+33.5157              referral     24      0
+33.5157             Emergency     24      0
+33.3718                search      6     45
+33.2507              teaching     36      3
+33.2507             Assistant     36      3
+33.1009              position    148     66
+33.0331             scripting      0     24
+33.0331               scaling      0     24
+33.0331                  fast      0     24
+33.0331                 Alexa      0     24
+32.8129                enable      7     47
+32.5431             real-time      1     29
+32.5431                You'll      1     29
+32.5431           Programming      1     29
+32.5011                during     46      7
+32.4747                 under     55     11
+32.3571                safety     57     12
+32.1191           psychiatric     23      0
+32.1191              findings     23      0
+32.1191            continuity     23      0
+32.1191           Association     23      0
+32.1107           Responsible     48      8
+32.0162              schedule     35      3
+31.9968                    As     53    129
+31.8160               perform     50      9
+31.7891               process    125     52
+31.7871           Collaborate      5     41
+31.7785                 valid     28      1
+31.7707           information    186     94
+31.6566                 macOS      0     23
+31.6566                launch      0     23
+31.6566         functionality      0     23
+31.6566                   app      0     23
+31.6246              hundreds      2     32
+31.5897                  grow     11     55
+31.3727                  real      3     35
+31.3472              Position     40      5
+31.2910                  love     15     63
+31.2910                   Are     15     63
+31.1545             excellent     75     22
+31.1306                  best     63    143
+30.7415                assist     42      6
+30.7225           supervisory     22      0
+30.7225           supervising     22      0
+30.7225             procedure     22      0
+30.7225               clinics     22      0
+30.7225                Trauma     22      0
+30.7225            Supervisor     22      0
+30.7225                 Shift     22      0
+30.7225         Practitioners     22      0
+30.7225                  PALS     22      0
+30.7225              Monitors     22      0
+30.4533            behavioral     27      1
+30.4533                County     27      1
+30.4533             Certified     27      1
+30.2801                 MySQL      0     22
+30.1629               similar      3     34
+30.1629                   Key      3     34
+30.1629                  From      3     34
+30.1307            leadership    104     40
+29.9460                  days     46      8
+29.9305            scientists      1     27
+29.6973                  home    105     41
+29.6149      responsibilities     41      6
+29.6149             Associate     41      6
+29.5419                    2+      7     44
+29.4162                future     13     57
+29.3259            palliative     21      0
+29.3259        evidence-based     21      0
+29.3259       confidentiality     21      0
+29.3259        Administration     21      0
+29.1817                You’ll      8     46
+29.1815               complex     46    114
+29.1308              resident     26      1
+29.1308             provision     26      1
+29.1308                  hour     26      1
+29.1308                budget     26      1
+29.1217         Understanding      2     30
+28.9127           collaborate      9     48
+28.9036              shipping      0     21
+28.9036             retrieval      0     21
+28.9036                powers      0     21
+28.9036                 image      0     21
+28.9036                 Solid      0     21
+28.9036                    JS      0     21
+28.9036            Electrical      0     21
+28.8732               federal     45      8
+28.5962                    by    362    235
+28.5896              meetings     35      4
+28.4945            Employment     40      6
+28.4929            evaluation     49     10
+28.3728            analytical      5     38
+28.3412           departments     32      3
+28.3167         understanding     26     80
+28.1608           improvement     68     20
+28.0204               service    124     55
+28.0204               members    124     55
+27.9662           world-class      4     35
+27.9294               on-site     20      0
+27.9294             interpret     20      0
+27.9294          departmental     20      0
+27.9294              Surgical     20      0
+27.9294                Option     20      0
+27.9294                    30     20      0
+27.8764                 front      2     29
+27.8111             telephone     25      1
+27.8111            recruiters     25      1
+27.8111              Physical     25      1
+27.7580          capabilities      3     32
+27.5272          maintainable      0     20
+27.5272             algorithm      0     20
+27.5272                 Swift      0     20
+27.5272                    CI      0     20
+27.3807                 three     39      6
+27.3807              agencies     39      6
+27.3285          intelligence      1     25
+27.3285                  edge      1     25
+27.3285             automated      1     25
+27.2748               current     89     33
+27.0111                Duties     41      7
+26.9914                   Job    115     50
+26.8091            functional      4     34
+26.6355                   fun      2     28
+26.6113             effective     68     21
+26.5492            understand     13     54
+26.5328        rehabilitation     19      0
+26.5328            identified     19      0
+26.5328             admission     19      0
+26.5328              Schedule     19      0
+26.5328          Registration     19      0
+26.5328                   LPN     19      0
+26.5328                 Acute     19      0
+26.4945         reimbursement     24      1
+26.4945         appropriately     24      1
+26.2814             Preferred     41    102
+26.2737            regulatory     38      6
+26.1507            prototypes      0     19
+26.1507         microservices      0     19
+26.1507             lifecycle      0     19
+26.1507                deeply      0     19
+26.1507                    TV      0     19
+26.1507                 Stack      0     19
+26.1507                 Redux      0     19
+26.1507           Objective-C      0     19
+26.1507               Node.js      0     19
+26.1507        Infrastructure      0     19
+26.0365                  what     18     63
+26.0320                 globe      1     24
+25.8859                    At     42    103
+25.7104              analysis     15     57
+25.4494              personal     46     10
+25.2695            contribute      7     40
+25.2360               closely     23     71
+25.1813             emotional     23      1
+25.1363            supervises     18      0
+25.1363                rounds     18      0
+25.1363            prescribed     18      0
+25.1363            philosophy     18      0
+25.1363              oncology     18      0
+25.1363             illnesses     18      0
+25.1363           facilitates     18      0
+25.1363                campus     18      0
+25.1363                Number     18      0
+25.1363               Manages     18      0
+25.1363                    II     18      0
+25.1363                   EMR     18      0
+25.1363                Banner     18      0
+25.0955                  they     37     94
+25.0138              everyone      5     35
+24.7743               running      0     18
+24.7743                 novel      0     18
+24.7743            end-to-end      0     18
+24.7743          deliverables      0     18
+24.7743                 debug      0     18
+24.7743               Jenkins      0     18
+24.7146           recruitment     29      3
+24.6522              resource     41      8
+24.6511               ensures     26      2
+24.6511               Reviews     26      2
+24.5504                 write      6     37
+24.5137                define      4     32
+24.4911             condition     34      5
+24.4911              accurate     34      5
+24.4536                 email     49     12
+24.4309             functions     47     11
+24.2862                    in   1998   1719
+24.2460             resources     72     25
+24.1685                you'll      2     26
+24.0816               centers     36      6
+23.9562                   job    100     43
+23.9079                  lead      5     34
+23.9079                  Data      5     34
+23.8717                    PA     22      1
+23.7397             preceptor     17      0
+23.7397           populations     17      0
+23.7397         interventions     17      0
+23.7397          instructions     17      0
+23.7397           coordinates     17      0
+23.7397           appointment     17      0
+23.7397            admissions     17      0
+23.7397                Triage     17      0
+23.7397               Surgery     17      0
+23.7397                Salary     17      0
+23.7397                 Plans     17      0
+23.7397              Medicare     17      0
+23.7397           Facilitates     17      0
+23.7397             Evaluates     17      0
+23.7397                DaVita     17      0
+23.7397             Completes     17      0
+23.7397          Communicates     17      0
+23.7068               Develop     11     47
+23.6273                   per     61     19
+23.5182            coordinate     28      3
+23.4990                manner     48     12
+23.4768              planning     66     22
+23.4056                Review     25      2
+23.4056                Family     25      2
+23.4056          Collaborates     25      2
+23.3979             streaming      0     17
+23.3979                retail      0     17
+23.3979               reality      0     17
+23.3979             pipelines      0     17
+23.3979                junior      0     17
+23.3979              globally      0     17
+23.3979               getting      0     17
+23.3979              embedded      0     17
+23.3979                camera      0     17
+23.3979               Twitter      0     17
+23.3979                Twitch      0     17
+23.3979                    S3      0     17
+23.3979               Passion      0     17
+23.3979                    OS      0     17
+23.3979              Google's      0     17
+23.3979                GitHub      0     17
+23.3979                   Git      0     17
+23.3979                 Front      0     17
+23.3979                  Deep      0     17
+23.3979             Cassandra      0     17
+23.2346            Management     64     21
+22.9103              creating     14     52
+22.8437          environments      9     42
+22.7777                 great     26     73
+22.7692               General     30      4
+22.5883               Perform     39      8
+22.5661               assists     21      1
+22.5661           accountable     21      1
+22.4759                salary     43     10
+22.3432                urgent     16      0
+22.3432               tuition     16      0
+22.3432              settings     16      0
+22.3432             pertinent     16      0
+22.3432           job-related     16      0
+22.3432        individualized     16      0
+22.3432             geriatric     16      0
+22.3432           experience;     16      0
+22.3432             continuum     16      0
+22.3432                Urgent     16      0
+22.3432               Spanish     16      0
+22.3432             Possesses     16      0
+22.3432            Physicians     16      0
+22.3432                Monday     16      0
+22.3432              Memorial     16      0
+22.3432                Living     16      0
+22.3432                   ICU     16      0
+22.3432               Compact     16      0
+22.3432                  Case     16      0
+22.3432                   ADN     16      0
+22.3286              Wellness     27      3
+22.1639            leveraging      1     21
+22.1639                  Want      1     21
+22.0215            performant      0     16
+22.0215              innovate      0     16
+22.0215                 don’t      0     16
+22.0215             deploying      0     16
+22.0215              back-end      0     16
+22.0215                NodeJS      0     16
+22.0215                  Labs      0     16
+22.0215               GraphQL      0     16
+22.0215                DevOps      0     16
+21.8597               helping      9     41
+21.7235        specifications      2     24
+21.7235               explore      2     24
+21.7235                builds      2     24
+21.7235                Create      2     24
+21.7077                ensure    104     48
+21.7002              Industry     36      7
+21.5779                better     17     56
+21.5019                policy     42     10
+21.3863           application     56    117
+21.2648              weekends     20      1
+21.2648            designated     20      1
+21.2648                 Hours     20      1
+21.2648              Conducts     20      1
+21.2598                   get     15     52
+21.2367              benefits     73     28
+21.1975                  take     31     79
+21.1604                orders     31      5
+21.1466                assess     26      3
+21.1241                  done      4     29
+20.9659                you’ll      8     38
+20.9467                 team!     15      0
+20.9467         participation     15      0
+20.9467            orthopedic     15      0
+20.9467             follow-up     15      0
+20.9467         approximately     15      0
+20.9467            anesthesia     15      0
+20.9467                Public     15      0
+20.9467              Prepares     15      0
+20.9467               Philips     15      0
+20.9467                 Joint     15      0
+20.9467               Hospice     15      0
+20.9328              wellness     23      2
+20.9328          participants     23      2
+20.9328                 Works     23      2
+20.9328               Officer     23      2
+20.9328             Community     23      2
+20.9328                  City     23      2
+20.9315                  used     12     46
+20.8845                  Have      9     40
+20.8827               Analyze      1     20
+20.8766               Working     11     44
+20.8542                  Life     33      6
+20.7356                  some     17     55
+20.6868                action     45     12
+20.6840                 space      3     26
+20.6450             usability      0     15
+20.6450               started      0     15
+20.6450                  ship      0     15
+20.6450               popular      0     15
+20.6450              greatest      0     15
+20.6450                engine      0     15
+20.6450             detection      0     15
+20.6450            artificial      0     15
+20.6450                Zillow      0     15
+20.6450                  Walt      0     15
+20.6450                PayPal      0     15
+20.6450                   Own      0     15
+20.6450                Oracle      0     15
+20.6450                Object      0     15
+20.6450          Intelligence      0     15
+20.6450                Hadoop      0     15
+20.6450                   EC2      0     15
+20.6450            Cloudflare      0     15
+20.6450                   App      0     15
+20.6450              Amazon’s      0     15
+20.6450                   Ads      0     15
+20.6375                always      5     31
+20.5105              solution      2     23
+20.5105            automation      2     23
+20.4930                   May     28      4
+20.0674              performs     30      5
+20.0480                  next     27     71
+19.9725               initial     25      3
+19.9683                  post     19      1
+19.9683             certified     19      1
+19.9683                  Plan     19      1
+19.9683              Medicine     19      1
+19.9683            Identifies     19      1
+19.7964            recognized     32      6
+19.7964               highest     32      6
+19.7677                   way     26     69
+19.7065              Employee     22      2
+19.7065                   Day     22      2
+19.6063                 we're      1     19
+19.6063         technological      1     19
+19.6063                   run      1     19
+19.5764                   who    119    199
+19.5646                desire      5     30
+19.5502             repayment     14      0
+19.5502         practitioners     14      0
+19.5502             patients’     14      0
+19.5502                  loan     14      0
+19.5502              infusion     14      0
+19.5502                  duty     14      0
+19.5502              dialysis     14      0
+19.5502            counseling     14      0
+19.5502            caregivers     14      0
+19.5502               cardiac     14      0
+19.5502             assisting     14      0
+19.5502             assessing     14      0
+19.5502          appointments     14      0
+19.5502                  Word     14      0
+19.5502                 Valid     14      0
+19.5502              Utilizes     14      0
+19.5502           Utilization     14      0
+19.5502                   UHS     14      0
+19.5502               Tuition     14      0
+19.5502                Record     14      0
+19.5502              Promotes     14      0
+19.5502                  PACE     14      0
+19.5502             Institute     14      0
+19.5502             Infection     14      0
+19.5502            HealthCare     14      0
+19.5502               Diploma     14      0
+19.5502                Cancer     14      0
+19.4445                 goals     69     27
+19.3043              hands-on      2     22
+19.3043                Proven      2     22
+19.2686             versatile      0     14
+19.2686                tackle      0     14
+19.2686          subscription      0     14
+19.2686                stores      0     14
+19.2686                  game      0     14
+19.2686                evolve      0     14
+19.2686               elegant      0     14
+19.2686             curiosity      0     14
+19.2686                brands      0     14
+19.2686         architectural      0     14
+19.2686                 Store      0     14
+19.2686        SparkCognition      0     14
+19.2686                Server      0     14
+19.2686                 Scrum      0     14
+19.2686                 Rails      0     14
+19.2686              Oriented      0     14
+19.2686             Homes.com      0     14
+19.2686                 HTML5      0     14
+19.2686              Google’s      0     14
+19.2686                Gender      0     14
+19.2686            Facebook's      0     14
+19.2686              Building      0     14
+19.2441          Requirements     78     33
+18.9839                  Unit     29      5
+18.9647                  them     35     82
+18.8069          communicates     24      3
+18.8069                Assist     24      3
+18.7486            California     31      6
+18.6771              standing     18      1
+18.6771                 shift     18      1
+18.6771                served     18      1
+18.6771             licensing     18      1
+18.6771             diagnosis     18      1
+18.6771                Serves     18      1
+18.6771              Assesses     18      1
+18.5572                   are    451    595
+18.4879             performed     21      2
+18.4879              graduate     21      2
+18.4879          consultation     21      2
+18.4879        accountability     21      2
+18.4879                Clinic     21      2
+18.3846                latest      3     24
+18.3665                  many     13     45
+18.3352                 sense      1     18
+18.3352                device      1     18
+18.3352             countries      1     18
+18.3352          Technologies      1     18
+18.3074                 every     52    106
+18.1537           therapeutic     13      0
+18.1537               illness     13      0
+18.1537            committees     13      0
+18.1537                   bed     13      0
+18.1537             authority     13      0
+18.1537                area(s     13      0
+18.1537                  acts     13      0
+18.1537              Staffing     13      0
+18.1537             Specialty     13      0
+18.1537              Regional     13      0
+18.1537                    OF     13      0
+18.1537               Located     13      0
+18.1537                   III     13      0
+18.1537              Diabetes     13      0
+18.1537                  Days     13      0
+18.1537               Council     13      0
+18.1537                Charge     13      0
+18.1537            Associates     13      0
+18.1537            Ambulatory     13      0
+18.1537                     *     13      0
+18.1260                timely     44     13
+18.1231                     a   1674   1946
+18.1058                   PhD      2     21
+18.1058                   End      2     21
+18.0531                   key     10     39
+17.9106                triage     28      5
+17.8922                 speed      0     13
+17.8922           server-side      0     13
+17.8922               sellers      0     13
+17.8922                  idea      0     13
+17.8922               display      0     13
+17.8922               YouTube      0     13
+17.8922                   Vue      0     13
+17.8922            TypeScript      0     13
+17.8922               Tableau      0     13
+17.8922                 Slack      0     13
+17.8922                  SaaS      0     13
+17.8922                  SDLC      0     13
+17.8922                  Perl      0     13
+17.8922           Microsoft’s      0     13
+17.8922              Medallia      0     13
+17.8922                   M.S      0     13
+17.8922              DynamoDB      0     13
+17.8922                    CD      0     13
+17.8922                   CBS      0     13
+17.8922                    BA      0     13
+17.7760                review     62     24
+17.7111              Virginia     30      6
+17.6863               growing     18     53
+17.6622              together     21     58
+17.6507              students     23      3
+17.6231                dental     36      9
+17.5403                  life     74     32
+17.5025               writing     13     44
+17.4848            innovative     28     69
+17.3917           eligibility     17      1
+17.3917          coordinating     17      1
+17.3917          collaborates     17      1
+17.3917                Mental     17      1
+17.2776             oversight     20      2
+17.2776              directed     20      2
+17.2485             thousands      3     23
+17.2485                entire      3     23
+17.1475            university     25      4
+17.1475                months     25      4
+17.1475                  call     25      4
+17.1101              concepts      7     32
+17.1101                 Build      7     32
+17.0801             different      9     36
+17.0700              shopping      1     17
+17.0700               release      1     17
+17.0700             ambitious      1     17
+17.0665            Bachelor’s      8     34
+17.0346                system     55    108
+16.9156                you’re      2     20
+16.9156                    CS      2     20
+16.9156                    1+      2     20
+16.8482                serves     27      5
+16.8482                   i.e     27      5
+16.8482              National     27      5
+16.8420                    us     61    116
+16.7572                 wound     12      0
+16.7572               weekend     12      0
+16.7572               webmail     12      0
+16.7572            supervisor     12      0
+16.7572                 signs     12      0
+16.7572             required;     12      0
+16.7572           possibility     12      0
+16.7572                normal     12      0
+16.7572              nation’s     12      0
+16.7572            nationally     12      0
+16.7572               minutes     12      0
+16.7572          intervention     12      0
+16.7572              injuries     12      0
+16.7572            infections     12      0
+16.7572              forensic     12      0
+16.7572                  flex     12      0
+16.7572               diploma     12      0
+16.7572              clicking     12      0
+16.7572              assesses     12      0
+16.7572             Waterbury     12      0
+16.7572                    UM     12      0
+16.7572            Possession     12      0
+16.7572                     P     12      0
+16.7572                 Maxim     12      0
+16.7572                  Mail     12      0
+16.7572                 Excel     12      0
+16.7572              Educator     12      0
+16.7572           Coordinator     12      0
+16.7572                  CARE     12      0
+16.7572            Assistants     12      0
+16.7572                Agency     12      0
+16.7572         Accreditation     12      0
+16.7572               8am-8pm     12      0
+16.6849                   PTO     29      6
+16.6211                United     33      8
+16.5159               world's      0     12
+16.5159                switch      0     12
+16.5159          self-driving      0     12
+16.5159             qualities      0     12
+16.5159           prototyping      0     12
+16.5159             portfolio      0     12
+16.5159              pipeline      0     12
+16.5159                native      0     12
+16.5159               mobile;      0     12
+16.5159           interactive      0     12
+16.5159              firmware      0     12
+16.5159           feasibility      0     12
+16.5159              entirely      0     12
+16.5159              defining      0     12
+16.5159              creators      0     12
+16.5159                behind      0     12
+16.5159             architect      0     12
+16.5159                  Wish      0     12
+16.5159                  Node      0     12
+16.5159              Nintendo      0     12
+16.5159                   NLP      0     12
+16.5159              Minority      0     12
+16.5159                 Kafka      0     12
+16.5159              Hands-on      0     12
+16.5159                  HTTP      0     12
+16.5159                 Flask      0     12
+16.5159               Dropbox      0     12
+16.5159                Django      0     12
+16.5045                 Chief     22      3
+16.4119                 least     39     84
+16.2223                 share      6     29
+16.1224              continue      3     22
+16.1224            constantly      3     22
+16.1224                  Help      3     22
+16.1222            delivering     18     51
+16.1129               Reports     16      1
+16.1129        Certifications     16      1
+16.0763               liaison     19      2
+16.0763                  Paid     19      2
+16.0534                  401k     24      4
+15.8654              Develops     36     10
+15.8113              yourself      1     16
+15.8113                  play      1     16
+15.8113              enabling      1     16
+15.8113               cutting      1     16
+15.8113              Internet      1     16
+15.7345             transform      2     19
+15.7345             primarily      2     19
+15.7345             interface      2     19
+15.6704             Seniority     28      6
+15.6646                 units     32      8
+15.4630                 about     90    152
+15.3750                 ready      5     26
+15.3692                 total     21      3
+15.3692                annual     21      3
+15.3692                advice     21      3
+15.3607                          11      0
+15.3607          unrestricted     11      0
+15.3607             screening     11      0
+15.3607               routine     11      0
+15.3607           restorative     11      0
+15.3607         psychological     11      0
+15.3607             promoting     11      0
+15.3607                 payor     11      0
+15.3607                nation     11      0
+15.3607             materials     11      0
+15.3607             indicated     11      0
+15.3607              enrolled     11      0
+15.3607              discount     11      0
+15.3607               consent     11      0
+15.3607        cardiovascular     11      0
+15.3607              barriers     11      0
+15.3607                acuity     11      0
+15.3607                    TO     11      0
+15.3607                 Stony     11      0
+15.3607                 Seton     11      0
+15.3607              SCHEDULE     11      0
+15.3607            Retirement     11      0
+15.3607              Recovery     11      0
+15.3607             Parkridge     11      0
+15.3607                 NURSE     11      0
+15.3607                   MSN     11      0
+15.3607             Initiates     11      0
+15.3607            Electronic     11      0
+15.3607                   DPH     11      0
+15.3607              Critical     11      0
+15.3607               Centers     11      0
+15.3607              Catholic     11      0
+15.3607                 Brook     11      0
+15.3607                   BJC     11      0
+15.3607             Ascension     11      0
+15.3375                 where     43     88
+15.3266                  more    112    180
+15.1998                  high     56    106
+15.1477                 About     20     53
+15.1395         visualization      0     11
+15.1395                  tvOS      0     11
+15.1395           transaction      0     11
+15.1395               tooling      0     11
+15.1395          technology's      0     11
+15.1395             prototype      0     11
+15.1395              parallel      0     11
+15.1395                     o      0     11
+15.1395             merchants      0     11
+15.1395                 games      0     11
+15.1395                   fix      0     11
+15.1395                enjoys      0     11
+15.1395               domains      0     11
+15.1395              creation      0     11
+15.1395           contributor      0     11
+15.1395              commerce      0     11
+15.1395           cloud-based      0     11
+15.1395               biggest      0     11
+15.1395                You’re      0     11
+15.1395                  USA;      0     11
+15.1395                  Snap      0     11
+15.1395                 Scala      0     11
+15.1395                 Redis      0     11
+15.1395               Reality      0     11
+15.1395            PostgreSQL      0     11
+15.1395               MongoDB      0     11
+15.1395                Golang      0     11
+15.1395            Enterprise      0     11
+15.1395               Elastic      0     11
+15.1395              Database      0     11
+15.1395                Chrome      0     11
+15.1395                   Big      0     11
+15.1395               Backend      0     11
+15.1395             Atlassian      0     11
+15.1395                Apache      0     11
+15.1395                    3D      0     11
+15.0072                 cycle      3     21
+15.0022                  join     57    107
+14.9747            fast-paced     13     41
+14.9713                 times     23      4
+14.9713                    24     23      4
+14.9652               Support     35     10
+14.9340                  most     40     83
+14.8852                 Staff     18      2
+14.8415                unlock     15      1
+14.8415              obtained     15      1
+14.8415            continuing     15      1
+14.8415                Friday     15      1
+14.7836            continuous     12     39
+14.7552               problem     30     68
+14.7207               Primary     31      8
+14.6686              transfer     27      6
+14.6686             determine     27      6
+14.6686                 Other     27      6
+14.6635        organizational     29      7
+14.6635               ongoing     29      7
+14.6635                States     29      7
+14.5892            complexity      4     23
+14.5634               experts      2     18
+14.5599          enhancements      1     15
+14.5599           discussions      1     15
+14.5599      cross-functional      1     15
+14.5599               Partner      1     15
+14.5599               Digital      1     15
+14.5599                   B.S      1     15
+14.4726               Summary     38     12
+14.3851                   two     43     15
+14.3567            discipline      5     25
+14.3567                detail      5     25
+14.2892               improve     45     89
+14.2599                  role     61    111
+14.2582                 built      8     31
+14.2463              reliable      6     27
+14.2463             inclusive      6     27
+14.2459                   lab     20      3
+14.2459          Commonwealth     20      3
+14.2211                 we’re      7     29
+14.1432                  want     26     61
+14.0776              complete     34     10
+13.9642               walking     10      0
+13.9642              utilizes     10      0
+13.9642                survey     10      0
+13.9642              responds     10      0
+13.9642        representative     10      0
+13.9642             part-time     10      0
+13.9642             necessity     10      0
+13.9642                   ill     10      0
+13.9642                fiscal     10      0
+13.9642            encounters     10      0
+13.9642               directs     10      0
+13.9642             depending     10      0
+13.9642            compassion     10      0
+13.9642               average     10      0
+13.9642       appropriateness     10      0
+13.9642            administer     10      0
+13.9642            accurately     10      0
+13.9642                  Uses     10      0
+13.9642                 Skill     10      0
+13.9642              Saturday     10      0
+13.9642                 Renal     10      0
+13.9642                 Rapid     10      0
+13.9642         Perioperative     10      0
+13.9642                   Per     10      0
+13.9642                    NM     10      0
+13.9642              Medicaid     10      0
+13.9642              Licenses     10      0
+13.9642                   LHH     10      0
+13.9642                Jersey     10      0
+13.9642                  Iowa     10      0
+13.9642                    IN     10      0
+13.9642               Fitness     10      0
+13.9642            Facilities     10      0
+13.9642                    ER     10      0
+13.9642                   DEA     10      0
+13.9642         Credentialing     10      0
+13.9642               College     10      0
+13.9642               Cardiac     10      0
+13.9642                  Camp     10      0
+13.9642            Administer     10      0
+13.9642                  Acts     10      0
+13.9497                    Do     12     38
+13.9171             utilizing     32      9
+13.9171                  laws     32      9
+13.9040             execution      3     20
+13.9020               disease     22      4
+13.9020                agency     22      4
+13.7631               watchOS      0     10
+13.7631            trade-offs      0     10
+13.7631                tested      0     10
+13.7631                  rich      0     10
+13.7631                object      0     10
+13.7631        non-internship      0     10
+13.7631       maintainability      0     10
+13.7631               latency      0     10
+13.7631      high-performance      0     10
+13.7631                  eBay      0     10
+13.7631       customer-facing      0     10
+13.7631              curation      0     10
+13.7631                  bugs      0     10
+13.7631                   bug      0     10
+13.7631          architecting      0     10
+13.7631                 XHTML      0     10
+13.7631                  Unix      0     10
+13.7631                   Red      0     10
+13.7631              Products      0     10
+13.7631                Photos      0     10
+13.7631                Meraki      0     10
+13.7631                 Media      0     10
+13.7631                  JSON      0     10
+13.7631                  Hack      0     10
+13.7631               Express      0     10
+13.7631                  CSS3      0     10
+13.7631             Aerospace      0     10
+13.7051                  body     17      2
+13.7051                     6     17      2
+13.6803                travel     26      6
+13.5931         relationships     42     15
+13.5784              spending     14      1
+13.5784             recruiter     14      1
+13.5784            prevention     14      1
+13.5784                pounds     14      1
+13.5784                assure     14      1
+13.5784          Organization     14      1
+13.5784                During     14      1
+13.5784              Complete     14      1
+13.5401                  push      4     22
+13.4546                  Come      9     32
+13.4063                unique     19     49
+13.4035          perspectives      2     17
+13.4035              evolving      2     17
+13.4035                 doing      2     17
+13.4035             developed      2     17
+13.4035                Global      2     17
+13.3517          contributing      5     24
+13.3517           challenging      5     24
+13.3517                  Core      5     24
+13.3170            structured      1     14
+13.3170              payments      1     14
+13.3170                faster      1     14
+13.3170             celebrate      1     14
+13.3170              Identity      1     14
+13.3170                    IT      1     14
+13.3170                 Drive      1     14
+13.1546                Degree     57     25
+13.0660                   for   1316   1150
+12.9779              computer     46     88
+12.9251                    MS     11     35
+12.8734               possess     29      8
+12.8587                  part     73    124
+12.8468           assignments     21      4
+12.8139             worldwide      3     19
+12.7647               related    106    166
+12.7633               skilled     27      7
+12.7633            additional     27      7
+12.7064                living     25      6
+12.7064                 basic     25      6
+12.6285                  Work     59    105
+12.5749                   Our    116    178
+12.5677             transport      9      0
+12.5677                 rooms      9      0
+12.5677              regional      9      0
+12.5677             referring      9      0
+12.5677          psychosocial      9      0
+12.5677           procedures;      9      0
+12.5677            phlebotomy      9      0
+12.5677              outreach      9      0
+12.5677          occupational      9      0
+12.5677               newborn      9      0
+12.5677               lifting      9      0
+12.5677                   lbs      9      0
+12.5677                intake      9      0
+12.5677              homeless      9      0
+12.5677                  exam      9      0
+12.5677                 drugs      9      0
+12.5677             disorders      9      0
+12.5677             diagnoses      9      0
+12.5677           conjunction      9      0
+12.5677            concerning      9      0
+12.5677               compact      9      0
+12.5677              clerical      9      0
+12.5677                charts      9      0
+12.5677                 care;      9      0
+12.5677                  camp      9      0
+12.5677               bending      9      0
+12.5677              assuring      9      0
+12.5677              assisted      9      0
+12.5677              approval      9      0
+12.5677             ancillary      9      0
+12.5677           administers      9      0
+12.5677              adequate      9      0
+12.5677            Supervises      9      0
+12.5677               Special      9      0
+12.5677                  Room      9      0
+12.5677                   RNs      9      0
+12.5677            Outpatient      9      0
+12.5677            Non-profit      9      0
+12.5677            Nephrology      9      0
+12.5677                   NPs      9      0
+12.5677                    NO      9      0
+12.5677         Monday-Friday      9      0
+12.5677                 Mercy      9      0
+12.5677                   LVN      9      0
+12.5677             Intensive      9      0
+12.5677             Hospitals      9      0
+12.5677          HCAhrAnswers      9      0
+12.5677             EDUCATION      9      0
+12.5677              Criteria      9      0
+12.5677             Committee      9      0
+12.5677            Children's      9      0
+12.5677                 Child      9      0
+12.5677                Campus      9      0
+12.5677                   CME      9      0
+12.5677             Authority      9      0
+12.5677               Attends      9      0
+12.5677                 Adult      9      0
+12.5677        1-844-422-5627      9      0
+12.5375              monitors     16      2
+12.5375               manager     16      2
+12.5375            electronic     16      2
+12.5375                adults     16      2
+12.5375                    50     16      2
+12.4510               million      8     29
+12.3868              websites      0      9
+12.3868                   too      0      9
+12.3868               thought      0      9
+12.3868                that’s      0      9
+12.3868               servers      0      9
+12.3868                sensor      0      9
+12.3868                  runs      0      9
+12.3868              releases      0      9
+12.3868               physics      0      9
+12.3868                 paced      0      9
+12.3868          multi-tiered      0      9
+12.3868                movies      0      9
+12.3868                 loves      0      9
+12.3868                  lieu      0      9
+12.3868                 layer      0      9
+12.3868                kernel      0      9
+12.3868              graphics      0      9
+12.3868            definition      0      9
+12.3868          connectivity      0      9
+12.3868             audiences      0      9
+12.3868              audience      0      9
+12.3868              allowing      0      9
+12.3868            Workplaces      0      9
+12.3868            Typescript      0      9
+12.3868                 Spark      0      9
+12.3868                Oculus      0      9
+12.3868                   JVM      0      9
+12.3868                   IoT      0      9
+12.3868           Interactive      0      9
+12.3868            Frameworks      0      9
+12.3868            Developing      0      9
+12.3868            Artificial      0      9
+12.3868                  AJAX      0      9
+12.3868                    6+      0      9
+12.3612               startup      5     23
+12.3612          optimization      5     23
+12.3612                 Learn      5     23
+12.3612              Customer      5     23
+12.3611            interested      7     27
+12.3469               changes     42     16
+12.3249             requested     13      1
+12.3249                listed     13      1
+12.3249                  lift     13      1
+12.3249                  four     13      1
+12.3249              evidence     13      1
+12.3249               conduct     13      1
+12.3249                   THE     13      1
+12.3249            Compliance     13      1
+12.3249               24-hour     13      1
+12.3243          stakeholders      6     25
+12.3201               Ability    152     98
+12.2560                 fresh      2     16
+12.2560            everything      2     16
+12.2560          cutting-edge      2     16
+12.1438                  site     30      9
+12.1438             questions     30      9
+12.1438                mental     30      9
+12.0836                 suite      1     13
+12.0836               stories      1     13
+12.0836                owners      1     13
+12.0836           innovations      1     13
+12.0836                ground      1     13
+12.0836            commercial      1     13
+12.0836                accept      1     13
+12.0836                Search      1     13
+12.0836            Contribute      1     13
+12.0471             protocols     40     15
+12.0397                   Two     18      3
+12.0397                   Act     18      3
+11.9891               contact     35     12
+11.9873                  just     19     47
+11.8240             Microsoft     16     42
+11.8068             Abilities     20      4
+11.7381             connected      3     18
+11.7381                  Lead      3     18
+11.7361           exceptional     33     11
+11.7280          Professional     22      5
+11.6639              Required     84     46
+11.6443             implement     30     63
+11.5457                  What     24     54
+11.4984               located     31     10
+11.4937                     3     53     24
+11.4851            foundation      4     20
+11.4851            approaches      4     20
+11.4851               Seattle      4     20
+11.4727           individuals     47     20
+11.4535                 track      7     26
+11.3860              interact      6     24
+11.3838                smooth     15      2
+11.3838         investigation     15      2
+11.3838            facilitate     15      2
+11.3838          competencies     15      2
+11.3473             practices     55     97
+11.2960          implementing     19     46
+11.1713               surveys      8      0
+11.1713              surgeons      8      0
+11.1713               seniors      8      0
+11.1713              rotating      8      0
+11.1713                 renal      8      0
+11.1713              relative      8      0
+11.1713             relations      8      0
+11.1713              promptly      8      0
+11.1713         pre-operative      8      0
+11.1713      patient-centered      8      0
+11.1713            nationwide      8      0
+11.1713                 minor      8      0
+11.1713                 joint      8      0
+11.1713        investigations      8      0
+11.1713        interpretation      8      0
+11.1713            injections      8      0
+11.1713          independence      8      0
+11.1713               faculty      8      0
+11.1713               ethical      8      0
+11.1713             directing      8      0
+11.1713            determined      8      0
+11.1713          credentialed      8      0
+11.1713              consults      8      0
+11.1713             attending      8      0
+11.1713           advancement      8      0
+11.1713           accrediting      8      0
+11.1713                 Trail      8      0
+11.1713                 Three      8      0
+11.1713               Therapy      8      0
+11.1713              Southern      8      0
+11.1713                 Saint      8      0
+11.1713                Safety      8      0
+11.1713                 SHIFT      8      0
+11.1713               Purpose      8      0
+11.1713           Psychiatric      8      0
+11.1713                  Part      8      0
+11.1713                   PRN      8      0
+11.1713          Occupational      8      0
+11.1713               Obtains      8      0
+11.1713                 Night      8      0
+11.1713                Mother      8      0
+11.1713         Massachusetts      8      0
+11.1713                  Loan      8      0
+11.1713               Hickory      8      0
+11.1713                 HIPAA      8      0
+11.1713                     H      8      0
+11.1713               Freeman      8      0
+11.1713              Examiner      8      0
+11.1713              Educates      8      0
+11.1713            EXPERIENCE      8      0
+11.1713              Children      8      0
+11.1713             Charities      8      0
+11.1713                   CAP      8      0
+11.1713               Benefit      8      0
+11.1713                  Baby      8      0
+11.1713                 Agnes      8      0
+11.1713               Admired      8      0
+11.1713                   APC      8      0
+11.1713                   AHA      8      0
+11.1404                 daily     45     19
+11.1224                simple      2     15
+11.1224                memory      2     15
+11.1224             challenge      2     15
+11.1224                 audio      2     15
+11.1224                 Bring      2     15
+11.0824               workers     12      1
+11.0824                today!     12      1
+11.0824            suspicious     12      1
+11.0824                 spine     12      1
+11.0824             placement     12      1
+11.0824            corrective     12      1
+11.0824                charge     12      1
+11.0824                 Yahoo     12      1
+11.0824                 South     12      1
+11.0824                 Human     12      1
+11.0824           Establishes     12      1
+11.0760                thrive     10     31
+11.0303                  both     51     91
+11.0104              wireless      0      8
+11.0104                 usage      0      8
+11.0104            underlying      0      8
+11.0104               smarter      0      8
+11.0104               scoping      0      8
+11.0104               roadmap      0      8
+11.0104                python      0      8
+11.0104             processed      0      8
+11.0104               powered      0      8
+11.0104         notifications      0      8
+11.0104                invent      0      8
+11.0104             impactful      0      8
+11.0104           high-volume      0      8
+11.0104                 dream      0      8
+11.0104               desktop      0      8
+11.0104           deployments      0      8
+11.0104              deployed      0      8
+11.0104        cross-platform      0      8
+11.0104            creativity      0      8
+11.0104            containers      0      8
+11.0104            connecting      0      8
+11.0104          cloud-native      0      8
+11.0104               browser      0      8
+11.0104              automate      0      8
+11.0104              analytic      0      8
+11.0104             ambiguous      0      8
+11.0104               Storage      0      8
+11.0104                 Sonos      0      8
+11.0104                    SW      0      8
+11.0104                  Pure      0      8
+11.0104             Objective      0      8
+11.0104                    OO      0      8
+11.0104                Native      0      8
+11.0104                Lambda      0      8
+11.0104                Kanban      0      8
+11.0104                JQuery      0      8
+11.0104               GoDaddy      0      8
+11.0104                   GCP      0      8
+11.0104             Fivestars      0      8
+11.0104              Fidelity      0      8
+11.0104        CloudFormation      0      8
+11.0104             Augmented      0      8
+11.0104                Apollo      0      8
+11.0104             AngularJS      0      8
+11.0104                 Adobe      0      8
+11.0104                   3rd      0      8
+10.9597            occasional     17      3
+10.9597     multidisciplinary     17      3
+10.9597              children     17      3
+10.8612               delight      1     12
+10.8612             ambiguity      1     12
+10.8612                    WA      1     12
+10.8612                Mobile      1     12
+10.7835               meeting     19      4
+10.7497              Training     21      5
+10.6782                  move      3     17
+10.5871                 focus     23     51
+10.5558            monitoring     38     15
+10.5002               success     11     32
+10.4819                 store      4     19
+10.4819               someone      4     19
+10.4819                proven      4     19
+10.4819                   Who      4     19
+10.4644               rapidly      6     23
+10.4322               promote     28      9
+10.3891                  ways     16     40
+10.3027           environment    113    168
+10.2643                    so     22     49
+10.2458           conferences     14      2
+10.2458               comfort     14      2
+10.1554              advanced     39     16
+10.1399               diverse     29     59
+10.1251                report     31     11
+10.0045              strategy      2     14
+10.0045         revolutionize      2     14
+10.0045              insights      2     14
+10.0045                  huge      2     14
+10.0045                extend      2     14
+ 9.9487           effectively     52     25
+ 9.8974          registration     16      3
+ 9.8974                option     16      3
+ 9.8974                   met     16      3
+ 9.8974              function     16      3
+ 9.8974                Dental     16      3
+ 9.8826               actions     22      6
+ 9.8659                    an    547    453
+ 9.8528                rights     11      1
+ 9.8528              measures     11      1
+ 9.8528           evaluations     11      1
+ 9.8528                  drug     11      1
+ 9.8528              Veterans     11      1
+ 9.8528                 Serve     11      1
+ 9.8528         Reimbursement     11      1
+ 9.8528            Implements     11      1
+ 9.8528                  Five     11      1
+ 9.7748            vocational      7      0
+ 9.7748              verbally      7      0
+ 9.7748                treats      7      0
+ 9.7748              treating      7      0
+ 9.7748              tertiary      7      0
+ 9.7748               symptom      7      0
+ 9.7748              suturing      7      0
+ 9.7748             substance      7      0
+ 9.7748                stroke      7      0
+ 9.7748           specialties      7      0
+ 9.7748              setting;      7      0
+ 9.7748             retention      7      0
+ 9.7748           residential      7      0
+ 9.7748                refers      7      0
+ 9.7748              recovery      7      0
+ 9.7748             receiving      7      0
+ 9.7748           progression      7      0
+ 9.7748          preventative      7      0
+ 9.7748               prepare      7      0
+ 9.7748           precautions      7      0
+ 9.7748             physicals      7      0
+ 9.7748              pharmacy      7      0
+ 9.7748               outcome      7      0
+ 9.7748               optimal      7      0
+ 9.7748           observation      7      0
+ 9.7748            non-profit      7      0
+ 9.7748                 night      7      0
+ 9.7748                injury      7      0
+ 9.7748              incoming      7      0
+ 9.7748               healing      7      0
+ 9.7748            graduation      7      0
+ 9.7748          examinations      7      0
+ 9.7748              employed      7      0
+ 9.7748           emergencies      7      0
+ 9.7748           designation      7      0
+ 9.7748            delegation      7      0
+ 9.7748                 death      7      0
+ 9.7748            culturally      7      0
+ 9.7748              conflict      7      0
+ 9.7748                breast      7      0
+ 9.7748                bodies      7      0
+ 9.7748               assault      7      0
+ 9.7748                  ages      7      0
+ 9.7748         administering      7      0
+ 9.7748                  West      7      0
+ 9.7748              Verifies      7      0
+ 9.7748               Tuesday      7      0
+ 9.7748             Supervise      7      0
+ 9.7748                Stroke      7      0
+ 9.7748                Street      7      0
+ 9.7748            Specialist      7      0
+ 9.7748             Schedules      7      0
+ 9.7748              Richmond      7      0
+ 9.7748              Responds      7      0
+ 9.7748             Repayment      7      0
+ 9.7748               Process      7      0
+ 9.7748          Prescriptive      7      0
+ 9.7748               Prepare      7      0
+ 9.7748          Pennsylvania      7      0
+ 9.7748              Outreach      7      0
+ 9.7748                 Order      7      0
+ 9.7748              Oncology      7      0
+ 9.7748                   Oak      7      0
+ 9.7748                    OB      7      0
+ 9.7748              Notifies      7      0
+ 9.7748                     N      7      0
+ 9.7748                   Med      7      0
+ 9.7748                  Main      7      0
+ 9.7748         Interpersonal      7      0
+ 9.7748                   I-9      7      0
+ 9.7748                Harris      7      0
+ 9.7748                   HHS      7      0
+ 9.7748             Examiners      7      0
+ 9.7748                  ESRD      7      0
+ 9.7748                  Diem      7      0
+ 9.7748               Contact      7      0
+ 9.7748            Conditions      7      0
+ 9.7748             Concentra      7      0
+ 9.7748           Communities      7      0
+ 9.7748              Carolina      7      0
+ 9.7748                  BCLS      7      0
+ 9.7748             America’s      7      0
+ 9.7748            Admissions      7      0
+ 9.7748         Administrator      7      0
+ 9.7748           Administers      7      0
+ 9.7748                    AS      7      0
+ 9.7748                     =      7      0
+ 9.7748                     <      7      0
+ 9.7748                    90      7      0
+ 9.7748                     #      7      0
+ 9.6928            techniques     16     39
+ 9.6885               forward      7     24
+ 9.6517       troubleshooting      1     11
+ 9.6517             routinely      1     11
+ 9.6517               payment      1     11
+ 9.6517                 going      1     11
+ 9.6368              identity     18     42
+ 9.6360             something      3     16
+ 9.6360               empower      3     16
+ 9.6360                    By      3     16
+ 9.6341              vehicles      0      7
+ 9.6341                usable      0      7
+ 9.6341                tuning      0      7
+ 9.6341               traffic      0      7
+ 9.6341                 thing      0      7
+ 9.6341              testable      0      7
+ 9.6341              startups      0      7
+ 9.6341            simplicity      0      7
+ 9.6341                signal      0      7
+ 9.6341                  shop      0      7
+ 9.6341             scenarios      0      7
+ 9.6341             resilient      0      7
+ 9.6341            real-world      0      7
+ 9.6341             producing      0      7
+ 9.6341             problems?      0      7
+ 9.6341         orchestration      0      7
+ 9.6341             optimized      0      7
+ 9.6341           open-source      0      7
+ 9.6341                  news      0      7
+ 9.6341      multi-functional      0      7
+ 9.6341                linear      0      7
+ 9.6341          intersection      0      7
+ 9.6341           interesting      0      7
+ 9.6341           intelligent      0      7
+ 9.6341                firm’s      0      7
+ 9.6341                 feeds      0      7
+ 9.6341              favorite      0      7
+ 9.6341           experiments      0      7
+ 9.6341                  dive      0      7
+ 9.6341              datasets      0      7
+ 9.6341      containerization      0      7
+ 9.6341             container      0      7
+ 9.6341           constraints      0      7
+ 9.6341               caching      0      7
+ 9.6341          asynchronous      0      7
+ 9.6341              analysts      0      7
+ 9.6341                  WiFi      0      7
+ 9.6341                 Tools      0      7
+ 9.6341             Starbucks      0      7
+ 9.6341            Smartsheet      0      7
+ 9.6341                   SWE      0      7
+ 9.6341                   SQS      0      7
+ 9.6341                   SOA      0      7
+ 9.6341                   SMB      0      7
+ 9.6341              Postgres      0      7
+ 9.6341                  POCs      0      7
+ 9.6341  Opportunity-Affirmative      0      7
+ 9.6341               Natural      0      7
+ 9.6341                   NET      0      7
+ 9.6341                 Music      0      7
+ 9.6341                   MVC      0      7
+ 9.6341                  Lyft      0      7
+ 9.6341                Intune      0      7
+ 9.6341               HomeKit      0      7
+ 9.6341                   Hat      0      7
+ 9.6341               Example      0      7
+ 9.6341         Elasticsearch      0      7
+ 9.6341                   ECS      0      7
+ 9.6341             Designers      0      7
+ 9.6341                    D3      0      7
+ 9.6341                   CKB      0      7
+ 9.6341              Blizzard      0      7
+ 9.6341          Architecture      0      7
+ 9.6341               Apple’s      0      7
+ 9.6341               Apple's      0      7
+ 9.6341                    7+      0      7
+ 9.6019                Office     27      9
+ 9.4971             influence      4     18
+ 9.4971                beyond      4     18
+ 9.4881                single      5     20
+ 9.4881                   art      5     20
+ 9.4881               Capital      5     20
+ 9.4742            supporting     10     29
+ 9.3662                obtain     25      8
+ 9.3662           demonstrate     25      8
+ 9.3662                System     25      8
+ 9.3445            University     30     11
+ 9.3435        responsibility     51     25
+ 9.2399                  come      9     27
+ 9.2386                 value     28     56
+ 9.1969              thinking     33     13
+ 9.1763              specific     45     21
+ 9.1553                follow     23      7
+ 9.1257                 treat     13      2
+ 9.1257              strongly     13      2
+ 9.1257             requiring     13      2
+ 9.1257               present     13      2
+ 9.1257               persons     13      2
+ 9.1257              organize     13      2
+ 9.1257                credit     13      2
+ 9.1257              Response     13      2
+ 9.1257            Excellence     13      2
+ 9.0902            background     14     35
+ 9.0635              Services    103     65
+ 9.0243           Proficiency      8     25
+ 9.0143            employment     80     47
+ 8.9784              response     21      6
+ 8.9624                  Role     11     30
+ 8.9045               produce      2     13
+ 8.9045               embrace      2     13
+ 8.9045              crafting      2     13
+ 8.9045                Mentor      2     13
+ 8.9045                 Local      2     13
+ 8.8549                 phone     15      3
+ 8.8549               country     15      3
+ 8.8549                  card     15      3
+ 8.8549                    TX     15      3
+ 8.8549           Performance     15      3
+ 8.8549                    No     15      3
+ 8.8498               options     19      5
+ 8.8498               defined     19      5
+ 8.8498                Ensure     19      5
+ 8.7939               request     17      4
+ 8.7939              division     17      4
+ 8.7939                Reston     17      4
+ 8.7902                  They     26      9
+ 8.7902                    It     26      9
+ 8.7477               believe     23     48
+ 8.6993               purpose     10     28
+ 8.6767               amazing      6     21
+ 8.6384            transition     10      1
+ 8.6384             specified     10      1
+ 8.6384                remain     10      1
+ 8.6384           preparation     10      1
+ 8.6384                  fill     10      1
+ 8.6384         developmental     10      1
+ 8.6384               courses     10      1
+ 8.6384                 chart     10      1
+ 8.6384               Mission     10      1
+ 8.6384                 Makes     10      1
+ 8.6384               Florida     10      1
+ 8.6384          Compensation     10      1
+ 8.6384             Assurance     10      1
+ 8.6136                     —      3     15
+ 8.6136             integrate      3     15
+ 8.5683               towards      5     19
+ 8.5349             maintains     24      8
+ 8.5325                remote      4     17
+ 8.5325              Business      4     17
+ 8.4733               history     32     13
+ 8.4574                   us!      1     10
+ 8.4574            statistics      1     10
+ 8.4574               mindset      1     10
+ 8.4574            mentorship      1     10
+ 8.4574           mathematics      1     10
+ 8.4574               finding      1     10
+ 8.4574                  ever      1     10
+ 8.4574                engage      1     10
+ 8.4574                You're      1     10
+ 8.4574             Framework      1     10
+ 8.4574             Analytics      1     10
+ 8.4400              identify     38     17
+ 8.4367                   etc     53     88
+ 8.4189                should     22     46
+ 8.3784              violence      6      0
+ 8.3784               victims      6      0
+ 8.3784                unless      6      0
+ 8.3784               trained      6      0
+ 8.3784              symptoms      6      0
+ 8.3784             surveyors      6      0
+ 8.3784                summer      6      0
+ 8.3784              stooping      6      0
+ 8.3784             scheduled      6      0
+ 8.3784                rotate      6      0
+ 8.3784             residence      6      0
+ 8.3784        rehabilitative      6      0
+ 8.3784            regionally      6      0
+ 8.3784            recognizes      6      0
+ 8.3784                reason      6      0
+ 8.3784            privileges      6      0
+ 8.3784             presented      6      0
+ 8.3784          prescription      6      0
+ 8.3784                pre-op      6      0
+ 8.3784        pre-employment      6      0
+ 8.3784                period      6      0
+ 8.3784       patient-focused      6      0
+ 8.3784              overtime      6      0
+ 8.3784             nutrition      6      0
+ 8.3784               neglect      6      0
+ 8.3784                   mix      6      0
+ 8.3784            managerial      6      0
+ 8.3784                issued      6      0
+ 8.3784           intravenous      6      0
+ 8.3784            interprets      6      0
+ 8.3784     interdepartmental      6      0
+ 8.3784              informal      6      0
+ 8.3784           in-services      6      0
+ 8.3784               hygiene      6      0
+ 8.3784  healthcare-associated      6      0
+ 8.3784               hazards      6      0
+ 8.3784            fulfilling      6      0
+ 8.3784                 floor      6      0
+ 8.3784             fertility      6      0
+ 8.3784              emergent      6      0
+ 8.3784              diseases      6      0
+ 8.3784              diagnose      6      0
+ 8.3784             described      6      0
+ 8.3784           credentials      6      0
+ 8.3784           coordinator      6      0
+ 8.3784           coordinated      6      0
+ 8.3784              conducts      6      0
+ 8.3784          completeness      6      0
+ 8.3784             complaint      6      0
+ 8.3784             clinician      6      0
+ 8.3784            certifying      6      0
+ 8.3784                census      6      0
+ 8.3784                calmly      6      0
+ 8.3784                boards      6      0
+ 8.3784               bedside      6      0
+ 8.3784                  beds      6      0
+ 8.3784                     b      6      0
+ 8.3784                attend      6      0
+ 8.3784             assistive      6      0
+ 8.3784            assignment      6      0
+ 8.3784              annually      6      0
+ 8.3784            allocation      6      0
+ 8.3784             affecting      6      0
+ 8.3784                  ZSFG      6      0
+ 8.3784               World’s      6      0
+ 8.3784              Weekends      6      0
+ 8.3784               Weekend      6      0
+ 8.3784                  Week      6      0
+ 8.3784              Vascular      6      0
+ 8.3784                    UT      6      0
+ 8.3784             Telephone      6      0
+ 8.3784                 Takes      6      0
+ 8.3784                   TGH      6      0
+ 8.3784               Swedish      6      0
+ 8.3784                  Surg      6      0
+ 8.3784           Supervisory      6      0
+ 8.3784                    SF      6      0
+ 8.3784                Rounds      6      0
+ 8.3784                  Rico      6      0
+ 8.3784              Reviewer      6      0
+ 8.3784                Puerto      6      0
+ 8.3784           Progressive      6      0
+ 8.3784                Prefer      6      0
+ 8.3784               Posting      6      0
+ 8.3784                Palmer      6      0
+ 8.3784             Organizes      6      0
+ 8.3784                  OSHA      6      0
+ 8.3784                  Nova      6      0
+ 8.3784               NURSING      6      0
+ 8.3784                 NIMRS      6      0
+ 8.3784               Lourdes      6      0
+ 8.3784               Justice      6      0
+ 8.3784                Intake      6      0
+ 8.3784                   ICC      6      0
+ 8.3784               Hershey      6      0
+ 8.3784                  Heal      6      0
+ 8.3784                   HCR      6      0
+ 8.3784            Graduation      6      0
+ 8.3784                   GYN      6      0
+ 8.3784                    GW      6      0
+ 8.3784                    GI      6      0
+ 8.3784              Forensic      6      0
+ 8.3784               Fairfax      6      0
+ 8.3784                  Fair      6      0
+ 8.3784            Executives      6      0
+ 8.3784                  EPIC      6      0
+ 8.3784              Driver’s      6      0
+ 8.3784              District      6      0
+ 8.3784               Disease      6      0
+ 8.3784             Directors      6      0
+ 8.3784              Dialysis      6      0
+ 8.3784                 DRIVE      6      0
+ 8.3784           Contributes      6      0
+ 8.3784              Columbia      6      0
+ 8.3784                 Click      6      0
+ 8.3784           Certificate      6      0
+ 8.3784             Bilingual      6      0
+ 8.3784                   BMC      6      0
+ 8.3784               Assures      6      0
+ 8.3784               Assumes      6      0
+ 8.3784            Assistance      6      0
+ 8.3784           Assessments      6      0
+ 8.3784            Assessment      6      0
+ 8.3784               Applies      6      0
+ 8.3784                Annual      6      0
+ 8.3784                 Aging      6      0
+ 8.3784             Adventist      6      0
+ 8.3784          AdventHealth      6      0
+ 8.3784              Advantia      6      0
+ 8.3784              Accounts      6      0
+ 8.3768      Responsibilities     76    117
+ 8.3457             operating     16     37
+ 8.3100              multiple     41     72
+ 8.3006                     I     22      7
+ 8.2578             workloads      0      6
+ 8.2578               viewers      0      6
+ 8.2578               urgency      0      6
+ 8.2578              universe      0      6
+ 8.2578          transactions      0      6
+ 8.2578              thinkers      0      6
+ 8.2578                  tens      0      6
+ 8.2578         technologists      0      6
+ 8.2578                team's      0      6
+ 8.2578           simulations      0      6
+ 8.2578               sensors      0      6
+ 8.2578               scratch      0      6
+ 8.2578                 safer      0      6
+ 8.2578                refine      0      6
+ 8.2578              readable      0      6
+ 8.2578                points      0      6
+ 8.2578              playback      0      6
+ 8.2578                planet      0      6
+ 8.2578                nimble      0      6
+ 8.2578                neural      0      6
+ 8.2578                 more?      0      6
+ 8.2578         manufacturing      0      6
+ 8.2578             iterating      0      6
+ 8.2578            innovating      0      6
+ 8.2578              humility      0      6
+ 8.2578                humans      0      6
+ 8.2578        groundbreaking      0      6
+ 8.2578                 graph      0      6
+ 8.2578        geographically      0      6
+ 8.2578                gaming      0      6
+ 8.2578                  food      0      6
+ 8.2578            extraction      0      6
+ 8.2578            extensible      0      6
+ 8.2578           enterprises      0      6
+ 8.2578               engines      0      6
+ 8.2578                debate      0      6
+ 8.2578           data-driven      0      6
+ 8.2578            currencies      0      6
+ 8.2578       consumer-facing      0      6
+ 8.2578             codebases      0      6
+ 8.2578                closer      0      6
+ 8.2578                buyers      0      6
+ 8.2578               broadly      0      6
+ 8.2578        authentication      0      6
+ 8.2578               aspires      0      6
+ 8.2578            architects      0      6
+ 8.2578               agility      0      6
+ 8.2578                adding      0      6
+ 8.2578           acquisition      0      6
+ 8.2578         accessibility      0      6
+ 8.2578               Webpack      0      6
+ 8.2578                  User      0      6
+ 8.2578          Subscription      0      6
+ 8.2578                Sports      0      6
+ 8.2578               Someone      0      6
+ 8.2578                 Solve      0      6
+ 8.2578                Secret      0      6
+ 8.2578            Responsive      0      6
+ 8.2578            Relational      0      6
+ 8.2578              React.js      0      6
+ 8.2578                  Nice      0      6
+ 8.2578                   Net      0      6
+ 8.2578            Mastercard      0      6
+ 8.2578                  Live      0      6
+ 8.2578                   LLP      0      6
+ 8.2578           Integration      0      6
+ 8.2578             Integrate      0      6
+ 8.2578            Industrial      0      6
+ 8.2578                Indigo      0      6
+ 8.2578                   IMG      0      6
+ 8.2578                  IMDb      0      6
+ 8.2578                   GBS      0      6
+ 8.2578             Front-End      0      6
+ 8.2578                Female      0      6
+ 8.2578           Experiences      0      6
+ 8.2578               DeepNLP      0      6
+ 8.2578                   DSP      0      6
+ 8.2578               Compute      0      6
+ 8.2578                  Bash      0      6
+ 8.2578             Architect      0      6
+ 8.2517                 offer     56     30
+ 8.1533             essential     30     12
+ 8.0912              exciting     13     32
+ 8.0912              changing     13     32
+ 8.0884                  when     78     47
+ 8.0868                  time    108     71
+ 8.0557             candidate     31     58
+ 8.0557             Excellent     31     58
+ 8.0509                 basis     46     23
+ 8.0262               studies     12      2
+ 8.0262           specialists     12      2
+ 8.0262           participant     12      2
+ 8.0262                    he     12      2
+ 8.0262                checks     12      2
+ 8.0262         accreditation     12      2
+ 8.0262              Supports     12      2
+ 8.0262                 North     12      2
+ 8.0262                 Gmail     12      2
+ 8.0262                  2020     12      2
+ 7.9990                  hard      7     22
+ 7.9990                    US      7     22
+ 7.9319           specialized     18      5
+ 7.9319              Actively     18      5
+ 7.8381            assistance     28     11
+ 7.8346                   his     14      3
+ 7.8346                   her     14      3
+ 7.8346          expectations     14      3
+ 7.8346                Notice     14      3
+ 7.8316               Student     16      4
+ 7.8316                    40     16      4
+ 7.8251                   lot      2     12
+ 7.8251               inspire      2     12
+ 7.8251              emerging      2     12
+ 7.8251              discover      2     12
+ 7.8251                 chain      2     12
+ 7.8251                Spring      2     12
+ 7.8251                   IBM      2     12
+ 7.8251           Application      2     12
+ 7.8139          improvements      6     20
+ 7.8139              applying      6     20
+ 7.7519                career     51     27
+ 7.6705                  tech      5     18
+ 7.6705            expression      5     18
+ 7.6705               Veteran      5     18
+ 7.6468                   one    124    173
+ 7.6134              networks      3     14
+ 7.6134                  goes      3     14
+ 7.6134                  easy      3     14
+ 7.5903          enthusiastic      4     16
+ 7.5903                  base      4     16
+ 7.5903               Systems      4     16
+ 7.5290              Master's     26     10
+ 7.5075               largest     38     18
+ 7.4423             supervise      9      1
+ 7.4423              received      9      1
+ 7.4423           progressive      9      1
+ 7.4423            overseeing      9      1
+ 7.4423            identifies      9      1
+ 7.4423                crisis      9      1
+ 7.4423                comply      9      1
+ 7.4423            clinicians      9      1
+ 7.4423                  away      9      1
+ 7.4423                 Title      9      1
+ 7.4423             Statement      9      1
+ 7.4423              Spending      9      1
+ 7.4423            Recruiting      9      1
+ 7.4423                Assess      9      1
+ 7.4423        Administrative      9      1
+ 7.4394            Additional     29     12
+ 7.4058                models     13     31
+ 7.4019               various     29     54
+ 7.2930                    to   2897   3134
+ 7.2814              tackling      1      9
+ 7.2814            optimizing      1      9
+ 7.2814               fastest      1      9
+ 7.2814                drives      1      9
+ 7.2814                 don't      1      9
+ 7.2814                 cross      1      9
+ 7.2814         best-in-class      1      9
+ 7.2814                 Prime      1      9
+ 7.2814           Mathematics      1      9
+ 7.2814                   But      1      9
+ 7.2447               limited     39     19
+ 7.1929             processes     33     59
+ 7.1863               billion      7     21
+ 7.1720                    Be     20     41
+ 7.0814                Austin     30     13
+ 7.0381              progress     17      5
+ 7.0301               culture     23     45
+ 6.9741               operate      6     19
+ 6.9506            well-being     11      2
+ 6.9506              selected     11      2
+ 6.9506                return     11      2
+ 6.9506       professionalism     11      2
+ 6.9506               private     11      2
+ 6.9506           institution     11      2
+ 6.9506             inquiries     11      2
+ 6.9506             continued     11      2
+ 6.9506                Travel     11      2
+ 6.9506                Obtain     11      2
+ 6.9506                   Has     11      2
+ 6.9506             Executive     11      2
+ 6.9506             Documents     11      2
+ 6.9506                    CT     11      2
+ 6.9506                   Bay     11      2
+ 6.9413             expertise     26     49
+ 6.9364                  jobs     22      8
+ 6.9364               Conduct     22      8
+ 6.9259                    CA      9     24
+ 6.8944               posting     15      4
+ 6.8944                    12     15      4
+ 6.8424             protected     19     39
+ 6.8396                 seeks     13      3
+ 6.8396             Insurance     13      3
+ 6.7968               healthy      5     17
+ 6.7968                energy      5     17
+ 6.7928             companies     11     27
+ 6.7697            responsive      2     11
+ 6.7697           researchers      2     11
+ 6.7697                estate      2     11
+ 6.7697                domain      2     11
+ 6.7697                   box      2     11
+ 6.7697               account      2     11
+ 6.7697                 Women      2     11
+ 6.7697              Familiar      2     11
+ 6.7579             positions     31     14
+ 6.7396                   sex     15     33
+ 6.7395                 enjoy     13     30
+ 6.6859         documentation     49     27
+ 6.6732                 Video      4     15
+ 6.6590            colleagues     20      7
+ 6.6504             dedicated     38     19
+ 6.6386       problem-solving      3     13
+ 6.6386                  even      3     13
+ 6.6386                  When      3     13
+ 6.6176               mission     47     76
+ 6.5352                status    111     77
+ 6.4869            Bachelor's     23     44
+ 6.4796            objectives     23      9
+ 6.4796           independent     23      9
+ 6.4641           competitive     32     15
+ 6.4240                 ideal     12     28
+ 6.4125                 model     26     11
+ 6.4009           outstanding     18      6
+ 6.4009           Competitive     18      6
+ 6.4009              Bachelor     18      6
+ 6.3860           orientation     64     39
+ 6.2685                  sick      8      1
+ 6.2685             services;      8      1
+ 6.2685             responses      8      1
+ 6.2685                nights      8      1
+ 6.2685             educating      8      1
+ 6.2685             directors      8      1
+ 6.2685          demonstrates      8      1
+ 6.2685       decision-making      8      1
+ 6.2685              cultural      8      1
+ 6.2685           certificate      8      1
+ 6.2685                 Total      8      1
+ 6.2685                  Star      8      1
+ 6.2685              Specific      8      1
+ 6.2685                  Site      8      1
+ 6.2685             Reporting      8      1
+ 6.2685               Records      8      1
+ 6.2685              Programs      8      1
+ 6.2685                   JOB      8      1
+ 6.2685              Function      8      1
+ 6.2685             Full-Time      8      1
+ 6.2685              E-Verify      8      1
+ 6.1726              Previous     21      8
+ 6.1726                 Apply     21      8
+ 6.1712               respond     16      5
+ 6.1712               offered     16      5
+ 6.1712              criteria     16      5
+ 6.1596          interactions      6     18
+ 6.1278          transparency      1      8
+ 6.1278            themselves      1      8
+ 6.1278        self-motivated      1      8
+ 6.1278                listen      1      8
+ 6.1278       implementations      1      8
+ 6.1278             exploring      1      8
+ 6.1278            empowering      1      8
+ 6.1278             discovery      1      8
+ 6.1278            boundaries      1      8
+ 6.1278         automatically      1      8
+ 6.1278                  Test      1      8
+ 6.1278                Should      1      8
+ 6.1278                    PM      1      8
+ 6.1222               another     15     32
+ 6.1169            commitment     30     14
+ 6.1108               driving     11     26
+ 6.0737              positive     37     19
+ 5.9853                  flow     14      4
+ 5.9853            competency     14      4
+ 5.9853             adherence     14      4
+ 5.9853              academic     14      4
+ 5.9500              Research      5     16
+ 5.9031              visitors     10      2
+ 5.9031                proper     10      2
+ 5.9031             promotion     10      2
+ 5.9031                  link     10      2
+ 5.9031              activity     10      2
+ 5.9031                Report     10      2
+ 5.9031          Intermediate     10      2
+ 5.8761           disciplines     19      7
+ 5.8761                    An     19      7
+ 5.8736             seriously     12      3
+ 5.8736                 click     12      3
+ 5.8736                  bank     12      3
+ 5.8355                growth     64     40
+ 5.8302                public     42     23
+ 5.8008                 broad     10     24
+ 5.7843              ancestry      4     14
+ 5.7561            collection     22      9
+ 5.7422                 voice      2     10
+ 5.7422          transforming      2     10
+ 5.7422                 shape      2     10
+ 5.7422            investment      2     10
+ 5.7422             histories      2     10
+ 5.7422         configuration      2     10
+ 5.7422                brings      2     10
+ 5.7422                  auto      2     10
+ 5.7422                affect      2     10
+ 5.7422           Orientation      2     10
+ 5.7422           Experienced      2     10
+ 5.7333                   pay     25     11
+ 5.7333                  feel     25     11
+ 5.7241                  been     35     18
+ 5.7116                   own     19     37
+ 5.6926              modeling      3     12
+ 5.6926               finance      3     12
+ 5.6926               execute      3     12
+ 5.6926              delivers      3     12
+ 5.6926                  Take      3     12
+ 5.6781                   For     47     27
+ 5.6681            applicable     39     21
+ 5.6347                talent      7     19
+ 5.6195                  need     53     81
+ 5.5942             establish     17      6
+ 5.5381                   age     57     35
+ 5.4972                social     29     14
+ 5.4972                 order     29     14
+ 5.4947          high-quality      9     22
+ 5.4686                   set     13     28
+ 5.4518             practical     11     25
+ 5.3950                 works     23     10
+ 5.3822                  Team     18     35
+ 5.3730                 could      6     17
+ 5.3340                 check     15      5
+ 5.3340             assurance     15      5
+ 5.1644              internal     31     52
+ 5.1329              workflow      5     15
+ 5.1329                 study      5     15
+ 5.1329               metrics      5     15
+ 5.1329             consumers      5     15
+ 5.1329               analyze      5     15
+ 5.1329             Implement      5     15
+ 5.1227               schools      7      1
+ 5.1227           recommended      7      1
+ 5.1227            organizing      7      1
+ 5.1227            laboratory      7      1
+ 5.1227         knowledgeable      7      1
+ 5.1227            interviews      7      1
+ 5.1227                 grade      7      1
+ 5.1227              exercise      7      1
+ 5.1227            convenient      7      1
+ 5.1227          confidential      7      1
+ 5.1227                 audit      7      1
+ 5.1227             Volunteer      7      1
+ 5.1227               Springs      7      1
+ 5.1227              Purchase      7      1
+ 5.1227                Mexico      7      1
+ 5.1227              Disabled      7      1
+ 5.1227                   CMS      7      1
+ 5.1227             Arlington      7      1
+ 5.1215            evaluating     18      7
+ 5.1081                  stay     13      4
+ 5.1081              informed     13      4
+ 5.1081             fantastic     13      4
+ 5.1081             completed     13      4
+ 5.0786               special     24     11
+ 5.0786                 above     24     11
+ 5.0786               Service     24     11
+ 5.0609                office     47     28
+ 5.0591              eligible     21      9
+ 5.0021               visible      1      7
+ 5.0021            visibility      1      7
+ 5.0021            validation      1      7
+ 5.0021              skillset      1      7
+ 5.0021               sharing      1      7
+ 5.0021               realize      1      7
+ 5.0021              powerful      1      7
+ 5.0021             intuitive      1      7
+ 5.0021         extraordinary      1      7
+ 5.0021              empowers      1      7
+ 5.0021             empowered      1      7
+ 5.0021                easily      1      7
+ 5.0021                custom      1      7
+ 5.0021              cultures      1      7
+ 5.0021               created      1      7
+ 5.0021              controls      1      7
+ 5.0021               banking      1      7
+ 5.0021                   ask      1      7
+ 5.0021                 Today      1      7
+ 5.0021            Processing      1      7
+ 5.0021            Interfaces      1      7
+ 5.0021                   Age      1      7
+ 4.9761              evaluate     35     19
+ 4.9761              Benefits     35     19
+ 4.9410              reaching     11      3
+ 4.9410             graduates     11      3
+ 4.9410           documenting     11      3
+ 4.9410           description     11      3
+ 4.9410            Washington     11      3
+ 4.9271            scientific      4     13
+ 4.9003             mentoring      7     18
+ 4.8891                states      9      2
+ 4.8891                  pass      9      2
+ 4.8891                  pain      9      2
+ 4.8891                nearly      9      2
+ 4.8891                 named      9      2
+ 4.8891              focusing      9      2
+ 4.8891             desirable      9      2
+ 4.8891                   act      9      2
+ 4.8891            acceptable      9      2
+ 4.8891                 Leave      9      2
+ 4.8891               Johnson      9      2
+ 4.8891               Federal      9      2
+ 4.8665                common     13     27
+ 4.8237                degree    114    151
+ 4.8181              operates     16      6
+ 4.8181               on-call     16      6
+ 4.8178                senior      9     21
+ 4.7801               virtual      3     11
+ 4.7801                second      3     11
+ 4.7801              leverage      3     11
+ 4.7801              internet      3     11
+ 4.7801               focuses      3     11
+ 4.7801                 brand      3     11
+ 4.7801                 Since      3     11
+ 4.7801                Expert      3     11
+ 4.7483                 eager      2      9
+ 4.7483               curious      2      9
+ 4.7483                 craft      2      9
+ 4.7483              Together      2      9
+ 4.7340              ensuring     22     10
+ 4.7340            considered     22     10
+ 4.7340                 cases     22     10
+ 4.7264               college     19      8
+ 4.6442             decisions     25     43
+ 4.6170                 leave      6     16
+ 4.6019                    do     57     83
+ 4.5302                 scope     14      5
+ 4.5302            Coordinate     14      5
+ 4.5178                person     17     32
+ 4.5178              managers     17     32
+ 4.5052                 think      8     19
+ 4.5052             important      8     19
+ 4.4932                  able     74     51
+ 4.4927           comfortable     10     22
+ 4.4501             documents     23     11
+ 4.4243             employees     69     47
+ 4.3981                  room     17      7
+ 4.3493               privacy      5     14
+ 4.3493                  much      5     14
+ 4.3493                  line      5     14
+ 4.3493           integrating      5     14
+ 4.3265          compensation     27     14
+ 4.3112                 these     31     50
+ 4.2884              managing     13     26
+ 4.2862               achieve     31     17
+ 4.2671               regular     12      4
+ 4.2671                 meets     12      4
+ 4.2671         effectiveness     12      4
+ 4.2671              Requires     12      4
+ 4.2671              Division     12      4
+ 4.2671                Active     12      4
+ 4.2088                 proud     11     23
+ 4.1998               require     24     12
+ 4.1998                 major     24     12
+ 4.1998             currently     24     12
+ 4.1998               benefit     24     12
+ 4.1970                  list      7     17
+ 4.1970                Senior      7     17
+ 4.1697               Provide     45     28
+ 4.1694                 Group      9     20
+ 4.1250                  date     28     15
+ 4.1063            regardless      4     12
+ 4.1063                 peers      4     12
+ 4.1063           interaction      4     12
+ 4.1063              engaging      4     12
+ 4.0815                 lives     41     25
+ 4.0488              Location     18      8
+ 4.0475             volunteer     10      3
+ 4.0475                   six     10      3
+ 4.0475              prepared     10      3
+ 4.0475               monthly     10      3
+ 4.0475          establishing     10      3
+ 4.0475                   Why     10      3
+ 4.0475             Practical     10      3
+ 4.0475             Employees     10      3
+ 4.0475             Company’s     10      3
+ 4.0130                  town      6      1
+ 4.0130             sensitive      6      1
+ 4.0130             respected      6      1
+ 4.0130       representatives      6      1
+ 4.0130                relate      6      1
+ 4.0130                region      6      1
+ 4.0130            qualifying      6      1
+ 4.0130           proprietary      6      1
+ 4.0130            presenting      6      1
+ 4.0130             preparing      6      1
+ 4.0130               opening      6      1
+ 4.0130             nonprofit      6      1
+ 4.0130              material      6      1
+ 4.0130          interviewing      6      1
+ 4.0130             healthier      6      1
+ 4.0130            governance      6      1
+ 4.0130                 final      6      1
+ 4.0130              client's      6      1
+ 4.0130               billing      6      1
+ 4.0130            atmosphere      6      1
+ 4.0130               alcohol      6      1
+ 4.0130               absence      6      1
+ 4.0130                Status      6      1
+ 4.0130             Providers      6      1
+ 4.0130               Package      6      1
+ 4.0130                   NOT      6      1
+ 4.0130                 Mateo      6      1
+ 4.0130              Magazine      6      1
+ 4.0130                    MD      6      1
+ 4.0130                Ethics      6      1
+ 4.0130               Educate      6      1
+ 4.0130              Discount      6      1
+ 4.0130              Delivery      6      1
+ 4.0130                 Award      6      1
+ 4.0130                    AZ      6      1
+ 4.0130                   3-5      6      1
+ 4.0130                 2,000      6      1
+ 4.0091              addition     37     22
+ 4.0060              maintain     69     48
+ 3.9774             locations     25     13
+ 3.9518                    at    289    342
+ 3.9156            systematic      8      2
+ 3.9156                signed      8      2
+ 3.9156                  past      8      2
+ 3.9156                 notes      8      2
+ 3.9156               managed      8      2
+ 3.9156            maintained      8      2
+ 3.9156               effects      8      2
+ 3.9156             competent      8      2
+ 3.9156              coaching      8      2
+ 3.9156              centered      8      2
+ 3.9156                adhere      8      2
+ 3.9156               Regular      8      2
+ 3.9156             Effective      8      2
+ 3.9125                 whose      1      6
+ 3.9125              whatever      1      6
+ 3.9125             web-based      1      6
+ 3.9125                 wants      1      6
+ 3.9125                visual      1      6
+ 3.9125                  view      1      6
+ 3.9125               version      1      6
+ 3.9125               premium      1      6
+ 3.9125            perception      1      6
+ 3.9125                 money      1      6
+ 3.9125             messaging      1      6
+ 3.9125               message      1      6
+ 3.9125             investors      1      6
+ 3.9125         international      1      6
+ 3.9125            innovators      1      6
+ 3.9125            increasing      1      6
+ 3.9125                guests      1      6
+ 3.9125                gather      1      6
+ 3.9125             footprint      1      6
+ 3.9125       experimentation      1      6
+ 3.9125             ethnicity      1      6
+ 3.9125                demand      1      6
+ 3.9125             confident      1      6
+ 3.9125                 Would      1      6
+ 3.9125                  Visa      1      6
+ 3.9125                    Sr      1      6
+ 3.9125              Sciences      1      6
+ 3.9125               Privacy      1      6
+ 3.9125              Multiple      1      6
+ 3.9125                Driven      1      6
+ 3.9125            Continuous      1      6
+ 3.9067                you're      3     10
+ 3.9067                sounds      3     10
+ 3.9067             recommend      3     10
+ 3.9067       characteristics      3     10
+ 3.9067               against      3     10
+ 3.9067                 adapt      3     10
+ 3.9067               Virtual      3     10
+ 3.9067              Interest      3     10
+ 3.8953                market      6     15
+ 3.8953                 leads      6     15
+ 3.8636                     ·     15     28
+ 3.8498                   was     22     11
+ 3.8498               minimum     22     11
+ 3.8498                     7     22     11
+ 3.8477             workplace      8     18
+ 3.8477                secure      8     18
+ 3.8477          continuously      8     18
+ 3.8477             attention      8     18
+ 3.7950              valuable      2      8
+ 3.7950                  tool      2      8
+ 3.7950                 solid      2      8
+ 3.7950                  name      2      8
+ 3.7950                  down      2      8
+ 3.7950                   add      2      8
+ 3.7950            accomplish      2      8
+ 3.7950               Success      2      8
+ 3.7950               Deliver      2      8
+ 3.7642             schedules     13      5
+ 3.7642            retirement     13      5
+ 3.7642              location     13      5
+ 3.7642             extensive     13      5
+ 3.7642                course     13      5
+ 3.7642          consistently     13      5
+ 3.7642              Maintain     13      5
+ 3.6805               between     35     21
+ 3.6776                  know     19     33
+ 3.6526              national     62     43
+ 3.6286           Information     11     22
+ 3.6285               overall     23     12
+ 3.6033             deadlines      5     13
+ 3.6033               clearly      5     13
+ 3.6033               because      5     13
+ 3.6033               Windows      5     13
+ 3.5550              delivery     70     50
+ 3.5521             motivated      9     19
+ 3.5329                  Your     20     34
+ 3.5143                  Join     17     30
+ 3.4680            resolution     11      4
+ 3.4680                 match     11      4
+ 3.4680                  hold     11      4
+ 3.4680               Orlando     11      4
+ 3.4680               Central     11      4
+ 3.4407                 serve     42     27
+ 3.4325         communication     79    105
+ 3.4054                    Of     17      8
+ 3.3726                 rules     14      6
+ 3.3726                Boston     14      6
+ 3.3467                record     43     28
+ 3.3272               succeed      4     11
+ 3.3272           fundamental      4     11
+ 3.3272                 fully      4     11
+ 3.3272               details      4     11
+ 3.2911                gender     38     56
+ 3.2895         interpersonal     29     17
+ 3.2349             direction     34     21
+ 3.2244            meaningful      8     17
+ 3.2117                speech      6     14
+ 3.2117                matter      6     14
+ 3.2117             abilities      6     14
+ 3.2003          relationship      9      3
+ 3.2003        professionally      9      3
+ 3.2003                 lines      9      3
+ 3.2003               explain      9      3
+ 3.2003                 close      9      3
+ 3.2003                   500      9      3
+ 3.1423               written     45     64
+ 3.1358              includes     40     26
+ 3.1086                    if     58     41
+ 3.0929               focused     20     33
+ 3.0796                  you!      3      9
+ 3.0796              priority      3      9
+ 3.0796                 pride      3      9
+ 3.0796                  kind      3      9
+ 3.0796        accommodations      3      9
+ 3.0582             interview     15      7
+ 3.0504               results     24     38
+ 3.0409             Navigator     12      5
+ 3.0409            Leadership     12      5
+ 3.0409               Control     12      5
+ 3.0360              requests     14     25
+ 3.0211            throughout     36     23
+ 2.9926                 waste      7      2
+ 2.9926                     s      7      2
+ 2.9926             rewarding      7      2
+ 2.9926           requirement      7      2
+ 2.9926              purposes      7      2
+ 2.9926                 keeps      7      2
+ 2.9926                  http      7      2
+ 2.9926              holistic      7      2
+ 2.9926                 entry      7      2
+ 2.9926            conducting      7      2
+ 2.9926                 below      7      2
+ 2.9926            autonomous      7      2
+ 2.9735               network     21     34
+ 2.9563              relevant     29     44
+ 2.9314              decision     19     10
+ 2.9249                   San     37     24
+ 2.9166              Advanced     23     13
+ 2.9002               website      5     12
+ 2.9002                 roles      5     12
+ 2.9002         contributions      5     12
+ 2.9002            accessible      5     12
+ 2.8973              oriented      7     15
+ 2.8920                     |      2      7
+ 2.8920             stability      2      7
+ 2.8920                 party      2      7
+ 2.8920               library      2      7
+ 2.8920            industries      2      7
+ 2.8920               example      2      7
+ 2.8920               choices      2      7
+ 2.8920               capable      2      7
+ 2.8920              adoption      2      7
+ 2.8920              Identify      2      7
+ 2.8920           Comfortable      2      7
+ 2.8859                  find     12     22
+ 2.8758                  This    143    117
+ 2.8437             available     56     40
+ 2.8118            excellence     33     21
+ 2.7997               monitor     16      8
+ 2.7997             immediate     16      8
+ 2.7997              develops     16      8
+ 2.7648                levels     24     14
+ 2.7645                 level     80     61
+ 2.7508                  here     39     26
+ 2.7504                  Good     10     19
+ 2.7426                 start     20     11
+ 2.7426                 human     20     11
+ 2.7426          discriminate     20     11
+ 2.7174               demands     10      4
+ 2.7174         Comprehensive     10      4
+ 2.7174          Additionally     10      4
+ 2.7142         professionals     34     22
+ 2.7118             long-term     13      6
+ 2.7118                  Most     13      6
+ 2.7022                  full     37     53
+ 2.6809               without     28     42
+ 2.6757                verbal     20     32
+ 2.6702            individual     46     32
+ 2.6435                    or    929   1010
+ 2.6389                  look      8     16
+ 2.6361                  meet     60     44
+ 2.6064                     2     47     33
+ 2.5968                player      4     10
+ 2.5968               legally      4     10
+ 2.5968                effort      4     10
+ 2.5833              teamwork     17      9
+ 2.5736               leading     25     38
+ 2.5219                vision     40     56
+ 2.5018         opportunities     88     69
+ 2.4497                 stock     14      7
+ 2.4427                  this    160    191
+ 2.4332                issues     50     36
+ 2.4225               respect      9     17
+ 2.4122           communities     32     21
+ 2.4089              relating      8      3
+ 2.4089                ranked      8      3
+ 2.4089             organized      8      3
+ 2.4089             mid-level      8      3
+ 2.4089                cannot      8      3
+ 2.4089              analyzes      8      3
+ 2.4089              accepted      8      3
+ 2.3936               through    123    101
+ 2.3668                weekly     11      5
+ 2.3668                volume     11      5
+ 2.3668               utilize     11      5
+ 2.3668              holidays     11      5
+ 2.3668                 Under     11      5
+ 2.3668            Applicants     11      5
+ 2.3546                  each     75     58
+ 2.3431                  also     69     89
+ 2.3248                   out     33     47
+ 2.3090                  keep      7     14
+ 2.3090           backgrounds      7     14
+ 2.3090                  Best      7     14
+ 2.3084                toward      3      8
+ 2.3084          institutions      3      8
+ 2.3084                  Name      3      8
+ 2.2936                   via     28     18
+ 2.2936             potential     28     18
+ 2.2462                  it’s      5     11
+ 2.2462             Technical      5     11
+ 2.2409          disabilities     19     11
+ 2.2409               English     19     11
+ 2.2384              consider     10     18
+ 2.2358          productivity     15      8
+ 2.2358               manages     15      8
+ 2.2009                offers     29     19
+ 2.1562             knowledge    118    143
+ 2.1335         team-oriented      6      2
+ 2.1335                  step      6      2
+ 2.1335               skills;      6      2
+ 2.1335              sciences      6      2
+ 2.1335               pushing      6      2
+ 2.1335            proficient      6      2
+ 2.1335               periods      6      2
+ 2.1335               failure      6      2
+ 2.1335               Possess      6      2
+ 2.1335               Phoenix      6      2
+ 2.1335                    NY      6      2
+ 2.1335              Michigan      6      2
+ 2.1335              Generous      6      2
+ 2.1062          Demonstrated     22     33
+ 2.1029                  upon     20     12
+ 2.0997                 given     12      6
+ 2.0997            concurrent     12      6
+ 2.0997                 abuse     12      6
+ 2.0991         collaborative     37     51
+ 2.0837             Francisco     25     16
+ 2.0827           performance     78     98
+ 2.0800         collaborating     11     19
+ 2.0577                 legal     16      9
+ 2.0531                 whole      2      6
+ 2.0531           traditional      2      6
+ 2.0531             strengths      2      6
+ 2.0531                stages      2      6
+ 2.0531             resolving      2      6
+ 2.0531              opinions      2      6
+ 2.0531             offerings      2      6
+ 2.0531                 movie      2      6
+ 2.0531           investments      2      6
+ 2.0531            incredible      2      6
+ 2.0531               exceeds      2      6
+ 2.0531              everyday      2      6
+ 2.0531            childbirth      2      6
+ 2.0531                 cause      2      6
+ 2.0531              capacity      2      6
+ 2.0531              anywhere      2      6
+ 2.0531             Principal      2      6
+ 2.0531               Designs      2      6
+ 2.0243                  uses      9      4
+ 2.0243             regularly      9      4
+ 2.0243                recent      9      4
+ 2.0243             operation      9      4
+ 2.0243          intellectual      9      4
+ 2.0243                cancer      9      4
+ 2.0243               America      9      4
+ 2.0243                     8      9      4
+ 2.0243                 401(k      9      4
+ 2.0012             committed     39     53
+ 1.9897                   One     26     17
+ 1.9817              approach     21     13
+ 1.9791                 often      6     12
+ 1.9791               joining      6     12
+ 1.9791                   bar      6     12
+ 1.9791                 allow      6     12
+ 1.9503                   not    125    105
+ 1.9303          requirements     76     95
+ 1.9237        transformation      4      9
+ 1.9237      state-of-the-art      4      9
+ 1.9237              sessions      4      9
+ 1.9237                facing      4      9
+ 1.9237             corporate      4      9
+ 1.9237               Whether      4      9
+ 1.9178                skills    241    275
+ 1.9169             encourage      9     16
+ 1.9169               enables      9     16
+ 1.8890                  talk     13      7
+ 1.8890              superior     13      7
+ 1.8890                Manage     13      7
+ 1.8795                   use     70     88
+ 1.8445                  from    264    299
+ 1.8353                please     34     24
+ 1.8262                 tasks     28     19
+ 1.7684                 helps      7     13
+ 1.7684                 class      7     13
+ 1.7662                 reach     10     17
+ 1.7662                having     10     17
+ 1.7498            completing     10      5
+ 1.7498              Northern     10      5
+ 1.7058           experienced     28     39
+ 1.6862              thorough      7      3
+ 1.6862                 stand      7      3
+ 1.6862                 since      7      3
+ 1.6862                places      7      3
+ 1.6862                  note      7      3
+ 1.6862             inventory      7      3
+ 1.6862              integral      7      3
+ 1.6862               follows      7      3
+ 1.6862                  deal      7      3
+ 1.6862             Standards      7      3
+ 1.6862             Financial      7      3
+ 1.6862           Eligibility      7      3
+ 1.6862             Currently      7      3
+ 1.6658             full-time     19     12
+ 1.6658                Social     19     12
+ 1.6658                Please     19     12
+ 1.6492          troubleshoot      5     10
+ 1.6492                reduce      5     10
+ 1.6492            initiative      5     10
+ 1.6492                 comes      5     10
+ 1.6492                    QA      5     10
+ 1.6492               Desired      5     10
+ 1.6370                 means     11     18
+ 1.6177                online     15     23
+ 1.6058                   eye      3      7
+ 1.6058               exhibit      3      7
+ 1.6058            encourages      3      7
+ 1.6058                  else      3      7
+ 1.6058               dollars      3      7
+ 1.6058           continually      3      7
+ 1.5977                  seek      8     14
+ 1.5977                expand      8     14
+ 1.5977          availability      8     14
+ 1.5771                before     15      9
+ 1.5716                  hire     32     23
+ 1.5434           Communicate     11      6
+ 1.5317                  live     16     24
+ 1.5317            efficiency     16     24
+ 1.5250                 makes     12     19
+ 1.5250                driven     12     19
+ 1.4810                  risk     21     14
+ 1.4687                change     33     44
+ 1.4583                 visit     16     10
+ 1.4583              involved     16     10
+ 1.4541              Employer     17     25
+ 1.4428                  side      6     11
+ 1.4428                 rapid      6     11
+ 1.4428                   put      6     11
+ 1.4428                 input      6     11
+ 1.4428           flexibility      6     11
+ 1.4428              criminal      6     11
+ 1.4428           citizenship      6     11
+ 1.4428                Sexual      6     11
+ 1.4428                  More      6     11
+ 1.4286                  over     34     45
+ 1.4226                 group     28     38
+ 1.3998             submitted      8      4
+ 1.3998                submit      8      4
+ 1.3998               serious      8      4
+ 1.3998               savings      8      4
+ 1.3998              judgment      8      4
+ 1.3998                 forms      8      4
+ 1.3998              concerns      8      4
+ 1.3998                answer      8      4
+ 1.3998                  Dell      8      4
+ 1.3998            Candidates      8      4
+ 1.3998                    20      8      4
+ 1.3888               Minimum     74     61
+ 1.3823                 vital     12      7
+ 1.3823        qualifications     12      7
+ 1.3823               applies     12      7
+ 1.3823                    10     12      7
+ 1.3724           responsible     87     73
+ 1.3569              coverage     17     11
+ 1.3402                  then     14     21
+ 1.3377                 there     10     16
+ 1.3377                robust     10     16
+ 1.3377         consideration     10     16
+ 1.3377         accommodation     10     16
+ 1.3260                 areas     44     56
+ 1.3194                   why      4      8
+ 1.3194                  span      4      8
+ 1.3194              seamless      4      8
+ 1.3194                 items      4      8
+ 1.3194             forefront      4      8
+ 1.3194                easier      4      8
+ 1.3194                 Bonus      4      8
+ 1.2817                mentor      7     12
+ 1.2817             marketing      7     12
+ 1.2699                 local     39     30
+ 1.2694                   U.S     18     12
+ 1.2694              Flexible     18     12
+ 1.2529                 takes     13      8
+ 1.2360                  your    215    241
+ 1.2252               variety     40     51
+ 1.2252                 Basic     40     51
+ 1.2063                   any     57     70
+ 1.1996                nature      9      5
+ 1.1996    multi-disciplinary      9      5
+ 1.1996                  Risk      9      5
+ 1.1617               reviews     28     37
+ 1.1524             teammates      8     13
+ 1.1524               desired      8     13
+ 1.1524                   Use      8     13
+ 1.1521                 range     34     26
+ 1.1521                  only     34     26
+ 1.1487          successfully     12     18
+ 1.1325                  than     65     54
+ 1.1319              feedback     17     24
+ 1.1265                 while     52     64
+ 1.1191             workflows      5      9
+ 1.1191             pregnancy      5      9
+ 1.1191                  Tech      5      9
+ 1.0753                hiring     28     21
+ 1.0723               partner     13     19
+ 1.0723               dynamic     13     19
+ 1.0578          demonstrated     15     10
+ 1.0578                    VA     15     10
+ 1.0514           partnership     10      6
+ 1.0514                  less     10      6
+ 1.0514                  city     10      6
+ 1.0514                   Top     10      6
+ 1.0514                 Meets     10      6
+ 1.0514             Candidate     10      6
+ 1.0498                 point      6      3
+ 1.0498               minimal      6      3
+ 1.0498              frequent      6      3
+ 1.0498               foreign      6      3
+ 1.0498                exceed      6      3
+ 1.0498            consulting      6      3
+ 1.0498                   Law      6      3
+ 1.0498                    ID      6      3
+ 1.0498                   Can      6      3
+ 1.0498                  Area      6      3
+ 1.0461            reasonable      9     14
+ 1.0311                 other    285    264
+ 1.0283              requires     25     33
+ 1.0258             efficient     38     30
+ 0.9912            principles     26     34
+ 0.9895                     w      3      6
+ 0.9895                team’s      3      6
+ 0.9895              previous      3      6
+ 0.9895          presentation      3      6
+ 0.9895              handling      3      6
+ 0.9895              familiar      3      6
+ 0.9895            connection      3      6
+ 0.9895                choice      3      6
+ 0.9895            associates      3      6
+ 0.9895                    MA      3      6
+ 0.9895                  Also      3      6
+ 0.9824               sources     16     11
+ 0.9824                 skill     16     11
+ 0.9824                  long     16     11
+ 0.9709                  term      6     10
+ 0.9709                supply      6     10
+ 0.9709                  free      6     10
+ 0.9709                   few      6     10
+ 0.9709             alongside      6     10
+ 0.9709            Proficient      6     10
+ 0.9709               Masters      6     10
+ 0.9656                member     51     42
+ 0.9573               willing     10     15
+ 0.9573           efficiently     10     15
+ 0.9573               balance     10     15
+ 0.9371                   Pay     11      7
+ 0.9371           Affirmative     11      7
+ 0.9345                 Equal     21     28
+ 0.9339                  good     32     25
+ 0.9046               general     33     26
+ 0.8921                regard     16     22
+ 0.8921              partners     16     22
+ 0.8818               leaders     11     16
+ 0.8591             typically      7      4
+ 0.8591                 event      7      4
+ 0.8591               educate      7      4
+ 0.8591               correct      7      4
+ 0.8591                 Prior      7      4
+ 0.8591               Account      7      4
+ 0.8591                Access      7      4
+ 0.8567              optimize      7     11
+ 0.8567               methods      7     11
+ 0.8567                     +      7     11
+ 0.8462                  same     12      8
+ 0.8462                 known     12      8
+ 0.8448                    If     69     81
+ 0.8170                become     12     17
+ 0.8010                   see     18     24
+ 0.7988               trusted      4      7
+ 0.7988         self-directed      4      7
+ 0.7988                  main      4      7
+ 0.7988                 happy      4      7
+ 0.7988             analyzing      4      7
+ 0.7988           affirmative      4      7
+ 0.7988                actual      4      7
+ 0.7988            Understand      4      7
+ 0.7988              Overview      4      7
+ 0.7988              Language      4      7
+ 0.7988                   How      4      7
+ 0.7883                access     33     41
+ 0.7837                    no     38     31
+ 0.7722           identifying     13      9
+ 0.7722                  form     13      9
+ 0.7722                    On     13      9
+ 0.7722                   EEO     13      9
+ 0.7680            integrated     20     15
+ 0.7658              exposure      8     12
+ 0.7548                 which     82     72
+ 0.7398                 their    169    187
+ 0.7291                 women      8      5
+ 0.7291                 sites      8      5
+ 0.7291                 newly      8      5
+ 0.7291                 homes      8      5
+ 0.7291                  Make      8      5
+ 0.7291                 Every      8      5
+ 0.7291           Demonstrate      8      5
+ 0.7258                     5     20     26
+ 0.7107            strategies     14     10
+ 0.7107               outside     14     10
+ 0.7107                 heart     14     10
+ 0.7107                  Code     14     10
+ 0.6942              supports     22     17
+ 0.6917                  made      9     13
+ 0.6853             Knowledge     71     82
+ 0.6838                   All     32     26
+ 0.6765           opportunity    114    128
+ 0.6688               updates      5      8
+ 0.6688                 trust      5      8
+ 0.6688              tracking      5      8
+ 0.6688             supported      5      8
+ 0.6688                  page      5      8
+ 0.6688               imaging      5      8
+ 0.6688                allows      5      8
+ 0.6688                  Open      5      8
+ 0.6675                   top     15     20
+ 0.6588                either     15     11
+ 0.6588              document     15     11
+ 0.6436               veteran     34     28
+ 0.6431                  well     89    101
+ 0.6346                theory      9      6
+ 0.6346                  sets      9      6
+ 0.6346             recognize      9      6
+ 0.6346              numerous      9      6
+ 0.6346                 guide      9      6
+ 0.6346                chance      9      6
+ 0.6346              advocate      9      6
+ 0.6346               Network      9      6
+ 0.6342                  very     24     19
+ 0.6285                   law     16     21
+ 0.6285                groups     16     21
+ 0.5936                handle     17     22
+ 0.5890                   day     68     78
+ 0.5853                 right     25     31
+ 0.5850             including    197    184
+ 0.5790                    be    428    455
+ 0.5760            performing     17     13
+ 0.5760            difference     17     13
+ 0.5760                 among     17     13
+ 0.5743               markets      6      9
+ 0.5743                  load      6      9
+ 0.5743                 While      6      9
+ 0.5690             financial     35     42
+ 0.5622             improving     18     23
+ 0.5427                  Will     28     23
+ 0.5340              interest     12     16
+ 0.5336               Company     19     24
+ 0.5232                others     58     51
+ 0.5128               efforts     19     15
+ 0.5064                resume     11      8
+ 0.5064              protocol     11      8
+ 0.5064               matters     11      8
+ 0.5064                events     11      8
+ 0.5025              vacation      7     10
+ 0.5025                  gain      7     10
+ 0.4910                 being     31     26
+ 0.4866              standard     20     16
+ 0.4816                Skills     46     40
+ 0.4749                   but     54     62
+ 0.4631               marital     21     17
+ 0.4608              purchase     12      9
+ 0.4608             integrity     12      9
+ 0.4421           participate     23     28
+ 0.4287                  race     34     40
+ 0.4232                  read     13     10
+ 0.4231                 train      6      4
+ 0.4231                 raise      6      4
+ 0.4231             listening      6      4
+ 0.4231            frequently      6      4
+ 0.4231             cognitive      6      4
+ 0.4231        classification      6      4
+ 0.4231                 carry      6      4
+ 0.4231                blocks      6      4
+ 0.4231                  Free      6      4
+ 0.4005            supportive      9     12
+ 0.4005                  oral      9     12
+ 0.4005                formal      9     12
+ 0.4005              detailed      9     12
+ 0.3917                 These     14     11
+ 0.3829              veterans      4      6
+ 0.3829                  task      4      6
+ 0.3829                 speak      4      6
+ 0.3829             ourselves      4      6
+ 0.3829              military      4      6
+ 0.3829                   low      4      6
+ 0.3829           implemented      4      6
+ 0.3829              generous      4      6
+ 0.3829             component      4      6
+ 0.3829             clearance      4      6
+ 0.3829             beginning      4      6
+ 0.3829              becoming      4      6
+ 0.3829             Providing      4      6
+ 0.3829                  News      4      6
+ 0.3829               Looking      4      6
+ 0.3629            prioritize     10     13
+ 0.3619           Description     27     23
+ 0.3615              directly     18     22
+ 0.3553               whether      7      5
+ 0.3553              rotation      7      5
+ 0.3553          partnerships      7      5
+ 0.3553                 month      7      5
+ 0.3553            competence      7      5
+ 0.3553              behavior      7      5
+ 0.3553                 There      7      5
+ 0.3553                 Stock      7      5
+ 0.3553             Companies      7      5
+ 0.3539         collaboration     44     39
+ 0.3487                 tests     29     34
+ 0.3314                Vision     11     14
+ 0.3277                 those     30     26
+ 0.3277           operational     30     26
+ 0.3151               several      5      7
+ 0.3151              reflects      5      7
+ 0.3151               ranging      5      7
+ 0.3151               protect      5      7
+ 0.3151                  owns      5      7
+ 0.3151               offices      5      7
+ 0.3151               journey      5      7
+ 0.3151                 gives      5      7
+ 0.3151         authorization      5      7
+ 0.3151             Solutions      5      7
+ 0.3151            Operations      5      7
+ 0.3142                   And     32     37
+ 0.3072                 weeks      8      6
+ 0.3072                  self      8      6
+ 0.3072          personalized      8      6
+ 0.3072                  It’s      8      6
+ 0.3040                     –     33     38
+ 0.2817                 based     86     80
+ 0.2815                 clean     13     16
+ 0.2815                 after     13     16
+ 0.2815                 place     23     27
+ 0.2747                expert     20     17
+ 0.2712            Successful      9      7
+ 0.2700              research     52     58
+ 0.2670               welcome      6      8
+ 0.2670           statistical      6      8
+ 0.2670          specifically      6      8
+ 0.2670            recruiting      6      8
+ 0.2670                  does      6      8
+ 0.2670           combination      6      8
+ 0.2670              autonomy      6      8
+ 0.2670            associated      6      8
+ 0.2670               applied      6      8
+ 0.2670                  100%      6      8
+ 0.2614                   Inc     14     17
+ 0.2433                trends     10      8
+ 0.2433        transportation     10      8
+ 0.2376            operations     43     39
+ 0.2310                  send      7      9
+ 0.2310            engagement      7      9
+ 0.2310              bringing      7      9
+ 0.2310              attitude      7      9
+ 0.2310                 array      7      9
+ 0.2310                  Note      7      9
+ 0.2282           Participate     16     19
+ 0.2183                   and   5659   5765
+ 0.2030             beautiful      8     10
+ 0.2030              accuracy      8     10
+ 0.2028               genetic     12     10
+ 0.2019            successful     18     21
+ 0.1876             selection     13     11
+ 0.1840                origin     34     38
+ 0.1807                years’      9     11
+ 0.1807                 sales      9     11
+ 0.1794                values     32     29
+ 0.1794           maintaining     32     29
+ 0.1794               clients     32     29
+ 0.1748               subject     14     12
+ 0.1748               serving     14     12
+ 0.1748                   off     14     12
+ 0.1625              expected     10     12
+ 0.1543       recommendations     16     14
+ 0.1543                Action     16     14
+ 0.1474               Fortune     11     13
+ 0.1460               aspects     17     15
+ 0.1387             reporting     18     16
+ 0.1350                leader     26     29
+ 0.1236            preferably     13     15
+ 0.1236            Disability     13     15
+ 0.1199                   has    110    106
+ 0.1165                  paid     22     20
+ 0.1165               enhance     22     20
+ 0.1122            consistent     23     21
+ 0.1108                    up     52     56
+ 0.1058                  goal     15     17
+ 0.1047                  With     25     23
+ 0.1014             workforce      6      5
+ 0.1014                  size      6      5
+ 0.1014                 react      6      5
+ 0.1014               founded      6      5
+ 0.1014             continues      6      5
+ 0.1014              constant      6      5
+ 0.1014             applicant      6      5
+ 0.1014               already      6      5
+ 0.1014             Qualified      6      5
+ 0.1014                   Not      6      5
+ 0.0985              religion     34     37
+ 0.0985              employer     34     37
+ 0.0887                sexual     37     40
+ 0.0879               support    124    130
+ 0.0874                  last      7      6
+ 0.0874                expect      7      6
+ 0.0874                    25      7      6
+ 0.0862               receive     18     20
+ 0.0813                 truly      5      6
+ 0.0813             structure      5      6
+ 0.0813           methodology      5      6
+ 0.0813                invest      5      6
+ 0.0813            encouraged      5      6
+ 0.0772                  sure      8      7
+ 0.0772                 short      8      7
+ 0.0772              increase      8      7
+ 0.0772               greater      8      7
+ 0.0772                   due      8      7
+ 0.0772                    Is      8      7
+ 0.0762           significant     20     22
+ 0.0734               control     40     38
+ 0.0720              possible     21     23
+ 0.0720              Security     21     23
+ 0.0693                  five      9      8
+ 0.0693                  back      9      8
+ 0.0693              actively      9      8
+ 0.0673                sports      6      7
+ 0.0673            especially      6      7
+ 0.0673            dedication      6      7
+ 0.0645           communicate     23     25
+ 0.0632                shared     10      9
+ 0.0632           recognition     10      9
+ 0.0632                 https     10      9
+ 0.0632               Through     10      9
+ 0.0632               Include     10      9
+ 0.0632                  High     10      9
+ 0.0632             Corporate     10      9
+ 0.0582                taking     11     10
+ 0.0582              offering     11     10
+ 0.0582               careers     11     10
+ 0.0582                manage     25     27
+ 0.0570                 terms      7      8
+ 0.0570           proactively      7      8
+ 0.0570              Managers      7      8
+ 0.0570           Corporation      7      8
+ 0.0541             delivered     12     11
+ 0.0541               advance     12     11
+ 0.0541             Bachelors     12     11
+ 0.0528                  Full     27     29
+ 0.0524        implementation     55     58
+ 0.0507                   let     13     12
+ 0.0492           willingness      8      9
+ 0.0492                 clear      8      9
+ 0.0492                 Great      8      9
+ 0.0484                     A     84     82
+ 0.0481                client     29     31
+ 0.0478                  give     14     13
+ 0.0412                  wide     17     16
+ 0.0397                    is    793    809
+ 0.0381                 hands     10     11
+ 0.0381                  cost     10     11
+ 0.0367         organizations     20     19
+ 0.0367           maintenance     20     19
+ 0.0358                making     36     38
+ 0.0340             strategic     11     12
+ 0.0340               resolve     11     12
+ 0.0340              guidance     11     12
+ 0.0340                   100     11     12
+ 0.0334              external     23     22
+ 0.0334             diversity     23     22
+ 0.0325       collaboratively     24     23
+ 0.0306                strive     12     13
+ 0.0306                number     12     13
+ 0.0306              designed     12     13
+ 0.0303           Opportunity     27     26
+ 0.0280                 first     31     30
+ 0.0277           proficiency     13     14
+ 0.0277                     4     13     14
+ 0.0266                 apply     44     46
+ 0.0219             following     56     55
+ 0.0121                     &    124    127
+ 0.0116         independently     24     25
+ 0.0102                 would     26     27
+ 0.0084            candidates     29     30
+ 0.0055            applicants     36     37
+ 0.0052                    To     37     38
+ 0.0043                 equal     40     41
+ 0.0031            disability     61     61
+ 0.0024               seeking     48     48
+ 0.0024                   its     47     47
+ 0.0019                 color     37     37
+ 0.0014             qualified     28     28
+ 0.0014          organization     59     60
+ 0.0011              flexible     21     21
+ 0.0010           initiatives     20     20
+ 0.0010                active     20     20
+ 0.0009              critical     65     66
+ 0.0008            priorities     16     16
+ 0.0007        communications     14     14
+ 0.0007                 along     14     14
+ 0.0007           achievement     14     14
+ 0.0007              Master’s     14     14
+ 0.0006                 today     12     12
+ 0.0005                 sound     10     10
+ 0.0005                  hear      9      9
+ 0.0005               further      9      9
+ 0.0005             difficult      9      9
+ 0.0005               creates      9      9
+ 0.0005         communicating      9      9
+ 0.0004                higher      8      8
+ 0.0004            government      8      8
+ 0.0004               address      8      8
+ 0.0004                giving      7      7
+ 0.0004                   fit      7      7
+ 0.0004                 early      7      7
+ 0.0004                 Suite      7      7
+ 0.0004                  Here      7      7
+ 0.0004                 First      7      7
+ 0.0003                result      6      6
+ 0.0003                  ones      6      6
+ 0.0003                inside      6      6
+ 0.0003               capital      6      6
+ 0.0003            bachelor's      6      6
+ 0.0003             Operating      6      6
+ 0.0003                  Need      6      6
+ 0.0003                Highly      6      6
+ 0.0003              services    259    262
+ 0.0002                    In     80     81
+ 0.0000               ability    105    106
